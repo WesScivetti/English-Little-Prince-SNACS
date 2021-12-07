@@ -492,7 +492,7 @@
 
 # sent_id = lpp_1943.25
 # text = In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence .
-1	In	in	ADP	IN	_	3	case	_	_	1:1	_	in	p.Time	p.Time	_	_	_	_
+1	In	in	ADP	IN	_	3	case	_	_	1:1	_	in the course of	p.Time	p.Time	_	_	_	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	1:2	_	_	_	_	_	_	_	_
 3	course	course	NOUN	NN	Number=Sing	9	nmod	_	_	1:3	_	_	_	_	_	_	_	_
 4	of	of	ADP	IN	_	6	case	_	_	1:4	_	of	p.Gestalt	p.Gestalt	_	_	_	_
