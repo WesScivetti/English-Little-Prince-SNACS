@@ -256,8 +256,8 @@
 19	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	_	_	_	_	_	_	_	_	_	_
 20	drew	draw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	parataxis	_	_	_	_	_	_	_	_	_	_	_
 21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	_	_	_	_	_	_	_	_	_	_
-22	inside	inside	NOUN	NN	Number=Sing	20	dobj	_	_	1:1	_	_	_	_	_	_	_	_
-23	of	of	ADP	IN	_	26	case	_	_	1:2	_	of	p.Whole	p.Whole	_	_	_	_
+22	inside	inside	NOUN	NN	Number=Sing	20	dobj	_	_	1:1	_	inside of	p.Whole	p.Whole	_	_	_	_
+23	of	of	ADP	IN	_	26	case	_	_	1:2	_	_	_	_	_	_	_	_
 24	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	_	_	_	_	_	_	_	_	_	_
 25	boa	boa	NOUN	NN	Number=Sing	26	compound	_	_	_	_	_	_	_	_	_	_	_
 26	constrictor	constrictor	NOUN	NN	Number=Sing	22	nmod	_	_	_	_	_	_	_	_	_	_	_
@@ -572,8 +572,8 @@
 8	seemed	seem	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_	_	_	_	_	_	_	_	_	_
 9	to	to	ADP	TO	_	10	case	_	_	_	_	to	p.Experiencer	p.Goal	_	_	_	_
 10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_	_	_	_	_	_	_	_	_	_
-11	at	at	ADP	IN	_	13	case	_	_	1:1	_	_	_	_	_	_	_	_
-12	all	all	DET	DT	_	13	det	_	_	1:2	_	all at	p.Extent	p.Extent	_	_	_	_
+11	at	at	ADP	IN	_	13	case	_	_	1:1	_	at all	p.Extent	p.Extent	_	_	_	_
+12	all	all	DET	DT	_	13	det	_	_	1:2	_	_	_	_	_	_	_	_
 13	clear	clear	ADJ	JJ	Degree=Pos	8	advcl	_	_	_	_	_	_	_	_	_	_	_
 14	-	-	PUNCT	:	_	13	punct	_	_	_	_	_	_	_	_	_	_	_
 15	sighted	sight	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	dep	_	_	_	_	_	_	_	_	_	_	_
