@@ -1,11 +1,14 @@
 # sent_id = lpp_1943.1206
 # mwe = Chapter 23 .
+# newdoc id = lpp_1943_en_ch-23
+# doc_id = lpp_1943_en_ch-23
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	23	23	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	23	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.1207
 # mwe = " Good morning , " said the little prince .
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -19,6 +22,7 @@
 
 # sent_id = lpp_1943.1208
 # mwe = " Good morning , " said the merchant .
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -31,6 +35,7 @@
 
 # sent_id = lpp_1943.1209
 # mwe = This was a merchant who sold pills that had been invented to quench thirst .
+# doc_id = lpp_1943_en_ch-23
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -49,6 +54,7 @@
 
 # sent_id = lpp_1943.1210
 # mwe = You need only swallow one pill a week , and you would feel no need of anything to drink .
+# doc_id = lpp_1943_en_ch-23
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	need	_	_	_	_	_	O-V
 3	only	only	ADV	RB	_	4	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
@@ -72,6 +78,7 @@
 
 # sent_id = lpp_1943.1211
 # mwe = " Why are you selling those ? " asked the little prince .
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -88,6 +95,7 @@
 
 # sent_id = lpp_1943.1212
 # mwe = " Because they save a tremendous amount of time , " said the merchant .
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Because	because	SCONJ	IN	_	4	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -106,6 +114,7 @@
 
 # sent_id = lpp_1943.1213
 # mwe = " Computations have been made by experts .
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Computations	computation	NOUN	NNS	Number=Plur	5	nsubj:pass	_	_	_	N	computation	_	_	_	_	_	O-N
 3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -117,6 +126,7 @@
 
 # sent_id = lpp_1943.1214
 # mwe = With these pills , you save fifty - three minutes in every week . "
+# doc_id = lpp_1943_en_ch-23
 # 0_ERROR = Tokens [11]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [11]}
 1	With	with	ADP	IN	_	3	case	_	_	_	P	with	p.Instrument	p.Instrument	_	_	_	O-P-p.Instrument
 2	these	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	_	_	DET	this	_	_	_	_	_	O-DET
@@ -136,6 +146,7 @@
 
 # sent_id = lpp_1943.1215
 # mwe = " And what do I do with those fifty - three minutes ? "
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	what	what	PRON	WP	PronType=Int	6	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -153,6 +164,7 @@
 
 # sent_id = lpp_1943.1216
 # mwe = " Anything you like ... "
+# doc_id = lpp_1943_en_ch-23
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Anything	anything	NOUN	NN	Number=Sing	0	root	_	_	_	N	anything	_	_	_	_	_	O-N
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -162,6 +174,7 @@
 
 # sent_id = lpp_1943.1217
 # mwe = " As for me , " said the little prince to himself , " if I had fifty - three minutes to spend as I liked , I should walk at my leisure toward a spring of fresh water . "
+# doc_id = lpp_1943_en_ch-23
 # 0_ERROR = Tokens [3]: Missing supersense annotation in lexical entry: {'lexlemma': 'for', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [3]}
 # 1_ERROR = Tokens [37]: Found an ss2 not prefixed with p. when ss was prefixed with p.
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT

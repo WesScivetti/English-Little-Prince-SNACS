@@ -205,6 +205,7 @@ def combine_blanked():
 
 def enrich():
     for i in range(1, 28):
+        doc_id = f"lpp_1943_en_ch-{str(i).zfill(2)}"
         if i in [1, 4, 5]:
             continue
         out_path = f"enriched/lpp_{i}_ADJ.conllulex"
@@ -235,7 +236,12 @@ def enrich():
 
         sentences = read_conllulex(out_path)
         s_out = ""
-        for sentence in sentences:
+        for sent_num, sentence in enumerate(sentences):
+            # add doc id info
+            if sent_num == 0:
+                sentence.metadata["newdoc id"] = doc_id
+            sentence.metadata["doc_id"] = doc_id
+
             for j, error in enumerate(edict[sentence.metadata["sent_id"]]):
                 if error["token"]:
                     try:

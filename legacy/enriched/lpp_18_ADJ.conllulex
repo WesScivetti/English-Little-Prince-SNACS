@@ -1,11 +1,14 @@
 # sent_id = lpp_1943.991
 # mwe = Chapter 18 .
+# newdoc id = lpp_1943_en_ch-18
+# doc_id = lpp_1943_en_ch-18
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	18	18	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	18	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.992
 # mwe = The little prince crossed the desert and met with only one flower .
+# doc_id = lpp_1943_en_ch-18
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -22,6 +25,7 @@
 
 # sent_id = lpp_1943.993
 # mwe = It was a flower with three petals , a flower of no account at all .
+# doc_id = lpp_1943_en_ch-18
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -41,6 +45,7 @@
 
 # sent_id = lpp_1943.994
 # mwe = " Good morning , " said the little prince .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -54,6 +59,7 @@
 
 # sent_id = lpp_1943.995
 # mwe = " Good morning , " said the flower .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -66,6 +72,7 @@
 
 # sent_id = lpp_1943.996
 # mwe = " Where are the men ? " the little prince asked , politely .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Where	where	ADV	WRB	PronType=Int	11	ccomp	_	_	_	ADV	where	_	_	_	_	_	O-ADV
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -83,6 +90,7 @@
 
 # sent_id = lpp_1943.997
 # mwe = The flower had once seen a caravan passing .
+# doc_id = lpp_1943_en_ch-18
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	flower	flower	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
 3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -95,6 +103,7 @@
 
 # sent_id = lpp_1943.998
 # mwe = " Men ? " she echoed .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Men	man	NOUN	NNS	Number=Plur	6	ccomp	_	_	_	N	man	_	_	_	_	_	O-N
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -105,6 +114,7 @@
 
 # sent_id = lpp_1943.999
 # mwe = " I think there are six or seven of them in existence .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	think	_	_	_	_	_	O-V
@@ -121,6 +131,7 @@
 
 # sent_id = lpp_1943.1000
 # mwe = I saw them , several years ago .
+# doc_id = lpp_1943_en_ch-18
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	see	_	_	_	_	_	O-V
 3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -132,6 +143,7 @@
 
 # sent_id = lpp_1943.1001
 # mwe = But one never knows where to find them .
+# doc_id = lpp_1943_en_ch-18
 1	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	one	one	PRON	PRP	_	4	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
@@ -144,6 +156,7 @@
 
 # sent_id = lpp_1943.1002
 # mwe = The wind blows them away .
+# doc_id = lpp_1943_en_ch-18
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	wind	wind	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	wind	_	_	_	_	_	O-N
 3	blows	blow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	blow	_	_	_	_	_	O-V
@@ -153,6 +166,7 @@
 
 # sent_id = lpp_1943.1003
 # mwe = They have no roots , and that makes their life very difficult . "
+# doc_id = lpp_1943_en_ch-18
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	no	no	DET	DT	_	4	det	_	_	_	DET	no	_	_	_	_	_	O-DET
@@ -170,6 +184,7 @@
 
 # sent_id = lpp_1943.1004
 # mwe = " Goodbye , " said the little prince .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	5	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -182,6 +197,7 @@
 
 # sent_id = lpp_1943.1005
 # mwe = " Goodbye , " said the flower .
+# doc_id = lpp_1943_en_ch-18
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	5	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT

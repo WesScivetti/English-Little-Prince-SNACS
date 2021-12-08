@@ -1,11 +1,14 @@
 # sent_id = lpp_1943.103
 # mwe = Chapter 3 .
+# newdoc id = lpp_1943_en_ch-03
+# doc_id = lpp_1943_en_ch-03
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	3	3	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	3	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.104
 # mwe = It took me a long time to learn where he came from .
+# doc_id = lpp_1943_en_ch-03
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	take	_	_	_	_	_	O-V
 3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -22,6 +25,7 @@
 
 # sent_id = lpp_1943.105
 # mwe = The little prince , who asked me so many questions , never seemed to hear the ones I asked him .
+# doc_id = lpp_1943_en_ch-03
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	13	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -46,6 +50,7 @@
 
 # sent_id = lpp_1943.106
 # mwe = It was from words dropped by chance that , little by little , everything was revealed to me .
+# doc_id = lpp_1943_en_ch-03
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	from	from	ADP	IN	_	4	case	_	_	_	P	from	p.Source	p.Source	_	_	_	O-P-p.Source
@@ -68,6 +73,7 @@
 
 # sent_id = lpp_1943.107
 # mwe = The first time he saw my airplane , for instance ( I shall not draw my airplane ; that would be much too complicated for me ) , he asked me : " What is that object ? "
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [9]: Missing supersense annotation in lexical entry: {'lexlemma': 'for', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [9]}
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	first	_	_	_	_	_	O-ADJ
@@ -111,6 +117,7 @@
 
 # sent_id = lpp_1943.108
 # mwe = " That is not an object .
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -121,12 +128,14 @@
 
 # sent_id = lpp_1943.109
 # mwe = It flies .
+# doc_id = lpp_1943_en_ch-03
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	flies	fly	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	fly	_	_	_	_	_	O-V
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.110
 # mwe = It is an airplane .
+# doc_id = lpp_1943_en_ch-03
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -135,6 +144,7 @@
 
 # sent_id = lpp_1943.111
 # mwe = It is my airplane . "
+# doc_id = lpp_1943_en_ch-03
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
@@ -144,6 +154,7 @@
 
 # sent_id = lpp_1943.112
 # mwe = And I was proud to have him learn that I could fly .
+# doc_id = lpp_1943_en_ch-03
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -160,6 +171,7 @@
 
 # sent_id = lpp_1943.113
 # mwe = He cried out , then : " What !
+# doc_id = lpp_1943_en_ch-03
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	cried	cry	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	cry	_	_	_	_	_	O-V
 3	out	out	ADP	RP	_	2	compound:prt	_	_	_	P	out	p.Direction	p.Direction	_	_	_	O-P-p.Direction
@@ -172,6 +184,7 @@
 
 # sent_id = lpp_1943.114
 # mwe = You dropped down from the sky ? "
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [3]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [3]}
 1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	dropped	drop	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	drop	_	_	_	_	_	O-V
@@ -184,6 +197,7 @@
 
 # sent_id = lpp_1943.115
 # mwe = " Yes , "
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Yes	yes	INTJ	UH	_	0	root	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -191,6 +205,7 @@
 
 # sent_id = lpp_1943.116
 # mwe = I answered , modestly .
+# doc_id = lpp_1943_en_ch-03
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	answered	answer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	answer	_	_	_	_	_	O-V
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -199,12 +214,14 @@
 
 # sent_id = lpp_1943.117
 # mwe = " Oh !
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Oh	oh	INTJ	UH	_	0	root	_	_	_	INTJ	oh	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.118
 # mwe = That is funny ! "
+# doc_id = lpp_1943_en_ch-03
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	funny	funny	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	funny	_	_	_	_	_	O-ADJ
@@ -213,6 +230,7 @@
 
 # sent_id = lpp_1943.119
 # mwe = And the little prince broke into a lovely peal of laughter , which irritated me very much .
+# doc_id = lpp_1943_en_ch-03
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -234,6 +252,7 @@
 
 # sent_id = lpp_1943.120
 # mwe = I like my misfortunes to be taken seriously .
+# doc_id = lpp_1943_en_ch-03
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	like	_	_	_	_	_	O-V
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
@@ -246,6 +265,7 @@
 
 # sent_id = lpp_1943.121
 # mwe = Then he added : " So you , too , come from the sky !
+# doc_id = lpp_1943_en_ch-03
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	added	add	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	add	_	_	_	_	_	O-V
@@ -264,6 +284,7 @@
 
 # sent_id = lpp_1943.122
 # mwe = Which is your planet ? "
+# doc_id = lpp_1943_en_ch-03
 1	Which	which	PRON	WDT	PronType=Int	4	nsubj	_	_	_	PRON	which	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	you	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
@@ -273,6 +294,7 @@
 
 # sent_id = lpp_1943.123
 # mwe = At that moment I caught a gleam of light in the impenetrable mystery of his presence ; and I demanded , abruptly : " Do you come from another planet ? "
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [1]: Missing supersense annotation in lexical entry: {'lexlemma': 'at', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [1]}
 1	At	at	ADP	IN	_	3	case	_	_	_	P	at	_	_	_	_	_	O-P
 2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	that	_	_	_	_	_	O-DET
@@ -309,6 +331,7 @@
 
 # sent_id = lpp_1943.124
 # mwe = But he did not reply .
+# doc_id = lpp_1943_en_ch-03
 1	But	but	CCONJ	CC	_	5	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -318,6 +341,7 @@
 
 # sent_id = lpp_1943.125
 # mwe = He tossed his head gently , without taking his eyes from my plane : " It is true that on that you can n't have come from very far away ... "
+# doc_id = lpp_1943_en_ch-03
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	tossed	toss	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	toss	_	_	_	_	_	O-V
 3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	he	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
@@ -353,6 +377,7 @@
 
 # sent_id = lpp_1943.126
 # mwe = And he sank into a reverie , which lasted a long time .
+# doc_id = lpp_1943_en_ch-03
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	sank	sink	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	sink	_	_	_	_	_	O-V
@@ -369,6 +394,7 @@
 
 # sent_id = lpp_1943.127
 # mwe = Then , taking my sheep out of his pocket , he buried himself in the contemplation of his treasure .
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [7]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [7]}
 1	Then	then	ADV	RB	PronType=Dem	12	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	12	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -393,6 +419,7 @@
 
 # sent_id = lpp_1943.128
 # mwe = You can imagine how my curiosity was aroused by this half - confidence about the " other planets . "
+# doc_id = lpp_1943_en_ch-03
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	imagine	imagine	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	imagine	_	_	_	_	_	O-V
@@ -416,6 +443,7 @@
 
 # sent_id = lpp_1943.129
 # mwe = I made a great effort , therefore , to find out more on this subject .
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [11]: Missing supersense annotation in lexical entry: {'lexlemma': 'out', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [11]}
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	make	_	_	_	_	_	O-V
@@ -436,6 +464,7 @@
 
 # sent_id = lpp_1943.130
 # mwe = " My little man , where do you come from ?
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -450,6 +479,7 @@
 
 # sent_id = lpp_1943.131
 # mwe = What is this ' where I live , ' of which you speak ?
+# doc_id = lpp_1943_en_ch-03
 1	What	what	PRON	WP	PronType=Int	0	root	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	this	this	PRON	DT	Number=Sing|PronType=Dem	1	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
@@ -467,6 +497,7 @@
 
 # sent_id = lpp_1943.132
 # mwe = Where do you want to take your sheep ? "
+# doc_id = lpp_1943_en_ch-03
 1	Where	where	ADV	WRB	PronType=Int	4	advmod	_	_	_	ADV	where	_	_	_	_	_	O-ADV
 2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -480,6 +511,7 @@
 
 # sent_id = lpp_1943.133
 # mwe = After a reflective silence he answered : " The thing that is so good about the box you have given me is that at night he can use it as his house . "
+# doc_id = lpp_1943_en_ch-03
 1	After	after	ADP	IN	_	4	case	_	_	_	P	after	p.Time	p.Time	_	_	_	O-P-p.Time
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	reflective	reflective	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	reflective	_	_	_	_	_	O-ADJ
@@ -517,6 +549,7 @@
 
 # sent_id = lpp_1943.134
 # mwe = " That is so .
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -525,6 +558,7 @@
 
 # sent_id = lpp_1943.135
 # mwe = And if you are good I will give you a string , too , so that you can tie him during the day , and a post to tie him to . "
+# doc_id = lpp_1943_en_ch-03
 1	And	and	CCONJ	CC	_	8	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	if	if	SCONJ	IN	_	5	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -561,6 +595,7 @@
 
 # sent_id = lpp_1943.136
 # mwe = But the little prince seemed shocked by this offer : " Tie him !
+# doc_id = lpp_1943_en_ch-03
 1	But	but	CCONJ	CC	_	5	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -578,6 +613,7 @@
 
 # sent_id = lpp_1943.137
 # mwe = What a queer idea ! "
+# doc_id = lpp_1943_en_ch-03
 1	What	what	PRON	WP	PronType=Int	4	det:predet	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	queer	queer	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	queer	_	_	_	_	_	O-ADJ
@@ -587,6 +623,7 @@
 
 # sent_id = lpp_1943.138
 # mwe = " But if you do n't tie him , "
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	if	if	SCONJ	IN	_	7	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
@@ -600,6 +637,7 @@
 
 # sent_id = lpp_1943.139
 # mwe = I said , " he will wander off somewhere , and get lost . "
+# doc_id = lpp_1943_en_ch-03
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 3	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -618,6 +656,7 @@
 
 # sent_id = lpp_1943.140
 # mwe = My friend broke into another peal of laughter : " But where do you think he would go ? "
+# doc_id = lpp_1943_en_ch-03
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_	_	PRON.POSS	my	p.SocialRel	p.Gestalt	_	_	_	O-PRON.POSS-p.SocialRel|p.Gestalt
 2	friend	friend	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	friend	_	_	_	_	_	O-N
 3	broke	break	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	break	_	_	_	_	_	O-V
@@ -641,12 +680,14 @@
 
 # sent_id = lpp_1943.141
 # mwe = " Anywhere .
+# doc_id = lpp_1943_en_ch-03
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Anywhere	anywhere	ADV	RB	_	0	root	_	_	_	ADV	anywhere	_	_	_	_	_	O-ADV
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.142
 # mwe = Straight ahead of him . "
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [3]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [3]}
 1	Straight	straight	ADV	RB	_	2	advmod	_	_	_	ADV	straight	_	_	_	_	_	O-ADV
 2	ahead	ahead	ADV	RB	Degree=Pos	0	root	_	_	_	ADV	ahead	_	_	_	_	_	O-ADV
@@ -657,6 +698,7 @@
 
 # sent_id = lpp_1943.143
 # mwe = Then the little prince said , earnestly : " That does n't matter .
+# doc_id = lpp_1943_en_ch-03
 1	Then	then	ADV	RB	PronType=Dem	5	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -674,6 +716,7 @@
 
 # sent_id = lpp_1943.144
 # mwe = Where I live , everything is so small ! "
+# doc_id = lpp_1943_en_ch-03
 1	Where	where	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	where	_	_	_	_	_	O-SCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	_	_	V	live	_	_	_	_	_	O-V
@@ -687,6 +730,7 @@
 
 # sent_id = lpp_1943.145
 # mwe = And , with perhaps a hint of sadness , he added : " Straight ahead of him , nobody can go very far ... "
+# doc_id = lpp_1943_en_ch-03
 # 0_ERROR = Tokens [16]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [16]}
 1	And	and	CCONJ	CC	_	11	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
