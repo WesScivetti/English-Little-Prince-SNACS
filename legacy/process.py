@@ -5,6 +5,7 @@ other chapters and produce conllulex for all of them
 from glob import glob
 from pprint import pprint
 import conllu
+import conllulex.main as clx
 
 def read_conllulex(conllulex_path):
     """
@@ -149,7 +150,7 @@ def format_tsv(path):
                     s += fmt(
                         id=token["id"],
                         form=token["form"],
-                        smwe=f"{mwe_counter}:{mwe_position}",
+                        smwe=f"{mwe_counter}:{mwe_position + 1}",
                         lexlemma="_" if mwe_position == 0 else "_",
                         ss=token["ss"] if mwe_position == 0 else "_",
                         ss2=token["ss2"] if mwe_position == 0 else "_"
@@ -203,8 +204,17 @@ def combine_blanked():
                 f1.write(f2.read())
 
 
+def enrich():
+    for i in range(1, 28):
+        if i in [1, 4, 5]:
+            continue
+        out_path = f'enriched/lpp_{i}_ADJ.conllulex'
+        clx.enrich.callback(f'blanked/lpp_{i}_ADJ.conllulex', f'enriched/lpp_{i}_ADJ.conllulex', 'prince_en', None)
+
+
 def main():
     combine_blanked()
+    enrich()
 
 
 if __name__ == '__main__':
