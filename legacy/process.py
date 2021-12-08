@@ -124,7 +124,7 @@ def format_tsv(path):
     sentences = find_sentences(parse_tsv(path))
     mwe_indices = find_mwes(sentences)
     s = ""
-    for sentence in sentences:
+    for sentence, mwes in zip(sentences, mwe_indices):
         i = 0
         mwe_counter = 1
         while i < len(sentence):
@@ -132,7 +132,7 @@ def format_tsv(path):
             if token["type"] == "meta":
                 s += token["line"] + "\n"
                 i += 1
-            elif i not in mwe_indices:
+            elif i not in mwes:
                 s += fmt(
                     id=token["id"],
                     form=token["form"],
@@ -143,7 +143,7 @@ def format_tsv(path):
                 )
                 i += 1
             else:
-                run = mwe_indices[i]
+                run = mwes[i]
                 for mwe_position, j in enumerate(run):
                     token = sentence[j]
                     s += fmt(
@@ -197,6 +197,8 @@ def combine_blanked():
     write_blanked_tsvs()
     with open('prince_en.conllulex', 'w') as f1:
         for i in range(1, 28):
+            if i in [1, 4, 5]:
+                continue
             with open(f'blanked/lpp_{i}_ADJ.conllulex', 'r') as f2:
                 f1.write(f2.read())
 
