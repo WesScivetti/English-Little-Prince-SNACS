@@ -1,0 +1,208 @@
+# sent_id = lpp_1943.1206
+# mwe = Chapter 23 .
+1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
+2	23	23	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	23	_	_	_	_	_	O-NUM
+3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1207
+# mwe = " Good morning , " said the little prince .
+1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
+3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
+4	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+9	prince	prince	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1208
+# mwe = " Good morning , " said the merchant .
+1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
+3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
+4	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	merchant	merchant	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	merchant	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1209
+# mwe = This was a merchant who sold pills that had been invented to quench thirst .
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+4	merchant	merchant	NOUN	NN	Number=Sing	0	root	_	_	_	N	merchant	_	_	_	_	_	O-N
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_	_	V	sell	_	_	_	_	_	O-V
+7	pills	pill	NOUN	NNS	Number=Plur	6	obj	_	_	_	N	pill	_	_	_	_	_	O-N
+8	that	that	PRON	WDT	PronType=Rel	11	nsubj:pass	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+9	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+10	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+11	invented	invent	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_	_	V	invent	_	_	_	_	_	O-V
+12	to	to	PART	TO	_	13	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
+13	quench	quench	VERB	VB	VerbForm=Inf	11	xcomp	_	_	_	V	quench	_	_	_	_	_	O-V
+14	thirst	thirst	NOUN	NN	Number=Sing	13	obj	_	_	_	N	thirst	_	_	_	_	_	O-N
+15	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1210
+# mwe = You need only swallow one pill a week , and you would feel no need of anything to drink .
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+2	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	need	_	_	_	_	_	O-V
+3	only	only	ADV	RB	_	4	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
+4	swallow	swallow	VERB	VB	VerbForm=Fin	2	xcomp	_	_	_	V	swallow	_	_	_	_	_	O-V
+5	one	one	NUM	CD	NumType=Card	6	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
+6	pill	pill	NOUN	NN	Number=Sing	4	obj	_	_	_	N	pill	_	_	_	_	_	O-N
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+8	week	week	NOUN	NN	Number=Sing	2	obl:tmod	_	_	_	N	week	_	_	_	_	_	O-N
+9	,	,	PUNCT	,	_	13	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+10	and	and	CCONJ	CC	_	13	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+12	would	would	AUX	MD	VerbForm=Fin	13	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+13	feel	feel	VERB	VB	VerbForm=Inf	2	conj	_	_	_	V	feel	_	_	_	_	_	O-V
+14	no	no	DET	DT	_	15	det	_	_	_	DET	no	_	_	_	_	_	O-DET
+15	need	need	NOUN	NN	Number=Sing	13	obj	_	_	_	N	need	_	_	_	_	_	O-N
+16	of	of	ADP	IN	_	17	case	_	_	_	P	of	p.Stimulus	p.Topic	_	_	_	O-P-p.Stimulus|p.Topic
+17	anything	anything	PRON	NN	Number=Sing	15	nmod	_	_	_	PRON	anything	_	_	_	_	_	O-PRON
+18	to	to	PART	TO	_	19	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
+19	drink	drink	VERB	VB	VerbForm=Inf	17	acl	_	_	_	V	drink	_	_	_	_	_	O-V
+20	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1211
+# mwe = " Why are you selling those ? " asked the little prince .
+1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Why	why	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+5	selling	sell	VERB	VBG	Tense=Pres|VerbForm=Part	9	ccomp	_	_	_	V	sell	_	_	_	_	_	O-V
+6	those	that	PRON	DT	Number=Plur|PronType=Dem	5	obj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+7	?	?	PUNCT	.	_	5	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+8	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+9	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+11	little	little	ADJ	JJ	Degree=Pos	12	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+12	prince	prince	NOUN	NN	Number=Sing	9	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1212
+# mwe = " Because they save a tremendous amount of time , " said the merchant .
+1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Because	because	SCONJ	IN	_	4	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
+3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+4	save	save	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	_	_	V	save	_	_	_	_	_	O-V
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+6	tremendous	tremendous	ADJ	JJ	Degree=Pos	7	amod	_	_	_	ADJ	tremendous	_	_	_	_	_	O-ADJ
+7	amount	amount	NOUN	NN	Number=Sing	4	obj	_	_	_	N	amount	_	_	_	_	_	O-N
+8	of	of	ADP	IN	_	9	case	_	_	_	P	of	p.QuantityItem	p.Gestalt	_	_	_	O-P-p.QuantityItem|p.Gestalt
+9	time	time	NOUN	NN	Number=Sing	7	nmod	_	_	_	N	time	_	_	_	_	_	O-N
+10	,	,	PUNCT	,	_	12	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	"	"	PUNCT	''	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+12	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+14	merchant	merchant	NOUN	NN	Number=Sing	12	nsubj	_	_	_	N	merchant	_	_	_	_	_	O-N
+15	.	.	PUNCT	.	_	12	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1213
+# mwe = " Computations have been made by experts .
+1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Computations	computation	NOUN	NNS	Number=Plur	5	nsubj:pass	_	_	_	N	computation	_	_	_	_	_	O-N
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+5	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	make	_	_	_	_	_	O-V
+6	by	by	ADP	IN	_	7	case	_	_	_	P	by	p.Originator	p.Agent	_	_	_	O-P-p.Originator|p.Agent
+7	experts	expert	NOUN	NNS	Number=Plur	5	obl	_	_	_	N	expert	_	_	_	_	_	O-N
+8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1214
+# mwe = With these pills , you save fifty - three minutes in every week . "
+# 0_ERROR = Tokens [11]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [11]}
+1	With	with	ADP	IN	_	3	case	_	_	_	P	with	p.Instrument	p.Instrument	_	_	_	O-P-p.Instrument
+2	these	this	DET	DT	Number=Plur|PronType=Dem	3	det	_	_	_	DET	this	_	_	_	_	_	O-DET
+3	pills	pill	NOUN	NNS	Number=Plur	6	obl	_	_	_	N	pill	_	_	_	_	_	O-N
+4	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+6	save	save	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	save	_	_	_	_	_	O-V
+7	fifty	fifty	NUM	CD	NumType=Card	10	nummod	_	_	_	NUM	fifty	_	_	_	_	_	O-NUM
+8	-	-	SYM	SYM	_	9	case	_	_	_	SYM	-	_	_	_	_	_	O-SYM
+9	three	three	NUM	CD	NumType=Card	7	nmod	_	_	_	NUM	three	_	_	_	_	_	O-NUM
+10	minutes	minute	NOUN	NNS	Number=Plur	6	obj	_	_	_	N	minute	_	_	_	_	_	O-N
+11	in	in	ADP	IN	_	13	case	_	_	_	P	in	_	_	_	_	_	O-P
+12	every	every	DET	DT	_	13	det	_	_	_	DET	every	_	_	_	_	_	O-DET
+13	week	week	NOUN	NN	Number=Sing	6	obl	_	_	_	N	week	_	_	_	_	_	O-N
+14	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+15	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1215
+# mwe = " And what do I do with those fifty - three minutes ? "
+1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+3	what	what	PRON	WP	PronType=Int	6	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+6	do	do	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	do	_	_	_	_	_	O-V
+7	with	with	ADP	IN	_	12	case	_	_	_	P	with	p.Theme	p.Theme	_	_	_	O-P-p.Theme
+8	those	that	DET	DT	Number=Plur|PronType=Dem	12	det	_	_	_	DET	that	_	_	_	_	_	O-DET
+9	fifty	fifty	NUM	CD	NumType=Card	12	nummod	_	_	_	NUM	fifty	_	_	_	_	_	O-NUM
+10	-	-	SYM	SYM	_	11	case	_	_	_	SYM	-	_	_	_	_	_	O-SYM
+11	three	three	NUM	CD	NumType=Card	9	nmod	_	_	_	NUM	three	_	_	_	_	_	O-NUM
+12	minutes	minute	NOUN	NNS	Number=Plur	6	obl	_	_	_	N	minute	_	_	_	_	_	O-N
+13	?	?	PUNCT	.	_	6	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+14	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1216
+# mwe = " Anything you like ... "
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Anything	anything	NOUN	NN	Number=Sing	0	root	_	_	_	N	anything	_	_	_	_	_	O-N
+3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+4	like	like	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_	_	V	like	_	_	_	_	_	O-V
+5	...	...	PUNCT	:	_	2	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1217
+# mwe = " As for me , " said the little prince to himself , " if I had fifty - three minutes to spend as I liked , I should walk at my leisure toward a spring of fresh water . "
+# 0_ERROR = Tokens [3]: Missing supersense annotation in lexical entry: {'lexlemma': 'for', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [3]}
+# 1_ERROR = Tokens [37]: Found an ss2 not prefixed with p. when ss was prefixed with p.
+1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	As	as	ADP	IN	_	4	case	_	_	_	DISC	as	_	_	_	_	_	O-DISC
+3	for	for	ADP	IN	_	4	case	_	_	_	P	for	_	_	_	_	_	O-P
+4	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+5	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+6	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+7	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+10	prince	prince	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+11	to	to	ADP	IN	_	12	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
+12	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	nmod	_	_	_	PRON	himself	_	_	_	_	_	O-PRON
+13	,	,	PUNCT	,	_	30	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+14	"	"	PUNCT	``	_	30	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+15	if	if	SCONJ	IN	_	17	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+17	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	30	advcl	_	_	_	V	have	_	_	_	_	_	O-V
+18	fifty	fifty	NUM	CD	NumType=Card	20	compound	_	_	_	NUM	fifty	_	_	_	_	_	O-NUM
+19	-	-	PUNCT	HYPH	_	20	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+20	three	three	NUM	CD	NumType=Card	21	nummod	_	_	_	NUM	three	_	_	_	_	_	O-NUM
+21	minutes	minute	NOUN	NNS	Number=Plur	17	obj	_	_	_	N	minute	_	_	_	_	_	O-N
+22	to	to	PART	TO	_	23	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
+23	spend	spend	VERB	VB	VerbForm=Inf	21	acl	_	_	_	V	spend	_	_	_	_	_	O-V
+24	as	as	SCONJ	IN	_	26	mark	_	_	_	P	as	p.Manner	p.ComparisonRef	_	_	_	O-P-p.Manner|p.ComparisonRef
+25	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+26	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	advcl	_	_	_	V	like	_	_	_	_	_	O-V
+27	,	,	PUNCT	,	_	30	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+28	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+29	should	should	AUX	MD	VerbForm=Fin	30	aux	_	_	_	AUX	should	_	_	_	_	_	O-AUX
+30	walk	walk	VERB	VB	VerbForm=Inf	7	ccomp	_	_	_	V	walk	_	_	_	_	_	O-V
+31	at	at	ADP	IN	_	33	case	_	_	_	P	at	p.Manner	p.Locus	_	_	_	O-P-p.Manner|p.Locus
+32	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	_	_	PRON.POSS	my	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
+33	leisure	leisure	NOUN	NN	Number=Sing	30	obl	_	_	_	N	leisure	_	_	_	_	_	O-N
+34	toward	toward	ADP	IN	_	36	case	_	_	_	P	toward	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+35	a	a	DET	DT	Definite=Ind|PronType=Art	36	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+36	spring	spring	NOUN	NN	Number=Sing	30	obl	_	_	_	N	spring	_	_	_	_	_	O-N
+37	of	of	ADP	IN	_	39	case	_	_	_	P	of	p.Characteristic	_	_	_	_	O-P-p.Characteristic
+38	fresh	fresh	ADJ	JJ	Degree=Pos	39	amod	_	_	_	ADJ	fresh	_	_	_	_	_	O-ADJ
+39	water	water	NOUN	NN	Number=Sing	36	nmod	_	_	_	N	water	_	_	_	_	_	O-N
+40	.	.	PUNCT	.	_	30	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+41	"	"	PUNCT	''	_	30	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+

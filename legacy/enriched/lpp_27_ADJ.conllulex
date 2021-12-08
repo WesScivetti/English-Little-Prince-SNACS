@@ -1,0 +1,669 @@
+# sent_id = lpp_1943.1526
+# mwe = Chapter 27 .
+1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
+2	27	27	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	27	_	_	_	_	_	O-NUM
+3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1527
+# mwe = And now six years have already gone by ...
+# 0_ERROR = Tokens [8]: Invalid supersense(s) in lexical entry: {'lexlemma': 'by', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [8]}
+1	And	and	CCONJ	CC	_	7	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	now	now	ADV	RB	_	7	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
+3	six	six	NUM	CD	NumType=Card	4	nummod	_	_	_	NUM	six	_	_	_	_	_	O-NUM
+4	years	year	NOUN	NNS	Number=Plur	7	nsubj	_	_	_	N	year	_	_	_	_	_	O-N
+5	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+6	already	already	ADV	RB	_	7	advmod	_	_	_	ADV	already	_	_	_	_	_	O-ADV
+7	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	go	_	_	_	_	_	O-V
+8	by	by	ADP	IN	_	7	advmod	_	_	_	P	by	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+9	...	...	PUNCT	.	_	7	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1528
+# mwe = I have never yet told this story .
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+3	never	never	ADV	RB	_	5	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
+4	yet	yet	ADV	RB	_	5	advmod	_	_	_	ADV	yet	_	_	_	_	_	O-ADV
+5	told	tell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	tell	_	_	_	_	_	O-V
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	_	_	DET	this	_	_	_	_	_	O-DET
+7	story	story	NOUN	NN	Number=Sing	5	obj	_	_	_	N	story	_	_	_	_	_	O-N
+8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1529
+# mwe = The companions who met me on my return were well content to see me alive .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	companions	companion	NOUN	NNS	Number=Plur	11	nsubj	_	_	_	N	companion	_	_	_	_	_	O-N
+3	who	who	PRON	WP	PronType=Rel	4	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+4	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_	_	V	meet	_	_	_	_	_	O-V
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+6	on	on	ADP	IN	_	8	case	_	_	_	P	on	p.Time	p.Time	_	_	_	O-P-p.Time
+7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_	_	PRON.POSS	my	p.Theme	p.Gestalt	_	_	_	O-PRON.POSS-p.Theme|p.Gestalt
+8	return	return	NOUN	NN	Number=Sing	4	obl	_	_	_	N	return	_	_	_	_	_	O-N
+9	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+10	well	well	ADJ	JJ	Degree=Pos	11	advmod	_	_	_	ADJ	well	_	_	_	_	_	O-ADJ
+11	content	content	NOUN	NN	Number=Sing	0	root	_	_	_	N	content	_	_	_	_	_	O-N
+12	to	to	PART	TO	_	13	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+13	see	see	VERB	VB	VerbForm=Inf	11	acl	_	_	_	V	see	_	_	_	_	_	O-V
+14	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+15	alive	alive	ADJ	JJ	Degree=Pos	13	xcomp	_	_	_	ADJ	alive	_	_	_	_	_	O-ADJ
+16	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1530
+# mwe = I was sad , but I told them : " I am tired . "
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	sad	sad	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	sad	_	_	_	_	_	O-ADJ
+4	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	but	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+7	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	_	_	V	tell	_	_	_	_	_	O-V
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+9	:	:	PUNCT	:	_	13	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+10	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+13	tired	tired	ADJ	JJ	Degree=Pos	7	ccomp	_	_	_	ADJ	tired	_	_	_	_	_	O-ADJ
+14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+15	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1531
+# mwe = Now my sorrow is comforted a little .
+1	Now	now	ADV	RB	_	5	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
+2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	my	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
+3	sorrow	sorrow	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	sorrow	_	_	_	_	_	O-N
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+5	comforted	comfort	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	comfort	_	_	_	_	_	O-V
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+7	little	little	ADJ	JJ	Degree=Pos	5	obj	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1532
+# mwe = That is to say - - not entirely .
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	to	to	PART	TO	_	4	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+4	say	say	VERB	VB	VerbForm=Inf	2	xcomp	_	_	_	V	say	_	_	_	_	_	O-V
+5	-	-	PUNCT	,	_	2	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+6	-	-	PUNCT	,	_	2	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+7	not	not	ADV	RB	_	8	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+8	entirely	entirely	ADV	RB	_	4	advmod	_	_	_	ADV	entirely	_	_	_	_	_	O-ADV
+9	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1533
+# mwe = But I know that he did go back to his planet , because I did not find his body at daybreak .
+1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+3	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	know	_	_	_	_	_	O-V
+4	that	that	SCONJ	IN	_	7	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+6	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
+7	go	go	VERB	VB	VerbForm=Inf	3	ccomp	_	_	_	V	go	_	_	_	_	_	O-V
+8	back	back	ADV	RB	_	7	advmod	_	_	_	P	back	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+9	to	to	ADP	IN	_	11	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_	_	PRON.POSS	he	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
+11	planet	planet	NOUN	NN	Number=Sing	7	obl	_	_	_	N	planet	_	_	_	_	_	O-N
+12	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+13	because	because	SCONJ	IN	_	17	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+15	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
+16	not	not	PART	RB	_	17	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+17	find	find	VERB	VB	VerbForm=Inf	7	advcl	_	_	_	V	find	_	_	_	_	_	O-V
+18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	_	_	PRON.POSS	he	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
+19	body	body	NOUN	NN	Number=Sing	17	obj	_	_	_	N	body	_	_	_	_	_	O-N
+20	at	at	ADP	IN	_	21	case	_	_	_	P	at	p.Time	p.Time	_	_	_	O-P-p.Time
+21	daybreak	daybreak	NOUN	NN	Number=Sing	17	obl	_	_	_	N	daybreak	_	_	_	_	_	O-N
+22	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1534
+# mwe = It was not such a heavy body ... and at night I love to listen to the stars .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	not	not	PART	RB	_	7	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+4	such	such	DET	PDT	_	7	det:predet	_	_	_	DET	such	_	_	_	_	_	O-DET
+5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+6	heavy	heavy	ADJ	JJ	Degree=Pos	7	amod	_	_	_	ADJ	heavy	_	_	_	_	_	O-ADJ
+7	body	body	NOUN	NN	Number=Sing	0	root	_	_	_	N	body	_	_	_	_	_	O-N
+8	...	...	PUNCT	,	_	7	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+9	and	and	CCONJ	CC	_	13	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+10	at	at	ADP	IN	_	11	case	_	_	_	P	at	p.Time	p.Time	_	_	_	O-P-p.Time
+11	night	night	NOUN	NN	Number=Sing	13	obl	_	_	_	N	night	_	_	_	_	_	O-N
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+13	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	conj	_	_	_	V	love	_	_	_	_	_	O-V
+14	to	to	PART	TO	_	15	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+15	listen	listen	VERB	VB	VerbForm=Inf	13	xcomp	_	_	_	V	listen	_	_	_	_	_	O-V
+16	to	to	ADP	IN	_	18	case	_	_	_	P	to	p.Stimulus	p.Goal	_	_	_	O-P-p.Stimulus|p.Goal
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+18	stars	star	NOUN	NNS	Number=Plur	15	obl	_	_	_	N	star	_	_	_	_	_	O-N
+19	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1535
+# mwe = It is like five hundred million little bells ...
+# 0_ERROR = Tokens [3]: Missing supersense annotation in lexical entry: {'lexlemma': 'like', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [3]}
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	like	like	ADP	IN	_	8	case	_	_	_	P	like	_	_	_	_	_	O-P
+4	five	five	NUM	CD	NumType=Card	6	compound	_	_	_	NUM	five	_	_	_	_	_	O-NUM
+5	hundred	hundred	NUM	CD	NumType=Card	6	compound	_	_	_	NUM	hundred	_	_	_	_	_	O-NUM
+6	million	million	NUM	CD	NumType=Card	8	nummod	_	_	_	NUM	million	_	_	_	_	_	O-NUM
+7	little	little	ADJ	JJ	Degree=Pos	8	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+8	bells	bell	NOUN	NNS	Number=Plur	0	root	_	_	_	N	bell	_	_	_	_	_	O-N
+9	...	...	PUNCT	.	_	8	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1536
+# mwe = But there is one extraordinary thing ... when I drew the muzzle for the little prince , I forgot to add the leather strap to it .
+1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+2	there	there	PRON	EX	_	3	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
+4	one	one	NUM	CD	NumType=Card	6	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
+5	extraordinary	extraordinary	ADJ	JJ	Degree=Pos	6	amod	_	_	_	ADJ	extraordinary	_	_	_	_	_	O-ADJ
+6	thing	thing	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	thing	_	_	_	_	_	O-N
+7	...	...	PUNCT	,	_	3	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+8	when	when	SCONJ	WRB	PronType=Int	10	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+10	drew	draw	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	19	advcl	_	_	_	V	draw	_	_	_	_	_	O-V
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+12	muzzle	muzzle	NOUN	NN	Number=Sing	10	obj	_	_	_	N	muzzle	_	_	_	_	_	O-N
+13	for	for	ADP	IN	_	16	case	_	_	_	P	for	p.Beneficiary	p.Beneficiary	_	_	_	O-P-p.Beneficiary
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+15	little	little	ADJ	JJ	Degree=Pos	16	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+16	prince	prince	NOUN	NN	Number=Sing	10	obl	_	_	_	N	prince	_	_	_	_	_	O-N
+17	,	,	PUNCT	,	_	19	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+19	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_	_	V	forget	_	_	_	_	_	O-V
+20	to	to	PART	TO	_	21	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+21	add	add	VERB	VB	VerbForm=Inf	19	xcomp	_	_	_	V	add	_	_	_	_	_	O-V
+22	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+23	leather	leather	NOUN	NN	Number=Sing	24	compound	_	_	_	N	leather	_	_	_	_	_	O-N
+24	strap	strap	NOUN	NN	Number=Sing	21	obj	_	_	_	N	strap	_	_	_	_	_	O-N
+25	to	to	ADP	IN	_	26	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+27	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1537
+# mwe = He will never have been able to fasten it on his sheep .
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+2	will	will	AUX	MD	VerbForm=Fin	6	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+3	never	never	ADV	RB	_	6	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
+4	have	have	AUX	VB	VerbForm=Inf	6	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+6	able	able	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	able	_	_	_	_	_	O-ADJ
+7	to	to	PART	TO	_	8	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+8	fasten	fasten	VERB	VB	VerbForm=Inf	6	xcomp	_	_	_	V	fasten	_	_	_	_	_	O-V
+9	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+10	on	on	ADP	IN	_	12	case	_	_	_	P	on	p.Goal	p.Locus	_	_	_	O-P-p.Goal|p.Locus
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
+12	sheep	sheep	NOUN	NN	Number=Sing	8	obl	_	_	_	N	sheep	_	_	_	_	_	O-N
+13	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1538
+# mwe = So now I keep wondering : what is happening on his planet ?
+1	So	so	ADV	RB	_	4	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
+2	now	now	ADV	RB	_	4	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+4	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	keep	_	_	_	_	_	O-V
+5	wondering	wonder	VERB	VBG	VerbForm=Ger	4	xcomp	_	_	_	V	wonder	_	_	_	_	_	O-V
+6	:	:	PUNCT	:	_	4	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+7	what	what	PRON	WP	PronType=Int	9	nsubj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+9	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	_	_	V	happen	_	_	_	_	_	O-V
+10	on	on	ADP	IN	_	12	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	_	_	PRON.POSS	he	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
+12	planet	planet	NOUN	NN	Number=Sing	9	obl	_	_	_	N	planet	_	_	_	_	_	O-N
+13	?	?	PUNCT	.	_	4	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1539
+# mwe = Perhaps the sheep has eaten the flower ...
+1	Perhaps	perhaps	ADV	RB	_	5	advmod	_	_	_	ADV	perhaps	_	_	_	_	_	O-ADV
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+3	sheep	sheep	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	sheep	_	_	_	_	_	O-N
+4	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+5	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	eat	_	_	_	_	_	O-V
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+7	flower	flower	NOUN	NN	Number=Sing	5	obj	_	_	_	N	flower	_	_	_	_	_	O-N
+8	...	...	PUNCT	.	_	5	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1540
+# mwe = At one time I say to myself : " Surely not !
+1	At	at	ADP	IN	_	3	case	_	_	_	P	at	p.Time	p.Time	_	_	_	O-P-p.Time
+2	one	one	NUM	CD	NumType=Card	3	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
+3	time	time	NOUN	NN	Number=Sing	5	obl	_	_	_	N	time	_	_	_	_	_	O-N
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+5	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+6	to	to	ADP	IN	_	7	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
+7	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	5	obl	_	_	_	PRON	myself	_	_	_	_	_	O-PRON
+8	:	:	PUNCT	:	_	5	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+9	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+10	Surely	surely	ADV	RB	_	5	advmod	_	_	_	ADV	surely	_	_	_	_	_	O-ADV
+11	not	not	PART	RB	_	10	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+12	!	!	PUNCT	.	_	5	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1541
+# mwe = The little prince shuts his flower under her glass globe every night , and he watches over his sheep very carefully ... "
+# 0_ERROR = Tokens [16]: Invalid supersense(s) in lexical entry: {'lexlemma': 'watch', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [16]}
+# 1_ERROR = Tokens [17]: Invalid supersense(s) in lexical entry: {'lexlemma': 'over', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [17]}
+# 2_ERROR = single-word expression 'watches' has lexcat P, which is incompatible with its upos VERB
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+4	shuts	shut	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	shut	_	_	_	_	_	O-V
+5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
+6	flower	flower	NOUN	NN	Number=Sing	4	obj	_	_	_	N	flower	_	_	_	_	_	O-N
+7	under	under	ADP	IN	_	10	case	_	_	_	P	under	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+8	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_	_	PRON.POSS	she	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
+9	glass	glass	NOUN	NN	Number=Sing	10	compound	_	_	_	N	glass	_	_	_	_	_	O-N
+10	globe	globe	NOUN	NN	Number=Sing	4	obl	_	_	_	N	globe	_	_	_	_	_	O-N
+11	every	every	DET	DT	_	12	det	_	_	_	DET	every	_	_	_	_	_	O-DET
+12	night	night	NOUN	NN	Number=Sing	4	obl:tmod	_	_	_	N	night	_	_	_	_	_	O-N
+13	,	,	PUNCT	,	_	16	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+14	and	and	CCONJ	CC	_	16	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+16	watches	watch	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_	_	P	watch	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+17	over	over	ADP	IN	_	16	compound:prt	_	_	_	P	over	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
+19	sheep	sheep	NOUN	NNS	Number=Plur	16	obl	_	_	_	N	sheep	_	_	_	_	_	O-N
+20	very	very	ADV	RB	_	21	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
+21	carefully	carefully	ADV	RB	_	16	advmod	_	_	_	ADV	carefully	_	_	_	_	_	O-ADV
+22	...	...	PUNCT	.	_	4	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+23	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1542
+# mwe = Then I am happy .
+1	Then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	happy	happy	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	happy	_	_	_	_	_	O-ADJ
+5	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1543
+# mwe = And there is sweetness in the laughter of all the stars .
+1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	there	there	PRON	EX	_	3	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
+4	sweetness	sweetness	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	sweetness	_	_	_	_	_	O-N
+5	in	in	ADP	IN	_	7	case	_	_	_	P	in	p.Gestalt	p.Locus	_	_	_	O-P-p.Gestalt|p.Locus
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+7	laughter	laughter	NOUN	NN	Number=Sing	4	nmod	_	_	_	N	laughter	_	_	_	_	_	O-N
+8	of	of	ADP	IN	_	11	case	_	_	_	P	of	p.Originator	p.Source	_	_	_	O-P-p.Originator|p.Source
+9	all	all	DET	PDT	_	11	det:predet	_	_	_	DET	all	_	_	_	_	_	O-DET
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+11	stars	star	NOUN	NNS	Number=Plur	7	nmod	_	_	_	N	star	_	_	_	_	_	O-N
+12	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1544
+# mwe = But at another time I say to myself : " At some moment or other one is absent - minded , and that is enough !
+1	But	but	CCONJ	CC	_	6	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+2	at	at	ADP	IN	_	4	case	_	_	_	P	at	p.Time	p.Time	_	_	_	O-P-p.Time
+3	another	another	DET	DT	_	4	det	_	_	_	DET	another	_	_	_	_	_	O-DET
+4	time	time	NOUN	NN	Number=Sing	6	obl	_	_	_	N	time	_	_	_	_	_	O-N
+5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+6	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+7	to	to	ADP	IN	_	8	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
+8	myself	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	obl	_	_	_	PRON	myself	_	_	_	_	_	O-PRON
+9	:	:	PUNCT	:	_	6	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+10	"	"	PUNCT	``	_	20	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+11	At	at	ADP	IN	_	13	case	_	_	_	P	at	p.Time	p.Time	_	_	_	O-P-p.Time
+12	some	some	DET	DT	_	13	det	_	_	_	DET	some	_	_	_	_	_	O-DET
+13	moment	moment	NOUN	NN	Number=Sing	20	obl	_	_	_	N	moment	_	_	_	_	_	O-N
+14	or	or	CCONJ	CC	_	16	cc	_	_	_	CCONJ	or	_	_	_	_	_	O-CCONJ
+15	other	other	ADJ	JJ	Degree=Pos	16	amod	_	_	_	ADJ	other	_	_	_	_	_	O-ADJ
+16	one	one	NOUN	NN	Number=Sing	13	conj	_	_	_	N	one	_	_	_	_	_	O-N
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+18	absent	absent	ADJ	JJ	Degree=Pos	20	amod	_	_	_	ADJ	absent	_	_	_	_	_	O-ADJ
+19	-	-	PUNCT	HYPH	_	20	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+20	minded	minded	ADJ	JJ	Degree=Pos	6	ccomp	_	_	_	ADJ	minded	_	_	_	_	_	O-ADJ
+21	,	,	PUNCT	,	_	25	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+22	and	and	CCONJ	CC	_	25	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+23	that	that	PRON	DT	Number=Sing|PronType=Dem	25	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+25	enough	enough	ADJ	JJ	Degree=Pos	20	conj	_	_	_	ADJ	enough	_	_	_	_	_	O-ADJ
+26	!	!	PUNCT	.	_	6	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1545
+# mwe = On some one evening he forgot the glass globe , or the sheep got out , without making any noise , in the night ... "
+1	On	on	ADP	IN	_	4	case	_	_	_	P	on	p.Time	p.Time	_	_	_	O-P-p.Time
+2	some	some	DET	DT	_	4	det	_	_	_	DET	some	_	_	_	_	_	O-DET
+3	one	one	NUM	CD	NumType=Card	4	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
+4	evening	evening	NOUN	NN	Number=Sing	6	obl	_	_	_	N	evening	_	_	_	_	_	O-N
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+6	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	forget	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	glass	glass	NOUN	NN	Number=Sing	9	compound	_	_	_	N	glass	_	_	_	_	_	O-N
+9	globe	globe	NOUN	NN	Number=Sing	6	obj	_	_	_	N	globe	_	_	_	_	_	O-N
+10	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	or	or	CCONJ	CC	_	14	cc	_	_	_	CCONJ	or	_	_	_	_	_	O-CCONJ
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+13	sheep	sheep	NOUN	NNS	Number=Plur	14	nsubj	_	_	_	N	sheep	_	_	_	_	_	O-N
+14	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	conj	_	_	_	V	get	_	_	_	_	_	O-V
+15	out	out	ADP	RP	_	14	compound:prt	_	_	_	P	out	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+16	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+17	without	without	SCONJ	IN	_	18	mark	_	_	_	P	without	p.Manner	p.Manner	_	_	_	O-P-p.Manner
+18	making	make	VERB	VBG	VerbForm=Ger	14	advcl	_	_	_	V	make	_	_	_	_	_	O-V
+19	any	any	DET	DT	_	20	det	_	_	_	DET	any	_	_	_	_	_	O-DET
+20	noise	noise	NOUN	NN	Number=Sing	18	obj	_	_	_	N	noise	_	_	_	_	_	O-N
+21	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+22	in	in	ADP	IN	_	24	case	_	_	_	P	in	p.Time	p.Time	_	_	_	O-P-p.Time
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+24	night	night	NOUN	NN	Number=Sing	18	obl	_	_	_	N	night	_	_	_	_	_	O-N
+25	...	...	PUNCT	.	_	6	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+26	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1546
+# mwe = And then the little bells are changed to tears ...
+1	And	and	CCONJ	CC	_	7	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	then	then	ADV	RB	PronType=Dem	7	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+4	little	little	ADJ	JJ	Degree=Pos	5	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+5	bells	bell	NOUN	NNS	Number=Plur	7	nsubj:pass	_	_	_	N	bell	_	_	_	_	_	O-N
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+7	changed	change	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	change	_	_	_	_	_	O-V
+8	to	to	ADP	IN	_	9	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+9	tears	tear	NOUN	NNS	Number=Plur	7	obl	_	_	_	N	tear	_	_	_	_	_	O-N
+10	...	...	PUNCT	.	_	7	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1547
+# mwe = Here , then , is a great mystery .
+1	Here	here	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	here	_	_	_	_	_	O-ADV
+2	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+3	then	then	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+4	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+7	great	great	ADJ	JJ	Degree=Pos	8	amod	_	_	_	ADJ	great	_	_	_	_	_	O-ADJ
+8	mystery	mystery	NOUN	NN	Number=Sing	0	root	_	_	_	N	mystery	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1548
+# mwe = For you who also love the little prince , and for me , nothing in the universe can be the same if somewhere , we do not know where , a sheep that we never saw has - - yes or no ? -- eaten a rose ...
+1	For	for	ADP	IN	_	2	case	_	_	_	P	for	p.Experiencer	p.Beneficiary	_	_	_	O-P-p.Experiencer|p.Beneficiary
+2	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	21	obl	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+3	who	who	PRON	WP	PronType=Rel	5	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+4	also	also	ADV	RB	_	5	advmod	_	_	_	ADV	also	_	_	_	_	_	O-ADV
+5	love	love	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_	_	V	love	_	_	_	_	_	O-V
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+7	little	little	ADJ	JJ	Degree=Pos	8	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+8	prince	prince	NOUN	NN	Number=Sing	5	obj	_	_	_	N	prince	_	_	_	_	_	O-N
+9	,	,	PUNCT	,	_	21	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+10	and	and	CCONJ	CC	_	21	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+11	for	for	ADP	IN	_	12	case	_	_	_	P	for	p.Experiencer	p.Beneficiary	_	_	_	O-P-p.Experiencer|p.Beneficiary
+12	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obl	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+13	,	,	PUNCT	,	_	21	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+14	nothing	nothing	PRON	NN	Number=Sing	21	nsubj	_	_	_	PRON	nothing	_	_	_	_	_	O-PRON
+15	in	in	ADP	IN	_	17	case	_	_	_	P	in	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+17	universe	universe	NOUN	NN	Number=Sing	14	nmod	_	_	_	N	universe	_	_	_	_	_	O-N
+18	can	can	AUX	MD	VerbForm=Fin	21	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
+19	be	be	AUX	VB	VerbForm=Inf	21	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+21	same	same	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	same	_	_	_	_	_	O-ADJ
+22	if	if	SCONJ	IN	_	23	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
+23	somewhere	somewhere	ADV	RB	_	21	obl	_	_	_	ADV	somewhere	_	_	_	_	_	O-ADV
+24	,	,	PUNCT	,	_	28	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	28	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
+26	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
+27	not	not	PART	RB	_	28	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+28	know	know	VERB	VB	VerbForm=Inf	21	parataxis	_	_	_	V	know	_	_	_	_	_	O-V
+29	where	where	SCONJ	WRB	PronType=Int	28	ccomp	_	_	_	SCONJ	where	_	_	_	_	_	O-SCONJ
+30	,	,	PUNCT	,	_	32	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+31	a	a	DET	DT	Definite=Ind|PronType=Art	32	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+32	sheep	sheep	NOUN	NN	Number=Sing	28	obj	_	_	_	N	sheep	_	_	_	_	_	O-N
+33	that	that	PRON	WDT	PronType=Rel	36	obj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+34	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	36	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
+35	never	never	ADV	RB	_	36	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
+36	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	32	acl:relcl	_	_	_	V	see	_	_	_	_	_	O-V
+37	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_	_	V	have	_	_	_	_	_	O-V
+38	-	-	PUNCT	,	_	32	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+39	-	-	PUNCT	,	_	40	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+40	yes	yes	INTJ	UH	_	45	discourse	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
+41	or	or	CCONJ	CC	_	42	cc	_	_	_	CCONJ	or	_	_	_	_	_	O-CCONJ
+42	no	no	INTJ	UH	_	45	discourse	_	_	_	INTJ	no	_	_	_	_	_	O-INTJ
+43	?	?	PUNCT	.	_	45	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+44	--	--	PUNCT	,	_	45	punct	_	_	_	PUNCT	--	_	_	_	_	_	O-PUNCT
+45	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	21	parataxis	_	_	_	V	eat	_	_	_	_	_	O-V
+46	a	a	DET	DT	Definite=Ind|PronType=Art	47	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+47	rose	rose	NOUN	NN	Number=Sing	45	obj	_	_	_	N	rose	_	_	_	_	_	O-N
+48	...	...	PUNCT	.	_	21	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1549
+# mwe = Look up at the sky .
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	look	_	_	_	_	_	O-V
+2	up	up	ADP	RP	_	1	compound:prt	_	_	_	P	up	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+3	at	at	ADP	IN	_	5	case	_	_	_	P	at	p.Stimulus	p.Direction	_	_	_	O-P-p.Stimulus|p.Direction
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+5	sky	sky	NOUN	NN	Number=Sing	1	obl	_	_	_	N	sky	_	_	_	_	_	O-N
+6	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1550
+# mwe = Ask yourselves : is it yes or no ?
+1	Ask	ask	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
+2	yourselves	yourselves	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	obj	_	_	_	PRON	yourselves	_	_	_	_	_	O-PRON
+3	:	:	PUNCT	:	_	1	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+6	yes	yes	INTJ	UH	_	1	discourse	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
+7	or	or	CCONJ	CC	_	8	cc	_	_	_	CCONJ	or	_	_	_	_	_	O-CCONJ
+8	no	no	INTJ	UH	_	6	conj	_	_	_	INTJ	no	_	_	_	_	_	O-INTJ
+9	?	?	PUNCT	.	_	1	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1551
+# mwe = Has the sheep eaten the flower ?
+1	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+3	sheep	sheep	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	sheep	_	_	_	_	_	O-N
+4	eaten	eat	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	eat	_	_	_	_	_	O-V
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+6	flower	flower	NOUN	NN	Number=Sing	4	obj	_	_	_	N	flower	_	_	_	_	_	O-N
+7	?	?	PUNCT	.	_	4	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1552
+# mwe = And you will see how everything changes ...
+1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+3	will	will	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+4	see	see	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	see	_	_	_	_	_	O-V
+5	how	how	SCONJ	WRB	PronType=Int	7	mark	_	_	_	SCONJ	how	_	_	_	_	_	O-SCONJ
+6	everything	everything	PRON	NN	Number=Sing	7	nsubj	_	_	_	PRON	everything	_	_	_	_	_	O-PRON
+7	changes	change	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_	_	V	change	_	_	_	_	_	O-V
+8	...	...	PUNCT	.	_	4	punct	_	_	_	PUNCT	...	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1553
+# mwe = And no grown - up will ever understand that this is a matter of so much importance !
+# 0_ERROR = Tokens [5]: Invalid supersense(s) in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [5]}
+# 1_ERROR = single-word expression 'up' has lexcat P, which is incompatible with its upos NOUN
+1	And	and	CCONJ	CC	_	8	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	no	no	DET	DT	_	5	det	_	_	_	DET	no	_	_	_	_	_	O-DET
+3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	_	V	grow	_	_	_	_	_	O-V
+4	-	-	PUNCT	HYPH	_	5	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+5	up	up	NOUN	NN	Number=Sing	8	nsubj	_	_	_	P	up	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+6	will	will	AUX	MD	VerbForm=Fin	8	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+7	ever	ever	ADV	RB	_	8	advmod	_	_	_	ADV	ever	_	_	_	_	_	O-ADV
+8	understand	understand	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	understand	_	_	_	_	_	O-V
+9	that	that	SCONJ	IN	_	13	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+10	this	this	PRON	DT	Number=Sing|PronType=Dem	13	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+13	matter	matter	NOUN	NN	Number=Sing	8	ccomp	_	_	_	N	matter	_	_	_	_	_	O-N
+14	of	of	ADP	IN	_	17	case	_	_	_	P	of	p.Characteristic	p.Identity	_	_	_	O-P-p.Characteristic|p.Identity
+15	so	so	ADV	RB	_	16	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
+16	much	much	ADJ	JJ	Degree=Pos	17	amod	_	_	_	ADJ	much	_	_	_	_	_	O-ADJ
+17	importance	importance	NOUN	NN	Number=Sing	13	nmod	_	_	_	N	importance	_	_	_	_	_	O-N
+18	!	!	PUNCT	.	_	8	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1554
+# mwe = This is , to me , the loveliest and saddest landscape in the world .
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	11	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+4	to	to	ADP	IN	_	5	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obl	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+6	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+7	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	loveliest	lovely	ADJ	JJS	Degree=Sup	11	amod	_	_	_	ADJ	lovely	_	_	_	_	_	O-ADJ
+9	and	and	CCONJ	CC	_	10	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+10	saddest	sadd	ADJ	JJS	Degree=Sup	8	conj	_	_	_	ADJ	sadd	_	_	_	_	_	O-ADJ
+11	landscape	landscape	NOUN	NN	Number=Sing	0	root	_	_	_	N	landscape	_	_	_	_	_	O-N
+12	in	in	ADP	IN	_	14	case	_	_	_	P	in	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+14	world	world	NOUN	NN	Number=Sing	11	nmod	_	_	_	N	world	_	_	_	_	_	O-N
+15	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1555
+# mwe = It is the same as that on the preceding page , but I have drawn it again to impress it on your memory .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+4	same	same	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	same	_	_	_	_	_	O-ADJ
+5	as	as	ADP	IN	_	6	case	_	_	_	P	as	p.ComparisonRef	p.ComparisonRef	_	_	_	O-P-p.ComparisonRef
+6	that	that	PRON	DT	Number=Sing|PronType=Dem	4	obl	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+7	on	on	ADP	IN	_	10	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	preceding	precede	VERB	VBG	VerbForm=Ger	10	amod	_	_	_	V	precede	_	_	_	_	_	O-V
+10	page	page	NOUN	NN	Number=Sing	4	obl	_	_	_	N	page	_	_	_	_	_	O-N
+11	,	,	PUNCT	,	_	15	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+12	but	but	CCONJ	CC	_	15	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+14	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+15	drawn	draw	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	_	_	V	draw	_	_	_	_	_	O-V
+16	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+17	again	again	ADV	RB	Degree=Pos	15	advmod	_	_	_	ADV	again	_	_	_	_	_	O-ADV
+18	to	to	PART	TO	_	19	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
+19	impress	impress	VERB	VB	VerbForm=Inf	15	advcl	_	_	_	V	impress	_	_	_	_	_	O-V
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+21	on	on	ADP	IN	_	23	case	_	_	_	P	on	p.Goal	p.Locus	_	_	_	O-P-p.Goal|p.Locus
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	_	_	PRON.POSS	you	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
+23	memory	memory	NOUN	NN	Number=Sing	19	obl	_	_	_	N	memory	_	_	_	_	_	O-N
+24	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1556
+# mwe = It is here that the little prince appeared on Earth , and disappeared .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	here	here	ADV	RB	PronType=Dem	0	root	_	_	_	ADV	here	_	_	_	_	_	O-ADV
+4	that	that	SCONJ	IN	_	8	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+6	little	little	ADJ	JJ	Degree=Pos	7	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+7	prince	prince	NOUN	NN	Number=Sing	8	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+8	appeared	appear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	csubj	_	_	_	V	appear	_	_	_	_	_	O-V
+9	on	on	ADP	IN	_	10	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+10	Earth	Earth	PROPN	NNP	Number=Sing	8	obl	_	_	_	N	Earth	_	_	_	_	_	O-N
+11	,	,	PUNCT	,	_	13	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+12	and	and	CCONJ	CC	_	13	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+13	disappeared	disappear	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_	_	V	disappear	_	_	_	_	_	O-V
+14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1557
+# mwe = Look at it carefully so that you will be sure to recognise it in case you travel some day to the African desert .
+# 0_ERROR = Tokens [14]: Invalid supersense(s) in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [14]}
+# 1_ERROR = Tokens [15]: Invalid supersense(s) in lexical entry: {'lexlemma': 'case', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [15]}
+# 2_ERROR = single-word expression 'case' has lexcat P, which is incompatible with its upos NOUN
+1	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	look	_	_	_	_	_	O-V
+2	at	at	ADP	IN	_	3	case	_	_	_	P	at	p.Stimulus	p.Direction	_	_	_	O-P-p.Stimulus|p.Direction
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obl	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+4	carefully	carefully	ADV	RB	_	1	advmod	_	_	_	ADV	carefully	_	_	_	_	_	O-ADV
+5	so	so	SCONJ	IN	_	10	mark	_	_	_	SCONJ	so	_	_	_	_	_	O-SCONJ
+6	that	that	SCONJ	IN	_	5	fixed	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+8	will	will	AUX	MD	VerbForm=Fin	10	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+10	sure	sure	ADJ	JJ	Degree=Pos	1	advcl	_	_	_	ADJ	sure	_	_	_	_	_	O-ADJ
+11	to	to	PART	TO	_	12	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+12	recognise	recognise	VERB	VB	VerbForm=Inf	10	xcomp	_	_	_	V	recognise	_	_	_	_	_	O-V
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+14	in	in	ADP	IN	_	17	mark	_	_	_	P	in	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+15	case	case	NOUN	NN	Number=Sing	14	fixed	_	_	_	P	case	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+17	travel	travel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	_	_	V	travel	_	_	_	_	_	O-V
+18	some	some	DET	DT	_	19	det	_	_	_	DET	some	_	_	_	_	_	O-DET
+19	day	day	NOUN	NN	Number=Sing	17	obl:tmod	_	_	_	N	day	_	_	_	_	_	O-N
+20	to	to	ADP	IN	_	23	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+22	African	African	ADJ	JJ	Degree=Pos	23	amod	_	_	_	ADJ	African	_	_	_	_	_	O-ADJ
+23	desert	desert	NOUN	NN	Number=Sing	17	obl	_	_	_	N	desert	_	_	_	_	_	O-N
+24	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1558
+# mwe = And , if you should come upon this spot , please do not hurry on .
+# 0_ERROR = Tokens [15]: Missing supersense annotation in lexical entry: {'lexlemma': 'on', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [15]}
+1	And	and	CCONJ	CC	_	14	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+3	if	if	SCONJ	IN	_	6	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+5	should	should	AUX	MD	VerbForm=Fin	6	aux	_	_	_	AUX	should	_	_	_	_	_	O-AUX
+6	come	come	VERB	VB	VerbForm=Inf	14	advcl	_	_	_	V	come	_	_	_	_	_	O-V
+7	upon	upon	ADP	IN	_	9	case	_	_	_	P	upon	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	_	_	DET	this	_	_	_	_	_	O-DET
+9	spot	spot	NOUN	NN	Number=Sing	6	obl	_	_	_	N	spot	_	_	_	_	_	O-N
+10	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	please	please	INTJ	UH	_	14	discourse	_	_	_	INTJ	please	_	_	_	_	_	O-INTJ
+12	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	14	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
+13	not	not	PART	RB	_	14	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+14	hurry	hurry	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	hurry	_	_	_	_	_	O-V
+15	on	on	ADP	RP	_	14	compound:prt	_	_	_	P	on	_	_	_	_	_	O-P
+16	.	.	PUNCT	.	_	14	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1559
+# mwe = Wait for a time , exactly under the star .
+1	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	wait	_	_	_	_	_	O-V
+2	for	for	ADP	IN	_	4	case	_	_	_	P	for	p.Duration	p.Duration	_	_	_	O-P-p.Duration
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+4	time	time	NOUN	NN	Number=Sing	1	obl	_	_	_	N	time	_	_	_	_	_	O-N
+5	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+6	exactly	exactly	ADV	RB	_	9	advmod	_	_	_	ADV	exactly	_	_	_	_	_	O-ADV
+7	under	under	ADP	IN	_	9	case	_	_	_	P	under	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	star	star	NOUN	NN	Number=Sing	1	obl	_	_	_	N	star	_	_	_	_	_	O-N
+10	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1560
+# mwe = Then , if a little man appears who laughs , who has golden hair and who refuses to answer questions , you will know who he is .
+1	Then	then	ADV	RB	PronType=Dem	24	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+2	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+3	if	if	SCONJ	IN	_	7	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+5	little	little	ADJ	JJ	Degree=Pos	6	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+6	man	man	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
+7	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_	_	V	appear	_	_	_	_	_	O-V
+8	who	who	PRON	WP	PronType=Rel	9	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+9	laughs	laugh	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_	_	V	laugh	_	_	_	_	_	O-V
+10	,	,	PUNCT	,	_	12	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	who	who	PRON	WP	PronType=Rel	12	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_	_	V	have	_	_	_	_	_	O-V
+13	golden	golden	ADJ	JJ	Degree=Pos	14	amod	_	_	_	ADJ	golden	_	_	_	_	_	O-ADJ
+14	hair	hair	NOUN	NN	Number=Sing	12	obj	_	_	_	N	hair	_	_	_	_	_	O-N
+15	and	and	CCONJ	CC	_	17	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+16	who	who	PRON	WP	PronType=Rel	17	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+17	refuses	refuse	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_	_	V	refuse	_	_	_	_	_	O-V
+18	to	to	PART	TO	_	19	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+19	answer	answer	VERB	VB	VerbForm=Inf	17	xcomp	_	_	_	V	answer	_	_	_	_	_	O-V
+20	questions	question	NOUN	NNS	Number=Plur	19	obj	_	_	_	N	question	_	_	_	_	_	O-N
+21	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+22	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	24	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+23	will	will	AUX	MD	VerbForm=Fin	24	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+24	know	know	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	know	_	_	_	_	_	O-V
+25	who	who	PRON	WP	PronType=Int	24	obj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+26	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+27	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+28	.	.	PUNCT	.	_	24	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1561
+# mwe = If this should happen , please comfort me .
+1	If	if	SCONJ	IN	_	4	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
+2	this	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	should	_	_	_	_	_	O-AUX
+4	happen	happen	VERB	VB	VerbForm=Inf	7	advcl	_	_	_	V	happen	_	_	_	_	_	O-V
+5	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+6	please	please	INTJ	UH	_	7	discourse	_	_	_	INTJ	please	_	_	_	_	_	O-INTJ
+7	comfort	comfort	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	comfort	_	_	_	_	_	O-V
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+9	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1562
+# mwe = Send me word that he has come back .
+1	Send	send	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	send	_	_	_	_	_	O-V
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+3	word	word	NOUN	NN	Number=Sing	1	obj	_	_	_	N	word	_	_	_	_	_	O-N
+4	that	that	SCONJ	IN	_	7	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+7	come	come	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_	_	V	come	_	_	_	_	_	O-V
+8	back	back	ADV	RB	_	7	advmod	_	_	_	P	back	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+9	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+

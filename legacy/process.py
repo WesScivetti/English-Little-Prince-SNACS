@@ -236,13 +236,16 @@ def enrich():
         sentences = read_conllulex(out_path)
         s_out = ""
         for sentence in sentences:
-            for i, error in enumerate(edict[sentence.metadata["sent_id"]]):
+            for j, error in enumerate(edict[sentence.metadata["sent_id"]]):
                 if error["token"]:
-                    s = f"Tokens {error['token']['toknums']}: "
+                    try:
+                        s = f"Tokens {error['token']['toknums']}: "
+                    except KeyError as e:
+                        s = f"Token {error['token']['#']}: "
                 else:
                     s = ""
                 s += error["explanation"]
-                sentence.metadata[f"{i}_ERROR"] = s
+                sentence.metadata[f"{j}_ERROR"] = s
             s_out += sentence.serialize()
         with open(out_path, "w") as f:
             f.write(s_out)

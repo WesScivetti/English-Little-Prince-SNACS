@@ -1,0 +1,373 @@
+# sent_id = lpp_1943.917
+# mwe = Chapter 16 .
+1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
+2	16	16	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	16	_	_	_	_	_	O-NUM
+3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.918
+# mwe = So then the seventh planet was the Earth .
+1	So	so	ADV	RB	_	8	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
+2	then	then	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+4	seventh	seventh	ADJ	JJ	Degree=Pos|NumType=Ord	5	amod	_	_	_	ADJ	seventh	_	_	_	_	_	O-ADJ
+5	planet	planet	NOUN	NN	Number=Sing	8	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	Earth	Earth	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Earth	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.919
+# mwe = The Earth is not just an ordinary planet !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	Earth	Earth	PROPN	NNP	Number=Sing	8	nsubj	_	_	_	N	Earth	_	_	_	_	_	O-N
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	not	not	PART	RB	_	8	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+5	just	just	ADV	RB	_	8	advmod	_	_	_	ADV	just	_	_	_	_	_	O-ADV
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+7	ordinary	ordinary	ADJ	JJ	Degree=Pos	8	amod	_	_	_	ADJ	ordinary	_	_	_	_	_	O-ADJ
+8	planet	planet	NOUN	NN	Number=Sing	0	root	_	_	_	N	planet	_	_	_	_	_	O-N
+9	!	!	PUNCT	.	_	8	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.920
+# mwe = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown - ups .
+1	One	one	PRON	PRP	_	3	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
+3	count	count	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	count	_	_	_	_	_	O-V
+4	,	,	PUNCT	,	_	3	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	there	there	PRON	EX	_	3	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
+6	111	111	NUM	CD	NumType=Card	7	nummod	_	_	_	NUM	111	_	_	_	_	_	O-NUM
+7	kings	king	NOUN	NNS	Number=Plur	3	obj	_	_	_	N	king	_	_	_	_	_	O-N
+8	(	(	PUNCT	-LRB-	_	10	punct	_	_	_	PUNCT	(	_	_	_	_	_	O-PUNCT
+9	not	not	ADV	RB	_	10	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
+10	forgetting	forget	VERB	VBG	VerbForm=Ger	7	acl	_	_	_	V	forget	_	_	_	_	_	O-V
+11	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+12	to	to	PART	TO	_	14	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+13	be	be	AUX	VB	VerbForm=Inf	14	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+14	sure	sure	ADJ	JJ	Degree=Pos	10	xcomp	_	_	_	ADJ	sure	_	_	_	_	_	O-ADJ
+15	,	,	PUNCT	,	_	18	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+17	Negro	Negro	PROPN	NNP	Number=Sing	18	compound	_	_	_	N	Negro	_	_	_	_	_	O-N
+18	kings	king	NOUN	NNS	Number=Plur	14	obj	_	_	_	N	king	_	_	_	_	_	O-N
+19	among	among	ADP	IN	_	20	case	_	_	_	P	among	p.Whole	p.Whole	_	_	_	O-P-p.Whole
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+21	)	)	PUNCT	-RRB-	_	18	punct	_	_	_	PUNCT	)	_	_	_	_	_	O-PUNCT
+22	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+23	7000	7000	NUM	CD	NumType=Card	24	nummod	_	_	_	NUM	7000	_	_	_	_	_	O-NUM
+24	geographers	geographer	NOUN	NNS	Number=Plur	7	conj	_	_	_	N	geographer	_	_	_	_	_	O-N
+25	,	,	PUNCT	,	_	27	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+26	900,000	900000	NUM	CD	NumType=Card	27	nummod	_	_	_	NUM	900000	_	_	_	_	_	O-NUM
+27	businessmen	businessmen	NOUN	NNS	Number=Plur	7	conj	_	_	_	N	businessmen	_	_	_	_	_	O-N
+28	,	,	PUNCT	,	_	30	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+29	7,500,000	7500000	NUM	CD	NumType=Card	30	nummod	_	_	_	NUM	7500000	_	_	_	_	_	O-NUM
+30	tipplers	tippler	NOUN	NNS	Number=Plur	7	conj	_	_	_	N	tippler	_	_	_	_	_	O-N
+31	,	,	PUNCT	,	_	34	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+32	311,000,000	3110000	NUM	CD	NumType=Card	34	nummod	_	_	_	NUM	3110000	_	_	_	_	_	O-NUM
+33	conceited	conceited	ADJ	JJ	Degree=Pos	34	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
+34	men	man	NOUN	NNS	Number=Plur	7	conj	_	_	_	N	man	_	_	_	_	_	O-N
+35	-	-	PUNCT	,	_	24	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+36	-	-	PUNCT	,	_	38	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+37	that	that	PRON	WDT	PronType=Rel	38	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+38	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_	_	V	be	_	_	_	_	_	O-V
+39	to	to	PART	TO	_	40	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+40	say	say	VERB	VB	VerbForm=Inf	38	ccomp	_	_	_	V	say	_	_	_	_	_	O-V
+41	,	,	PUNCT	,	_	46	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+42	about	about	ADV	RB	_	43	advmod	_	_	_	P	about	p.Approximator	p.Approximator	_	_	_	O-P-p.Approximator
+43	2,000,000,000	2000000000	NUM	CD	NumType=Card	46	nummod	_	_	_	NUM	2000000000	_	_	_	_	_	O-NUM
+44	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	46	amod	_	_	_	V	grow	_	_	_	_	_	O-V
+45	-	-	PUNCT	HYPH	_	46	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+46	ups	up	NOUN	NNS	Number=Plur	40	obj	_	_	_	N	up	_	_	_	_	_	O-N
+47	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.921
+# mwe = To give you an idea of the size of the Earth , I will tell you that before the invention of electricity it was necessary to maintain , over the whole of the six continents , a veritable army of 462,511 lamplighters for the street lamps .
+# 0_ERROR = Tokens [29]: Found an ss2 not prefixed with p. when ss was prefixed with p.
+1	To	to	PART	TO	_	2	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
+2	give	give	VERB	VB	VerbForm=Inf	15	advcl	_	_	_	V	give	_	_	_	_	_	O-V
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+5	idea	idea	NOUN	NN	Number=Sing	2	obj	_	_	_	N	idea	_	_	_	_	_	O-N
+6	of	of	ADP	IN	_	8	case	_	_	_	P	of	p.Topic	p.Topic	_	_	_	O-P-p.Topic
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	size	size	NOUN	NN	Number=Sing	5	nmod	_	_	_	N	size	_	_	_	_	_	O-N
+9	of	of	ADP	IN	_	11	case	_	_	_	P	of	p.Gestalt	p.Gestalt	_	_	_	O-P-p.Gestalt
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+11	Earth	Earth	PROPN	NNP	Number=Sing	8	nmod	_	_	_	N	Earth	_	_	_	_	_	O-N
+12	,	,	PUNCT	,	_	15	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+14	will	will	AUX	MD	VerbForm=Fin	15	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
+15	tell	tell	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	tell	_	_	_	_	_	O-V
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	iobj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+17	that	that	SCONJ	IN	_	25	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+18	before	before	ADP	IN	_	20	case	_	_	_	P	before	p.Time	p.Time	_	_	_	O-P-p.Time
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+20	invention	invention	NOUN	NN	Number=Sing	25	obl	_	_	_	N	invention	_	_	_	_	_	O-N
+21	of	of	ADP	IN	_	22	case	_	_	_	P	of	p.Theme	p.Theme	_	_	_	O-P-p.Theme
+22	electricity	electricity	NOUN	NN	Number=Sing	20	nmod	_	_	_	N	electricity	_	_	_	_	_	O-N
+23	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+24	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+25	necessary	necessary	ADJ	JJ	Degree=Pos	15	ccomp	_	_	_	ADJ	necessary	_	_	_	_	_	O-ADJ
+26	to	to	PART	TO	_	27	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+27	maintain	maintain	VERB	VB	VerbForm=Inf	25	csubj	_	_	_	V	maintain	_	_	_	_	_	O-V
+28	,	,	PUNCT	,	_	31	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+29	over	over	ADP	IN	_	31	case	_	_	_	P	over	p.Locus	_	_	_	_	O-P-p.Locus
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+31	whole	whole	NOUN	NN	Number=Sing	27	obl	_	_	_	N	whole	_	_	_	_	_	O-N
+32	of	of	ADP	IN	_	35	case	_	_	_	P	of	p.QuantityItem	p.Whole	_	_	_	O-P-p.QuantityItem|p.Whole
+33	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+34	six	six	NUM	CD	NumType=Card	35	nummod	_	_	_	NUM	six	_	_	_	_	_	O-NUM
+35	continents	continent	NOUN	NNS	Number=Plur	31	nmod	_	_	_	N	continent	_	_	_	_	_	O-N
+36	,	,	PUNCT	,	_	39	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+37	a	a	DET	DT	Definite=Ind|PronType=Art	39	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+38	veritable	veritable	ADJ	JJ	Degree=Pos	39	amod	_	_	_	ADJ	veritable	_	_	_	_	_	O-ADJ
+39	army	army	NOUN	NN	Number=Sing	31	appos	_	_	_	N	army	_	_	_	_	_	O-N
+40	of	of	ADP	IN	_	42	case	_	_	_	P	of	p.OrgMember	p.Stuff	_	_	_	O-P-p.OrgMember|p.Stuff
+41	462,511	462511	NUM	CD	NumType=Card	42	nummod	_	_	_	NUM	462511	_	_	_	_	_	O-NUM
+42	lamplighters	lamplighter	NOUN	NNS	Number=Plur	39	nmod	_	_	_	N	lamplighter	_	_	_	_	_	O-N
+43	for	for	ADP	IN	_	46	case	_	_	_	P	for	p.Purpose	p.Purpose	_	_	_	O-P-p.Purpose
+44	the	the	DET	DT	Definite=Def|PronType=Art	46	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+45	street	street	NOUN	NN	Number=Sing	46	compound	_	_	_	N	street	_	_	_	_	_	O-N
+46	lamps	lamp	NOUN	NNS	Number=Plur	42	nmod	_	_	_	N	lamp	_	_	_	_	_	O-N
+47	.	.	PUNCT	.	_	15	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.922
+# mwe = Seen from a slight distance , that would make a splendid spectacle .
+1	Seen	see	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	_	_	_	V	see	_	_	_	_	_	O-V
+2	from	from	ADP	IN	_	5	case	_	_	_	P	from	p.Locus	p.Source	_	_	_	O-P-p.Locus|p.Source
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+4	slight	slight	ADJ	JJ	Degree=Pos	5	amod	_	_	_	ADJ	slight	_	_	_	_	_	O-ADJ
+5	distance	distance	NOUN	NN	Number=Sing	1	obl	_	_	_	N	distance	_	_	_	_	_	O-N
+6	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	9	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+9	make	make	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	make	_	_	_	_	_	O-V
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+11	splendid	splendid	ADJ	JJ	Degree=Pos	12	amod	_	_	_	ADJ	splendid	_	_	_	_	_	O-ADJ
+12	spectacle	spectacle	NOUN	NN	Number=Sing	9	obj	_	_	_	N	spectacle	_	_	_	_	_	O-N
+13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.923
+# mwe = The movements of this army would be regulated like those of the ballet in the opera .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	movements	movement	NOUN	NNS	Number=Plur	8	nsubj:pass	_	_	_	N	movement	_	_	_	_	_	O-N
+3	of	of	ADP	IN	_	5	case	_	_	_	P	of	p.Agent	p.Gestalt	_	_	_	O-P-p.Agent|p.Gestalt
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	_	_	DET	this	_	_	_	_	_	O-DET
+5	army	army	NOUN	NN	Number=Sing	2	nmod	_	_	_	N	army	_	_	_	_	_	O-N
+6	would	would	AUX	MD	VerbForm=Fin	8	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+8	regulated	regulate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	regulate	_	_	_	_	_	O-V
+9	like	like	ADP	IN	_	10	case	_	_	_	P	like	p.ComparisonRef	p.ComparisonRef	_	_	_	O-P-p.ComparisonRef
+10	those	that	PRON	DT	Number=Plur|PronType=Dem	8	obl	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+11	of	of	ADP	IN	_	13	case	_	_	_	P	of	p.Agent	p.Gestalt	_	_	_	O-P-p.Agent|p.Gestalt
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+13	ballet	ballet	NOUN	NN	Number=Sing	10	nmod	_	_	_	N	ballet	_	_	_	_	_	O-N
+14	in	in	ADP	IN	_	16	case	_	_	_	P	in	p.Org	p.Locus	_	_	_	O-P-p.Org|p.Locus
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+16	opera	opera	NOUN	NN	Number=Sing	13	nmod	_	_	_	N	opera	_	_	_	_	_	O-N
+17	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.924
+# mwe = First would come the turn of the lamplighters of New Zealand and Australia .
+# 0_ERROR = Tokens [9]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [9]}
+# 1_ERROR = Token 9: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+1	First	first	ADV	RB	Degree=Pos	3	advmod	_	_	_	ADV	first	_	_	_	_	_	O-ADV
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+3	come	come	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	come	_	_	_	_	_	O-V
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+5	turn	turn	NOUN	NN	Number=Sing	3	obj	_	_	_	N	turn	_	_	_	_	_	O-N
+6	of	of	ADP	IN	_	8	case	_	_	_	P	of	p.Gestalt	p.Gestalt	_	_	_	O-P-p.Gestalt
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	lamplighters	lamplighter	NOUN	NNS	Number=Plur	5	nmod	_	_	_	N	lamplighter	_	_	_	_	_	O-N
+9	of	of	ADP	IN	_	10	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+10	New	New	ADJ	NNP	Degree=Pos	8	nmod	_	_	_	ADJ	New	_	_	_	_	_	O-ADJ
+11	Zealand	Zealand	PROPN	NNP	Number=Sing	10	flat	_	_	_	N	Zealand	_	_	_	_	_	O-N
+12	and	and	CCONJ	CC	_	13	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+13	Australia	Australia	PROPN	NNP	Number=Sing	10	conj	_	_	_	N	Australia	_	_	_	_	_	O-N
+14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.925
+# mwe = Having set their lamps alight , these would go off to sleep .
+# 0_ERROR = Tokens [10]: Missing supersense annotation in lexical entry: {'lexlemma': 'off', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [10]}
+1	Having	have	AUX	VBG	VerbForm=Ger	2	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+2	set	set	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	_	_	_	V	set	_	_	_	_	_	O-V
+3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	they	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
+4	lamps	lamp	NOUN	NNS	Number=Plur	2	obj	_	_	_	N	lamp	_	_	_	_	_	O-N
+5	alight	alight	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	2	xcomp	_	_	_	V	alight	_	_	_	_	_	O-V
+6	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+7	these	this	PRON	DT	Number=Plur|PronType=Dem	9	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+8	would	would	AUX	MD	VerbForm=Fin	9	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+9	go	go	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	go	_	_	_	_	_	O-V
+10	off	off	ADP	RP	_	9	compound:prt	_	_	_	P	off	_	_	_	_	_	O-P
+11	to	to	PART	TO	_	12	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+12	sleep	sleep	VERB	VB	VerbForm=Inf	9	advcl	_	_	_	V	sleep	_	_	_	_	_	O-V
+13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.926
+# mwe = Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
+# 0_ERROR = Tokens [1]: Invalid supersense(s) in lexical entry: {'lexlemma': 'next', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [1]}
+# 1_ERROR = Tokens [5]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [5]}
+# 2_ERROR = Token 5: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+1	Next	next	ADV	RB	_	10	advmod	_	_	_	P	next	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+2	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+4	lamplighters	lamplighter	NOUN	NNS	Number=Plur	10	nsubj	_	_	_	N	lamplighter	_	_	_	_	_	O-N
+5	of	of	ADP	IN	_	6	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+6	China	China	PROPN	NNP	Number=Sing	4	nmod	_	_	_	N	China	_	_	_	_	_	O-N
+7	and	and	CCONJ	CC	_	8	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+8	Siberia	Siberia	PROPN	NNP	Number=Sing	6	conj	_	_	_	N	Siberia	_	_	_	_	_	O-N
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+10	enter	enter	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	enter	_	_	_	_	_	O-V
+11	for	for	ADP	IN	_	13	case	_	_	_	P	for	p.Purpose	p.Purpose	_	_	_	O-P-p.Purpose
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_	_	PRON.POSS	they	p.Agent	p.Gestalt	_	_	_	O-PRON.POSS-p.Agent|p.Gestalt
+13	steps	step	NOUN	NNS	Number=Plur	10	obl	_	_	_	N	step	_	_	_	_	_	O-N
+14	in	in	ADP	IN	_	16	case	_	_	_	P	in	p.Whole	p.Locus	_	_	_	O-P-p.Whole|p.Locus
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+16	dance	dance	NOUN	NN	Number=Sing	13	nmod	_	_	_	N	dance	_	_	_	_	_	O-N
+17	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+18	and	and	CCONJ	CC	_	24	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+19	then	then	ADV	RB	PronType=Dem	24	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+20	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	nsubj:pass	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+21	too	too	ADV	RB	_	24	advmod	_	_	_	ADV	too	_	_	_	_	_	O-ADV
+22	would	would	AUX	MD	VerbForm=Fin	24	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+23	be	be	AUX	VB	VerbForm=Inf	24	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+24	waved	wave	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	_	_	V	wave	_	_	_	_	_	O-V
+25	back	back	ADV	RB	_	24	advmod	_	_	_	ADV	back	_	_	_	_	_	O-ADV
+26	into	into	ADP	IN	_	28	case	_	_	_	P	into	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+28	wings	wing	NOUN	NNS	Number=Plur	24	obl	_	_	_	N	wing	_	_	_	_	_	O-N
+29	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.927
+# mwe = After that would come the turn of the lamplighters of Russia and the Indies ; then those of Africa and Europe , then those of South America ; then those of South America ; then those of North America .
+# 0_ERROR = Tokens [10]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [10]}
+# 1_ERROR = Tokens [18]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [18]}
+# 2_ERROR = Tokens [25]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [25]}
+# 3_ERROR = Tokens [31]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [31]}
+# 4_ERROR = Tokens [37]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Gestalt', 'toknums': [37]}
+# 5_ERROR = Token 10: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+# 6_ERROR = Token 18: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+# 7_ERROR = Token 25: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+# 8_ERROR = Token 31: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+# 9_ERROR = Token 37: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+1	After	after	SCONJ	IN	_	4	mark	_	_	_	P	after	p.Time	p.Time	_	_	_	O-P-p.Time
+2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+4	come	come	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	come	_	_	_	_	_	O-V
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+6	turn	turn	NOUN	NN	Number=Sing	4	obj	_	_	_	N	turn	_	_	_	_	_	O-N
+7	of	of	ADP	IN	_	9	case	_	_	_	P	of	p.Gestalt	p.Gestalt	_	_	_	O-P-p.Gestalt
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	lamplighters	lamplighter	NOUN	NNS	Number=Plur	6	nmod	_	_	_	N	lamplighter	_	_	_	_	_	O-N
+10	of	of	ADP	IN	_	11	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+11	Russia	Russia	PROPN	NNP	Number=Sing	9	nmod	_	_	_	N	Russia	_	_	_	_	_	O-N
+12	and	and	CCONJ	CC	_	14	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+14	Indies	Indies	PROPN	NNP	Number=Sing	11	conj	_	_	_	N	Indies	_	_	_	_	_	O-N
+15	;	;	PUNCT	,	_	4	punct	_	_	_	PUNCT	;	_	_	_	_	_	O-PUNCT
+16	then	then	ADV	RB	PronType=Dem	17	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+17	those	that	PRON	DT	Number=Plur|PronType=Dem	6	conj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+18	of	of	ADP	IN	_	19	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+19	Africa	Africa	PROPN	NNP	Number=Sing	17	nmod	_	_	_	N	Africa	_	_	_	_	_	O-N
+20	and	and	CCONJ	CC	_	21	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+21	Europe	Europe	PROPN	NNP	Number=Sing	19	conj	_	_	_	N	Europe	_	_	_	_	_	O-N
+22	,	,	PUNCT	,	_	24	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+23	then	then	ADV	RB	PronType=Dem	24	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+24	those	that	PRON	DT	Number=Plur|PronType=Dem	17	conj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+25	of	of	ADP	IN	_	27	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+26	South	South	PROPN	NNP	Number=Sing	27	compound	_	_	_	N	South	_	_	_	_	_	O-N
+27	America	America	PROPN	NNP	Number=Sing	24	nmod	_	_	_	N	America	_	_	_	_	_	O-N
+28	;	;	PUNCT	,	_	24	punct	_	_	_	PUNCT	;	_	_	_	_	_	O-PUNCT
+29	then	then	ADV	RB	PronType=Dem	30	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+30	those	that	PRON	DT	Number=Plur|PronType=Dem	24	appos	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+31	of	of	ADP	IN	_	33	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+32	South	South	PROPN	NNP	Number=Sing	33	compound	_	_	_	N	South	_	_	_	_	_	O-N
+33	America	America	PROPN	NNP	Number=Sing	30	nmod	_	_	_	N	America	_	_	_	_	_	O-N
+34	;	;	PUNCT	,	_	36	punct	_	_	_	PUNCT	;	_	_	_	_	_	O-PUNCT
+35	then	then	ADV	RB	PronType=Dem	36	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
+36	those	that	PRON	DT	Number=Plur|PronType=Dem	30	appos	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+37	of	of	ADP	IN	_	39	case	_	_	_	P	of	_	p.Gestalt	_	_	_	O-P|p.Gestalt
+38	North	North	PROPN	NNP	Number=Sing	39	compound	_	_	_	N	North	_	_	_	_	_	O-N
+39	America	America	PROPN	NNP	Number=Sing	36	nmod	_	_	_	N	America	_	_	_	_	_	O-N
+40	.	.	PUNCT	.	_	30	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.928
+# mwe = And never would they make a mistake in the order of their entry upon the stage .
+1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	never	never	ADV	RB	_	5	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
+3	would	would	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+4	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+5	make	make	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	make	_	_	_	_	_	O-V
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+7	mistake	mistake	NOUN	NN	Number=Sing	5	obj	_	_	_	N	mistake	_	_	_	_	_	O-N
+8	in	in	ADP	IN	_	10	case	_	_	_	P	in	p.Circumstance	p.Circumstance	_	_	_	O-P-p.Circumstance
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+10	order	order	NOUN	NN	Number=Sing	7	nmod	_	_	_	N	order	_	_	_	_	_	O-N
+11	of	of	ADP	IN	_	13	case	_	_	_	P	of	p.Gestalt	p.Gestalt	_	_	_	O-P-p.Gestalt
+12	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_	_	PRON.POSS	they	p.Agent	p.Gestalt	_	_	_	O-PRON.POSS-p.Agent|p.Gestalt
+13	entry	entry	NOUN	NN	Number=Sing	10	nmod	_	_	_	N	entry	_	_	_	_	_	O-N
+14	upon	upon	ADP	IN	_	16	case	_	_	_	P	upon	p.Goal	p.Locus	_	_	_	O-P-p.Goal|p.Locus
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+16	stage	stage	NOUN	NN	Number=Sing	13	nmod	_	_	_	N	stage	_	_	_	_	_	O-N
+17	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.929
+# mwe = It would be magnificent .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	magnificent	magnificent	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	magnificent	_	_	_	_	_	O-ADJ
+5	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.930
+# mwe = Only the man who was in charge of the single lamp at the North Pole , and his colleague who was responsible for the single lamp at the South Pole - - only these two would live free from toil and care : they would be busy twice a year .
+1	Only	only	ADV	RB	_	3	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+3	man	man	NOUN	NN	Number=Sing	37	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
+4	who	who	PRON	WP	PronType=Rel	7	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+6	in	in	ADP	IN	_	7	case	_	_	_	P	in	p.Characteristic	p.Locus	_	_	_	O-P-p.Characteristic|p.Locus
+7	charge	charge	NOUN	NN	Number=Sing	3	acl:relcl	_	_	_	N	charge	_	_	_	_	_	O-N
+8	of	of	ADP	IN	_	11	case	_	_	_	P	of	p.Theme	p.Theme	_	_	_	O-P-p.Theme
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+10	single	single	ADJ	JJ	Degree=Pos	11	amod	_	_	_	ADJ	single	_	_	_	_	_	O-ADJ
+11	lamp	lamp	NOUN	NN	Number=Sing	7	nmod	_	_	_	N	lamp	_	_	_	_	_	O-N
+12	at	at	ADP	IN	_	15	case	_	_	_	P	at	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+14	North	North	PROPN	NNP	Number=Sing	15	compound	_	_	_	N	North	_	_	_	_	_	O-N
+15	Pole	Pole	PROPN	NNP	Number=Sing	11	nmod	_	_	_	N	Pole	_	_	_	_	_	O-N
+16	,	,	PUNCT	,	_	19	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+17	and	and	CCONJ	CC	_	19	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	_	_	PRON.POSS	he	p.SocialRel	p.Gestalt	_	_	_	O-PRON.POSS-p.SocialRel|p.Gestalt
+19	colleague	colleague	NOUN	NN	Number=Sing	3	conj	_	_	_	N	colleague	_	_	_	_	_	O-N
+20	who	who	PRON	WP	PronType=Rel	22	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+21	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+22	responsible	responsible	ADJ	JJ	Degree=Pos	19	acl:relcl	_	_	_	ADJ	responsible	_	_	_	_	_	O-ADJ
+23	for	for	ADP	IN	_	26	case	_	_	_	P	for	p.Theme	p.Theme	_	_	_	O-P-p.Theme
+24	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+25	single	single	ADJ	JJ	Degree=Pos	26	amod	_	_	_	ADJ	single	_	_	_	_	_	O-ADJ
+26	lamp	lamp	NOUN	NN	Number=Sing	22	obl	_	_	_	N	lamp	_	_	_	_	_	O-N
+27	at	at	ADP	IN	_	30	case	_	_	_	P	at	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+28	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+29	South	South	PROPN	NNP	Number=Sing	30	compound	_	_	_	N	South	_	_	_	_	_	O-N
+30	Pole	Pole	PROPN	NNP	Number=Sing	26	nmod	_	_	_	N	Pole	_	_	_	_	_	O-N
+31	-	-	PUNCT	,	_	37	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+32	-	-	PUNCT	,	_	37	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+33	only	only	ADV	RB	_	35	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
+34	these	this	DET	DT	Number=Plur|PronType=Dem	35	det	_	_	_	DET	this	_	_	_	_	_	O-DET
+35	two	two	NUM	CD	NumType=Card	37	nsubj	_	_	_	NUM	two	_	_	_	_	_	O-NUM
+36	would	would	AUX	MD	VerbForm=Fin	37	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+37	live	live	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	live	_	_	_	_	_	O-V
+38	free	free	ADJ	JJ	Degree=Pos	37	xcomp	_	_	_	ADJ	free	_	_	_	_	_	O-ADJ
+39	from	from	ADP	IN	_	40	case	_	_	_	P	from	p.Theme	p.Source	_	_	_	O-P-p.Theme|p.Source
+40	toil	toil	NOUN	NN	Number=Sing	38	obl	_	_	_	N	toil	_	_	_	_	_	O-N
+41	and	and	CCONJ	CC	_	42	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+42	care	care	NOUN	NN	Number=Sing	40	conj	_	_	_	N	care	_	_	_	_	_	O-N
+43	:	:	PUNCT	:	_	37	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
+44	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	47	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+45	would	would	AUX	MD	VerbForm=Fin	47	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
+46	be	be	AUX	VB	VerbForm=Inf	47	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+47	busy	busy	ADJ	JJ	Degree=Pos	37	parataxis	_	_	_	ADJ	busy	_	_	_	_	_	O-ADJ
+48	twice	twice	ADV	RB	NumType=Mult	47	advmod	_	_	_	ADV	twice	_	_	_	_	_	O-ADV
+49	a	a	DET	DT	Definite=Ind|PronType=Art	50	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+50	year	year	NOUN	NN	Number=Sing	47	obl:tmod	_	_	_	N	year	_	_	_	_	_	O-N
+51	.	.	PUNCT	.	_	37	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+

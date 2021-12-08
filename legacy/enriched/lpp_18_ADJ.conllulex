@@ -1,0 +1,193 @@
+# sent_id = lpp_1943.991
+# mwe = Chapter 18 .
+1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
+2	18	18	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	18	_	_	_	_	_	O-NUM
+3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.992
+# mwe = The little prince crossed the desert and met with only one flower .
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+4	crossed	cross	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	cross	_	_	_	_	_	O-V
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+6	desert	desert	NOUN	NN	Number=Sing	4	obj	_	_	_	N	desert	_	_	_	_	_	O-N
+7	and	and	CCONJ	CC	_	8	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+8	met	meet	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_	_	V	meet	_	_	_	_	_	O-V
+9	with	with	ADP	IN	_	12	case	_	_	_	P	with	p.Theme	p.Theme	_	_	_	O-P-p.Theme
+10	only	only	ADV	RB	_	11	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
+11	one	one	NUM	CD	NumType=Card	12	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
+12	flower	flower	NOUN	NN	Number=Sing	8	obl	_	_	_	N	flower	_	_	_	_	_	O-N
+13	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.993
+# mwe = It was a flower with three petals , a flower of no account at all .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+4	flower	flower	NOUN	NN	Number=Sing	0	root	_	_	_	N	flower	_	_	_	_	_	O-N
+5	with	with	ADP	IN	_	7	case	_	_	_	P	with	p.PartPortion	p.PartPortion	_	_	_	O-P-p.PartPortion
+6	three	three	NUM	CD	NumForm=Word|NumType=Card	7	nummod	_	_	_	NUM	three	_	_	_	_	_	O-NUM
+7	petals	petal	NOUN	NNS	Number=Plur	4	nmod	_	_	_	N	petal	_	_	_	_	_	O-N
+8	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+10	flower	flower	NOUN	NN	Number=Sing	7	appos	_	_	_	N	flower	_	_	_	_	_	O-N
+11	of	of	ADP	IN	_	13	case	_	_	_	P	of	p.Characteristic	p.Identity	_	_	_	O-P-p.Characteristic|p.Identity
+12	no	no	DET	DT	_	13	det	_	_	_	DET	no	_	_	_	_	_	O-DET
+13	account	account	NOUN	NN	Number=Sing	10	nmod	_	_	_	N	account	_	_	_	_	_	O-N
+14	at	at	ADP	IN	_	15	case	_	_	_	P	at	p.Extent	p.Extent	_	_	_	O-P-p.Extent
+15	all	all	DET	DT	_	13	nmod	_	_	_	DET	all	_	_	_	_	_	O-DET
+16	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.994
+# mwe = " Good morning , " said the little prince .
+1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
+3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
+4	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+9	prince	prince	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.995
+# mwe = " Good morning , " said the flower .
+1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
+3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
+4	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+6	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	flower	flower	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.996
+# mwe = " Where are the men ? " the little prince asked , politely .
+1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Where	where	ADV	WRB	PronType=Int	11	ccomp	_	_	_	ADV	where	_	_	_	_	_	O-ADV
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+5	men	man	NOUN	NNS	Number=Plur	2	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
+6	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+7	"	"	PUNCT	''	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+10	prince	prince	NOUN	NN	Number=Sing	11	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+11	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
+12	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+13	politely	politely	ADV	RB	_	11	advmod	_	_	_	ADV	politely	_	_	_	_	_	O-ADV
+14	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.997
+# mwe = The flower had once seen a caravan passing .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	flower	flower	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
+3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
+4	once	once	ADV	RB	NumType=Mult	5	advmod	_	_	_	ADV	once	_	_	_	_	_	O-ADV
+5	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	see	_	_	_	_	_	O-V
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+7	caravan	caravan	NOUN	NN	Number=Sing	8	compound	_	_	_	N	caravan	_	_	_	_	_	O-N
+8	passing	passing	NOUN	NN	Number=Sing	5	obj	_	_	_	N	passing	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.998
+# mwe = " Men ? " she echoed .
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Men	man	NOUN	NNS	Number=Plur	6	ccomp	_	_	_	N	man	_	_	_	_	_	O-N
+3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+4	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
+6	echoed	echoe	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	echoe	_	_	_	_	_	O-V
+7	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.999
+# mwe = " I think there are six or seven of them in existence .
+1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+3	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	think	_	_	_	_	_	O-V
+4	there	there	PRON	EX	_	5	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
+5	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	_	_	V	be	_	_	_	_	_	O-V
+6	six	six	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_	_	NUM	six	_	_	_	_	_	O-NUM
+7	or	or	CCONJ	CC	_	8	cc	_	_	_	CCONJ	or	_	_	_	_	_	O-CCONJ
+8	seven	seven	NUM	CD	NumType=Card	6	conj	_	_	_	NUM	seven	_	_	_	_	_	O-NUM
+9	of	of	ADP	IN	_	10	case	_	_	_	P	of	p.QuantityItem	p.QuantityItem	_	_	_	O-P-p.QuantityItem
+10	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	nmod	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+11	in	in	ADP	IN	_	12	case	_	_	_	P	in	p.Characteristic	p.Locus	_	_	_	O-P-p.Characteristic|p.Locus
+12	existence	existence	NOUN	NN	Number=Sing	5	obl	_	_	_	N	existence	_	_	_	_	_	O-N
+13	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1000
+# mwe = I saw them , several years ago .
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+2	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	see	_	_	_	_	_	O-V
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+4	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+5	several	several	ADJ	JJ	Degree=Pos	6	amod	_	_	_	ADJ	several	_	_	_	_	_	O-ADJ
+6	years	year	NOUN	NNS	Number=Plur	7	obl:npmod	_	_	_	N	year	_	_	_	_	_	O-N
+7	ago	ago	ADV	RB	_	2	advmod	_	_	_	P	ago	p.Time	p.Interval	_	_	_	O-P-p.Time|p.Interval
+8	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1001
+# mwe = But one never knows where to find them .
+1	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+2	one	one	PRON	PRP	_	4	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
+3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
+4	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	know	_	_	_	_	_	O-V
+5	where	where	SCONJ	WRB	PronType=Int	7	mark	_	_	_	SCONJ	where	_	_	_	_	_	O-SCONJ
+6	to	to	PART	TO	_	7	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+7	find	find	VERB	VB	VerbForm=Inf	4	xcomp	_	_	_	V	find	_	_	_	_	_	O-V
+8	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+9	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1002
+# mwe = The wind blows them away .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	wind	wind	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	wind	_	_	_	_	_	O-N
+3	blows	blow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	blow	_	_	_	_	_	O-V
+4	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+5	away	away	ADV	RB	_	3	advmod	_	_	_	P	away	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+6	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1003
+# mwe = They have no roots , and that makes their life very difficult . "
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
+3	no	no	DET	DT	_	4	det	_	_	_	DET	no	_	_	_	_	_	O-DET
+4	roots	root	NOUN	NNS	Number=Plur	2	obj	_	_	_	N	root	_	_	_	_	_	O-N
+5	,	,	PUNCT	,	_	8	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+6	and	and	CCONJ	CC	_	8	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+7	that	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
+8	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_	_	V	make	_	_	_	_	_	O-V
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_	_	PRON.POSS	they	p.Theme	p.Gestalt	_	_	_	O-PRON.POSS-p.Theme|p.Gestalt
+10	life	life	NOUN	NN	Number=Sing	8	obj	_	_	_	N	life	_	_	_	_	_	O-N
+11	very	very	ADV	RB	_	12	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
+12	difficult	difficult	ADJ	JJ	Degree=Pos	8	xcomp	_	_	_	ADJ	difficult	_	_	_	_	_	O-ADJ
+13	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+14	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1004
+# mwe = " Goodbye , " said the little prince .
+1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	5	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
+3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+4	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+7	little	little	ADJ	JJ	Degree=Pos	8	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+8	prince	prince	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.1005
+# mwe = " Goodbye , " said the flower .
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	5	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
+3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+4	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+5	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+7	flower	flower	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
+8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+

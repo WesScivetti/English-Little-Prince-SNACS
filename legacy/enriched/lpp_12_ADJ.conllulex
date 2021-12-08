@@ -1,0 +1,255 @@
+# sent_id = lpp_1943.634
+# mwe = Chapter 12 .
+1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
+2	12	12	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	12	_	_	_	_	_	O-NUM
+3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.635
+# mwe = The next planet was inhabited by a tippler .
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	next	next	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	next	_	_	_	_	_	O-ADJ
+3	planet	planet	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	planet	_	_	_	_	_	O-N
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+5	inhabited	inhabit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	inhabit	_	_	_	_	_	O-V
+6	by	by	ADP	IN	_	8	case	_	_	_	P	by	p.Agent	p.Agent	_	_	_	O-P-p.Agent
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+8	tippler	tippler	NOUN	NN	Number=Sing	5	obl	_	_	_	N	tippler	_	_	_	_	_	O-N
+9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.636
+# mwe = This was a very short visit , but it plunged the little prince into deep dejection .
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+4	very	very	ADV	RB	_	5	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
+5	short	short	ADJ	JJ	Degree=Pos	6	amod	_	_	_	ADJ	short	_	_	_	_	_	O-ADJ
+6	visit	visit	NOUN	NN	Number=Sing	0	root	_	_	_	N	visit	_	_	_	_	_	O-N
+7	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+8	but	but	CCONJ	CC	_	10	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
+9	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
+10	plunged	plunge	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_	_	V	plunge	_	_	_	_	_	O-V
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+12	little	little	ADJ	JJ	Degree=Pos	13	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+13	prince	prince	NOUN	NN	Number=Sing	10	obj	_	_	_	N	prince	_	_	_	_	_	O-N
+14	into	into	ADP	IN	_	16	case	_	_	_	P	into	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+15	deep	deep	ADJ	JJ	Degree=Pos	16	amod	_	_	_	ADJ	deep	_	_	_	_	_	O-ADJ
+16	dejection	dejection	NOUN	NN	Number=Sing	10	obl	_	_	_	N	dejection	_	_	_	_	_	O-N
+17	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.637
+# mwe = " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
+# 0_ERROR = Tokens [19]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [19]}
+1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+5	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	_	_	V	do	_	_	_	_	_	O-V
+6	there	there	ADV	RB	PronType=Dem	5	advmod	_	_	_	ADV	there	_	_	_	_	_	O-ADV
+7	?	?	PUNCT	.	_	5	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+8	"	"	PUNCT	''	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+9	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+10	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+11	to	to	ADP	IN	_	13	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+13	tippler	tipple	ADJ	JJR	Degree=Cmp	10	obl	_	_	_	ADJ	tipple	_	_	_	_	_	O-ADJ
+14	,	,	PUNCT	,	_	13	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+15	whom	whom	PRON	WP	PronType=Int	17	obj	_	_	_	PRON	whom	_	_	_	_	_	O-PRON
+16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+17	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_	_	V	find	_	_	_	_	_	O-V
+18	settled	settle	VERB	VBN	Tense=Past|VerbForm=Part	17	xcomp	_	_	_	V	settle	_	_	_	_	_	O-V
+19	down	down	ADP	RP	_	18	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+20	in	in	ADP	IN	_	21	case	_	_	_	P	in	p.Characteristic	p.Locus	_	_	_	O-P-p.Characteristic|p.Locus
+21	silence	silence	NOUN	NN	Number=Sing	18	obl	_	_	_	N	silence	_	_	_	_	_	O-N
+22	before	before	ADP	IN	_	24	case	_	_	_	P	before	p.Locus	p.Locus	_	_	_	O-P-p.Locus
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+24	collection	collection	NOUN	NN	Number=Sing	18	obl	_	_	_	N	collection	_	_	_	_	_	O-N
+25	of	of	ADP	IN	_	27	case	_	_	_	P	of	p.QuantityItem	p.Stuff	_	_	_	O-P-p.QuantityItem|p.Stuff
+26	empty	empty	ADJ	JJ	Degree=Pos	27	amod	_	_	_	ADJ	empty	_	_	_	_	_	O-ADJ
+27	bottles	bottle	NOUN	NNS	Number=Plur	24	nmod	_	_	_	N	bottle	_	_	_	_	_	O-N
+28	and	and	CCONJ	CC	_	31	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+29	also	also	ADV	RB	_	31	advmod	_	_	_	ADV	also	_	_	_	_	_	O-ADV
+30	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+31	collection	collection	NOUN	NN	Number=Sing	24	conj	_	_	_	N	collection	_	_	_	_	_	O-N
+32	of	of	ADP	IN	_	34	case	_	_	_	P	of	p.QuantityItem	p.Stuff	_	_	_	O-P-p.QuantityItem|p.Stuff
+33	full	full	ADJ	JJ	Degree=Pos	34	amod	_	_	_	ADJ	full	_	_	_	_	_	O-ADJ
+34	bottles	bottle	NOUN	NNS	Number=Plur	31	nmod	_	_	_	N	bottle	_	_	_	_	_	O-N
+35	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.638
+# mwe = " I am drinking , " replied the tippler , with a lugubrious air .
+1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	drinking	drink	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	_	_	V	drink	_	_	_	_	_	O-V
+5	,	,	PUNCT	,	_	4	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+6	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+7	replied	reply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	reply	_	_	_	_	_	O-V
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	tippler	tipple	ADJ	JJR	Degree=Cmp	7	nsubj	_	_	_	ADJ	tipple	_	_	_	_	_	O-ADJ
+10	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	with	with	ADP	IN	_	14	case	_	_	_	P	with	p.Manner	p.Manner	_	_	_	O-P-p.Manner
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+13	lugubrious	lugubrious	ADJ	JJ	Degree=Pos	14	amod	_	_	_	ADJ	lugubrious	_	_	_	_	_	O-ADJ
+14	air	air	NOUN	NN	Number=Sing	7	obl	_	_	_	N	air	_	_	_	_	_	O-N
+15	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.639
+# mwe = " Why are you drinking ? " demanded the little prince .
+1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Why	why	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
+5	drinking	drink	VERB	VBG	Tense=Pres|VerbForm=Part	8	ccomp	_	_	_	V	drink	_	_	_	_	_	O-V
+6	?	?	PUNCT	.	_	5	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+7	"	"	PUNCT	''	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+8	demanded	demand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	demand	_	_	_	_	_	O-V
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+10	little	little	ADJ	JJ	Degree=Pos	11	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+11	prince	prince	NOUN	NN	Number=Sing	8	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+12	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.640
+# mwe = " So that I may forget , " replied the tippler .
+1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	So	so	ADV	RB	_	9	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
+3	that	that	SCONJ	IN	_	6	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+5	may	may	AUX	MD	VerbForm=Fin	6	aux	_	_	_	AUX	may	_	_	_	_	_	O-AUX
+6	forget	forget	VERB	VB	VerbForm=Inf	9	ccomp	_	_	_	V	forget	_	_	_	_	_	O-V
+7	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+8	"	"	PUNCT	''	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+9	replied	reply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	reply	_	_	_	_	_	O-V
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+11	tippler	tipple	ADJ	JJR	Degree=Cmp	9	nsubj	_	_	_	ADJ	tipple	_	_	_	_	_	O-ADJ
+12	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.641
+# mwe = " Forget what ? " inquired the little prince , who already was sorry for him .
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Forget	forget	VERB	VB	Mood=Imp|VerbForm=Fin	6	ccomp	_	_	_	V	forget	_	_	_	_	_	O-V
+3	what	what	PRON	WP	PronType=Int	2	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
+4	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+5	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+6	inquired	inquire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	inquire	_	_	_	_	_	O-V
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+9	prince	prince	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+10	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+11	who	who	PRON	WP	PronType=Rel	14	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+12	already	already	ADV	RB	_	14	advmod	_	_	_	ADV	already	_	_	_	_	_	O-ADV
+13	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+14	sorry	sorry	ADJ	JJ	Degree=Pos	9	acl:relcl	_	_	_	ADJ	sorry	_	_	_	_	_	O-ADJ
+15	for	for	ADP	IN	_	16	case	_	_	_	P	for	p.Stimulus	p.Beneficiary	_	_	_	O-P-p.Stimulus|p.Beneficiary
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+17	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.642
+# mwe = " Forget that I am ashamed , " the tippler confessed , hanging his head .
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Forget	forget	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	forget	_	_	_	_	_	O-V
+3	that	that	SCONJ	IN	_	6	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+6	ashamed	ashamed	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_	_	V	ashamed	_	_	_	_	_	O-V
+7	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+8	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+10	tippler	tippler	ADV	RBR	Degree=Cmp	11	advmod	_	_	_	ADV	tippler	_	_	_	_	_	O-ADV
+11	confessed	confess	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_	_	V	confess	_	_	_	_	_	O-V
+12	,	,	PUNCT	,	_	13	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+13	hanging	hang	VERB	VBG	VerbForm=Ger	11	advcl	_	_	_	V	hang	_	_	_	_	_	O-V
+14	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	_	_	PRON.POSS	he	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
+15	head	head	NOUN	NN	Number=Sing	13	obj	_	_	_	N	head	_	_	_	_	_	O-N
+16	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.643
+# mwe = " Ashamed of what ? " insisted the little prince , who wanted to help him .
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Ashamed	ashamed	ADJ	JJ	Degree=Pos	7	ccomp	_	_	_	ADJ	ashamed	_	_	_	_	_	O-ADJ
+3	of	of	ADP	IN	_	4	case	_	_	_	P	of	p.Stimulus	p.Topic	_	_	_	O-P-p.Stimulus|p.Topic
+4	what	what	PRON	WP	PronType=Int	2	obl	_	_	_	PRON	what	_	_	_	_	_	O-PRON
+5	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
+6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+7	insisted	insist	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	insist	_	_	_	_	_	O-V
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+9	little	little	ADJ	JJ	Degree=Pos	10	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+10	prince	prince	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+11	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+12	who	who	PRON	WP	PronType=Rel	13	nsubj	_	_	_	PRON	who	_	_	_	_	_	O-PRON
+13	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_	_	V	want	_	_	_	_	_	O-V
+14	to	to	PART	TO	_	15	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+15	help	help	VERB	VB	VerbForm=Inf	13	xcomp	_	_	_	V	help	_	_	_	_	_	O-V
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+17	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.644
+# mwe = " Ashamed of drinking ! "
+1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	Ashamed	ashamed	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	ashamed	_	_	_	_	_	O-ADJ
+3	of	of	SCONJ	IN	_	4	case	_	_	_	P	of	p.Stimulus	p.Topic	_	_	_	O-P-p.Stimulus|p.Topic
+4	drinking	drinking	NOUN	NN	Number=Sing	2	obl	_	_	_	N	drinking	_	_	_	_	_	O-N
+5	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
+6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.645
+# mwe = The tippler brought his speech to an end , and shut himself up in an impregnable silence .
+# 0_ERROR = Tokens [13]: Missing supersense annotation in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [13]}
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+2	tippler	tippler	ADV	RBR	Degree=Cmp	3	advmod	_	_	_	ADV	tippler	_	_	_	_	_	O-ADV
+3	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	bring	_	_	_	_	_	O-V
+4	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_	_	PRON.POSS	he	p.Originator	p.Gestalt	_	_	_	O-PRON.POSS-p.Originator|p.Gestalt
+5	speech	speech	NOUN	NN	Number=Sing	3	obj	_	_	_	N	speech	_	_	_	_	_	O-N
+6	to	to	ADP	IN	_	8	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
+7	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+8	end	end	NOUN	NN	Number=Sing	3	obl	_	_	_	N	end	_	_	_	_	_	O-N
+9	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+10	and	and	CCONJ	CC	_	11	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+11	shut	shut	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_	_	V	shut	_	_	_	_	_	O-V
+12	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	_	_	PRON	himself	_	_	_	_	_	O-PRON
+13	up	up	ADP	RP	_	11	compound:prt	_	_	_	P	up	_	_	_	_	_	O-P
+14	in	in	ADP	IN	_	17	case	_	_	_	P	in	p.Goal	p.Locus	_	_	_	O-P-p.Goal|p.Locus
+15	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	_	_	DET	a	_	_	_	_	_	O-DET
+16	impregnable	impregnable	ADJ	JJ	Degree=Pos	17	amod	_	_	_	ADJ	impregnable	_	_	_	_	_	O-ADJ
+17	silence	silence	NOUN	NN	Number=Sing	11	obl	_	_	_	N	silence	_	_	_	_	_	O-N
+18	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.646
+# mwe = And the little prince went away , puzzled .
+1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
+4	prince	prince	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+5	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	go	_	_	_	_	_	O-V
+6	away	away	ADV	RB	_	5	advmod	_	_	_	P	away	p.Direction	p.Direction	_	_	_	O-P-p.Direction
+7	,	,	PUNCT	,	_	8	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+8	puzzled	puzzle	VERB	VBD	Tense=Past|VerbForm=Fin	5	conj	_	_	_	V	puzzle	_	_	_	_	_	O-V
+9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
+# sent_id = lpp_1943.647
+# mwe = " The grown - ups are certainly very , very odd , " he said to himself , as he continued on his journey .
+1	"	"	PUNCT	``	_	15	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+2	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
+3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	_	V	grow	_	_	_	_	_	O-V
+4	-	-	PUNCT	HYPH	_	5	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
+5	ups	up	NOUN	NNS	Number=Plur	11	nsubj	_	_	_	N	up	_	_	_	_	_	O-N
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
+7	certainly	certainly	ADV	RB	_	11	advmod	_	_	_	ADV	certainly	_	_	_	_	_	O-ADV
+8	very	very	ADV	RB	_	11	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
+9	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+10	very	very	ADV	RB	_	11	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
+11	odd	odd	ADJ	JJ	Degree=Pos	15	ccomp	_	_	_	ADJ	odd	_	_	_	_	_	O-ADJ
+12	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+13	"	"	PUNCT	''	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
+14	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+15	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
+16	to	to	ADP	IN	_	17	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
+17	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	obl	_	_	_	PRON	himself	_	_	_	_	_	O-PRON
+18	,	,	PUNCT	,	_	15	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
+19	as	as	SCONJ	IN	_	21	mark	_	_	_	P	as	p.Circumstance	p.Circumstance	_	_	_	O-P-p.Circumstance
+20	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
+21	continued	continue	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15	advcl	_	_	_	V	continue	_	_	_	_	_	O-V
+22	on	on	ADP	IN	_	24	case	_	_	_	P	on	p.Circumstance	p.Locus	_	_	_	O-P-p.Circumstance|p.Locus
+23	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	_	_	PRON.POSS	he	`$	`$	_	_	_	O-PRON.POSS-`$
+24	journey	journey	NOUN	NN	Number=Sing	21	obl	_	_	_	N	journey	_	_	_	_	_	O-N
+25	.	.	PUNCT	.	_	15	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
