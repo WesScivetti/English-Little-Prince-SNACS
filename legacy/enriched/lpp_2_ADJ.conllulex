@@ -1187,16 +1187,16 @@
 7	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.102
-# mwe = And that is how I made_ the _acquaintance~of the little prince .
+# mwe = And that is how I made_ the _acquaintance of the little prince .
 # doc_id = lpp_1943_en_ch-02
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	_	_	SCONJ	how	_	_	_	_	_	O-SCONJ
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-6	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_	1:1	P	make	_	_	2:1	make the acquaintance of	_	O-P-p.NONSNACS
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	2:2	_	_	o-DET
-8	acquaintance	acquaintance	NOUN	NN	Number=Sing	6	obj	_	_	1:2	P	acquaintance	_	_	2:3	_	_	I_
+6	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_	1:1	P	make	_	_	_	_	_	O-P-p.NONSNACS
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	o-DET
+8	acquaintance	acquaintance	NOUN	NN	Number=Sing	6	obj	_	_	1:2	P	acquaintance	_	_	_	_	_	I_
 9	of	of	ADP	IN	_	12	case	_	_	_	P	of	p.SocialRel	p.Gestalt	2:4	_	_	O-P-p.SocialRel|p.Gestalt
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 11	little	little	ADJ	JJ	Degree=Pos	12	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
