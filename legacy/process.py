@@ -2,10 +2,14 @@
 Combine annotations from the origin c1, c4, c5 pilot annotations and the later annotations for all
 other chapters and produce conllulex for all of them
 """
+from collections import defaultdict
 from glob import glob
 from pprint import pprint
 import conllu
+
+import conllulex.conllulex_to_json as clxj
 import conllulex.main as clx
+
 
 def read_conllulex(conllulex_path):
     """
@@ -36,22 +40,17 @@ def read_conllulex(conllulex_path):
 
 
 def parse_tsv(path):
-    with open(path, 'r') as f:
-        lines = f.read().split('\n')[1:]
+    with open(path, "r") as f:
+        lines = f.read().split("\n")[1:]
     output = []
     for line in lines:
-        pieces = line.split('\t')
-        if line[0] and line[0][0] == '#':
+        pieces = line.split("\t")
+        if line[0] and line[0][0] == "#":
             output.append({"type": "meta", "line": line})
         elif pieces[0] and pieces[1]:
-            output.append({
-                "type": "token",
-                "line": line,
-                "id": pieces[0],
-                "form": pieces[1],
-                "ss": pieces[3],
-                "ss2": pieces[4]
-            })
+            output.append(
+                {"type": "token", "line": line, "id": pieces[0], "form": pieces[1], "ss": pieces[3], "ss2": pieces[4]}
+            )
         else:
             output.append({"type": "blank"})
     return output
@@ -82,7 +81,7 @@ def find_mwes(sentences):
         for i, token in enumerate(sentence):
             if token["type"] == "token":
                 ss = token["ss"].strip()
-                if len(ss) > 0 and ss != "_" and sentence[i+1]["ss"].strip() == "_":
+                if len(ss) > 0 and ss != "_" and sentence[i + 1]["ss"].strip() == "_":
                     run = [i]
                     j = i + 1
                     while sentence[j]["ss"] == "_":
@@ -96,29 +95,36 @@ def find_mwes(sentences):
 def fmt(**kwargs):
     ss = kwargs.get("ss", "_") or "_"
     ss2 = kwargs.get("ss2", "_") or "_"
-    if ss != "_" and ss[0] != "`": ss = "p." + ss
-    if ss2 != "_" and ss2[0] != "`": ss2 = "p." + ss2
-    return "\t".join([
-        kwargs.get("id"),
-        kwargs.get("form"),
-        kwargs.get("lemma", "_") or "_",
-        kwargs.get("upos", "_") or "_",
-        kwargs.get("xpos", "_") or "_",
-        kwargs.get("feats", "_") or "_",
-        kwargs.get("head", "_") or "_",
-        kwargs.get("deprel", "_") or "_",
-        kwargs.get("deps", "_") or "_",
-        kwargs.get("misc", "_") or "_",
-        kwargs.get("smwe", "_") or "_",
-        kwargs.get("lexcat", "_") or "_",
-        kwargs.get("lexlemma", "_") or "_",
-        ss,
-        ss2,
-        kwargs.get("wmwe", "_") or "_",
-        kwargs.get("wcat", "_") or "_",
-        kwargs.get("wlemma", "_") or "_",
-        kwargs.get("lextag", "_") or "_",
-    ]) + "\n"
+    if ss != "_" and ss[0] != "`":
+        ss = "p." + ss
+    if ss2 != "_" and ss2[0] != "`":
+        ss2 = "p." + ss2
+    return (
+        "\t".join(
+            [
+                kwargs.get("id"),
+                kwargs.get("form"),
+                kwargs.get("lemma", "_") or "_",
+                kwargs.get("upos", "_") or "_",
+                kwargs.get("xpos", "_") or "_",
+                kwargs.get("feats", "_") or "_",
+                kwargs.get("head", "_") or "_",
+                kwargs.get("deprel", "_") or "_",
+                kwargs.get("deps", "_") or "_",
+                kwargs.get("misc", "_") or "_",
+                kwargs.get("smwe", "_") or "_",
+                kwargs.get("lexcat", "_") or "_",
+                kwargs.get("lexlemma", "_") or "_",
+                ss,
+                ss2,
+                kwargs.get("wmwe", "_") or "_",
+                kwargs.get("wcat", "_") or "_",
+                kwargs.get("wlemma", "_") or "_",
+                kwargs.get("lextag", "_") or "_",
+            ]
+        )
+        + "\n"
+    )
 
 
 def format_tsv(path):
@@ -134,14 +140,7 @@ def format_tsv(path):
                 s += token["line"] + "\n"
                 i += 1
             elif i not in mwes:
-                s += fmt(
-                    id=token["id"],
-                    form=token["form"],
-                    smwe="_",
-                    lexlemma="_",
-                    ss=token["ss"],
-                    ss2=token["ss2"]
-                )
+                s += fmt(id=token["id"], form=token["form"], smwe="_", lexlemma="_", ss=token["ss"], ss2=token["ss2"])
                 i += 1
             else:
                 run = mwes[i]
@@ -153,7 +152,7 @@ def format_tsv(path):
                         smwe=f"{mwe_counter}:{mwe_position + 1}",
                         lexlemma="_" if mwe_position == 0 else "_",
                         ss=token["ss"] if mwe_position == 0 else "_",
-                        ss2=token["ss2"] if mwe_position == 0 else "_"
+                        ss2=token["ss2"] if mwe_position == 0 else "_",
                     )
                 mwe_counter += 1
                 i += len(run)
@@ -163,20 +162,20 @@ def format_tsv(path):
 
 
 def write_blanked_tsvs():
-    paths = glob('raw_tsv/*.tsv')
+    paths = glob("raw_tsv/*.tsv")
     for path in paths:
         formatted = format_tsv(path)
-        with open(("blanked" + path[7:-4] + ".conllulex"), 'w') as f:
+        with open(("blanked" + path[7:-4] + ".conllulex"), "w") as f:
             f.write(formatted)
 
 
 def write_blanked_145():
-    paths = glob('raw_145/*.conllulex')
+    paths = glob("raw_145/*.conllulex")
     combined = ""
     for path in paths:
         sents = read_conllulex(path)
-        outpath = f'blanked{path[7:]}'.replace('annotation-chpt', '').replace('.conllulex', '_ADJ.conllulex')
-        with open(outpath, 'w') as f:
+        outpath = f"blanked{path[7:]}".replace("annotation-chpt", "").replace(".conllulex", "_ADJ.conllulex")
+        with open(outpath, "w") as f:
             for sent in sents:
                 del sent.metadata["text"]
                 for token in sent:
@@ -196,11 +195,11 @@ def write_blanked_145():
 def combine_blanked():
     write_blanked_145()
     write_blanked_tsvs()
-    with open('prince_en.conllulex', 'w') as f1:
+    with open("prince_en.conllulex", "w") as f1:
         for i in range(1, 28):
             if i in [1, 4, 5]:
                 continue
-            with open(f'blanked/lpp_{i}_ADJ.conllulex', 'r') as f2:
+            with open(f"blanked/lpp_{i}_ADJ.conllulex", "r") as f2:
                 f1.write(f2.read())
 
 
@@ -208,8 +207,45 @@ def enrich():
     for i in range(1, 28):
         if i in [1, 4, 5]:
             continue
-        out_path = f'enriched/lpp_{i}_ADJ.conllulex'
-        clx.enrich.callback(f'blanked/lpp_{i}_ADJ.conllulex', f'enriched/lpp_{i}_ADJ.conllulex', 'prince_en', None)
+        out_path = f"enriched/lpp_{i}_ADJ.conllulex"
+        clx.enrich.callback(f"blanked/lpp_{i}_ADJ.conllulex", out_path, "prince_en", None)
+
+        # get error report
+        include_morph_deps = True
+        include_misc = True
+        validate_upos_lextag = True
+        validate_type = True
+        store_conllulex_string = "none"
+        override_mwe_render = False
+        sentences, errors = clxj._load_sentences(
+            "prince_en",
+            out_path,
+            include_morph_deps,
+            include_misc,
+            store_conllulex_string,
+            lambda x: x,
+        )
+        clxj._validate_sentences(
+            "prince_en", sentences, errors, validate_upos_lextag, validate_type, override_mwe_render
+        )
+
+        edict = defaultdict(list)
+        for error in errors:
+            edict[error["sentence_id"]].append(error)
+
+        sentences = read_conllulex(out_path)
+        s_out = ""
+        for sentence in sentences:
+            for i, error in enumerate(edict[sentence.metadata["sent_id"]]):
+                if error["token"]:
+                    s = f"Tokens {error['token']['toknums']}: "
+                else:
+                    s = ""
+                s += error["explanation"]
+                sentence.metadata[f"{i}_ERROR"] = s
+            s_out += sentence.serialize()
+        with open(out_path, "w") as f:
+            f.write(s_out)
 
 
 def main():
@@ -217,5 +253,5 @@ def main():
     enrich()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
