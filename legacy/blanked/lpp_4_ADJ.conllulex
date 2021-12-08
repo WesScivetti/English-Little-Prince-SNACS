@@ -1,0 +1,1182 @@
+# sent_id = lpp_1943.146
+1	Chapter	chapter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	4	4	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.147
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	had	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	thus	thus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	learned	learn	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	second	second	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	fact	fact	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	of	of	_	_	_	_	_	_	_	_	_	_	p.Characteristic	p.Characteristic	_	_	_	_
+9	great	great	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	importance	importance	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	this	this	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	planet	planet	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	prince	prince	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	came	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	from	from	_	_	_	_	_	_	_	_	_	_	p.Source	p.Source	_	_	_	_
+22	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	scarcely	scarcely	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	larger	larger	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	than	than	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+27	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	house	house	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	!	!	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.148
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	did	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	really	really	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	surprise	surprise	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	me	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	much	much	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.149
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	knew	know	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	very	very	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	well	well	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_	1:1	_	_	p.Accompanier	p.Accompanier	_	_	_	_
+7	addition	addition	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+8	to	to	_	_	_	_	_	_	_	1:3	_	_	_	_	_	_	_	_
+9	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	great	great	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	planets	planet	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	--	--	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	such	such	_	_	_	_	_	_	_	2:1	_	_	p.PartPortion	p.PartPortion	_	_	_	_
+14	as	as	_	_	_	_	_	_	_	2:2	_	_	_	_	_	_	_	_
+15	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Earth	earth	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Jupiter	Jupiter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Mars	Mars	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Venus	Venus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	--	--	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+25	which	which	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	we	we	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	given	give	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	names	name	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	there	there	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	also	also	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	hundreds	hundred	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	of	of	_	_	_	_	_	_	_	_	_	_	p.Quantity	p.Quantity	_	_	_	_
+36	others	other	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	some	some	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	of	of	_	_	_	_	_	_	_	_	_	_	p.Quantity	p.Whole	_	_	_	_
+40	which	which	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	so	so	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	small	small	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	one	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	has	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	hard	hard	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+49	time	time	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+50	seeing	see	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	through	through	_	_	_	_	_	_	_	_	_	_	p.Instrument	p.Path	_	_	_	_
+53	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	telescope	telescope	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.150
+1	When	when	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	an	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	astronomer	astronomer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	discovers	discover	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	one	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	of	of	_	_	_	_	_	_	_	_	_	_	p.Quantity	p.Whole	_	_	_	_
+7	these	these	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	give	give	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	name	name	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	but	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	only	only	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	number	number	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.151
+1	He	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	might	might	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	call	call	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	for	for	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	example	example	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Asteroid	Asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	325	325	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.152
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	serious	serious	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	reason	reason	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_	_	_	_	`i	`i	_	_	_	_
+6	believe	believe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	planet	planet	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	from	from	_	_	_	_	_	_	_	_	_	_	p.Source	p.Source	_	_	_	_
+11	which	which	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	prince	prince	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	came	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	asteroid	asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	known	know	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	as	as	_	_	_	_	_	_	_	_	_	_	p.Identity	p.Identity	_	_	_	_
+21	B-612	b-612	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.153
+1	This	this	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	asteroid	asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	has	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	only	only	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	once	once	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	been	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	seen	see	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	through	through	_	_	_	_	_	_	_	_	_	_	p.Instrument	p.Path	_	_	_	_
+9	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	telescope	telescope	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.154
+1	That	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	by	by	_	_	_	_	_	_	_	_	_	_	p.Experiencer	p.Agent	_	_	_	_
+4	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Turkish	turkish	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	astronomer	astronomer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_	_	_	_	p.Time	p.Time	_	_	_	_
+9	1909	1909	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.155
+1	On	on	_	_	_	_	_	_	_	_	_	_	p.Time	p.Time	_	_	_	_
+2	making	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	his	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	discovery	discovery	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	astronomer	astronomer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	had	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	presented	present	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+12	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	International	International	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Astronomical	Astronomical	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Congress	Congress	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	in	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	great	great	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	demonstration	demonstration	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.156
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_	_	_	_	p.Possession	p.Locus	_	_	_	_
+5	Turkish	turkish	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	costume	costume	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	so	so	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	nobody	nobody	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	believe	believe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	what	what	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	said	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.157
+1	Grown	Grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	ups	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+6	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	...	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.158
+1	Fortunately	fortunately	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	however	however	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	for	for	_	_	_	_	_	_	_	_	_	_	p.Beneficiary	p.Beneficiary	_	_	_	_
+6	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	reputation	reputation	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	of	of	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+9	Asteroid	Asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	B-612	B-612	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Turkish	turkish	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	dictator	dictator	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	made	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	law	law	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	his	he	_	_	_	_	_	_	_	_	_	_	p.SocialRel	p.Gestalt	_	_	_	_
+20	subjects	subject	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	under	under	_	_	_	_	_	_	_	1:1	_	_	_	_	_	_	_	_
+23	pain	pain	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+24	of	of	_	_	_	_	_	_	_	1:3	_	_	_	_	_	_	_	_
+25	death	death	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	should	should	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	change	change	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	to	to	_	_	_	_	_	_	_	_	_	_	p.Goal	p.Goal	_	_	_	_
+30	European	european	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	costume	costume	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.159
+1	So	so	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	in	in	_	_	_	_	_	_	_	_	_	_	p.Time	p.Time	_	_	_	_
+3	1920	1920	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	astronomer	astronomer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	gave	give	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	his	he	_	_	_	_	_	_	_	_	_	_	p.Originator	p.Gestalt	_	_	_	_
+8	demonstration	demonstration	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	all	all	_	_	_	_	_	_	_	1:1	_	_	_	_	_	_	_	_
+10	over	over	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+11	again	again	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	dressed	dress	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	with	with	_	_	_	_	_	_	_	_	_	_	p.Characteristic	p.Characteristic	_	_	_	_
+15	impressive	impressive	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	style	style	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	elegance	elegance	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.160
+1	And	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	this	this	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	time	time	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	everybody	everybody	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	accepted	accept	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	his	he	_	_	_	_	_	_	_	_	_	_	p.Originator	p.Gestalt	_	_	_	_
+7	report	report	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.161
+1	If	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	told	tell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	these	these	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	details	detail	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	about	about	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+9	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	asteroid	asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	made	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	note	note	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	of	of	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+17	its	its	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+18	number	number	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	for	for	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	on	on	_	_	_	_	_	_	_	1:1	_	_	p.Explanation	p.Explanation	_	_	_	_
+25	account	account	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+26	of	of	_	_	_	_	_	_	_	1:3	_	_	_	_	_	_	_	_
+27	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	grown	grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	ups	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	their	they	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+33	ways	way	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.162
+1	WHen	when	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	tell	tell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	made	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	new	new	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	friend	friend	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	never	never	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	ask	ask	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	questions	question	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	about	about	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+20	essential	essential	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	matters	matter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.163
+1	They	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	never	never	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	say	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+5	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	What	what	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	his	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	voice	voice	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	sound	sound	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	like	like	_	_	_	_	_	_	_	_	_	_	p.Manner	p.ComparisonRef	_	_	_	_
+14	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.164
+1	What	what	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	games	game	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	love	love	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	best	best	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.165
+1	Does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	collect	collect	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	butterflies	butterfly	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.166
+1	Instead	instead	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	demand	demand	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	How	how	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	old	old	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.167
+1	How	how	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	many	many	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	brothers	brother	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	has	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.168
+1	How	how	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	much	much	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	weigh	weigh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.169
+1	How	how	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	much	much	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	money	money	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	does	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	his	he	_	_	_	_	_	_	_	_	_	_	p.SocialRel	p.Gestalt	_	_	_	_
+6	father	father	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	make	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.170
+1	Only	only	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	from	from	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	these	these	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	figures	figure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	do	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	think	think	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	learned	learn	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	anything	anything	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	about	about	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+13	him	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.171
+1	If	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	were	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	say	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+7	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	grown	grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	ups	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	saw	see	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	beautiful	beautiful	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	house	house	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	made	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	of	of	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	rosy	rosy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	brick	brick	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	with	with	_	_	_	_	_	_	_	_	_	_	p.Characteristic	p.Characteristic	_	_	_	_
+24	geraniums	geranium	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	in	in	_	_	_	_	_	_	_	_	_	_	p.Locus	p.Locus	_	_	_	_
+26	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	windows	window	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	doves	dove	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	on	on	_	_	_	_	_	_	_	_	_	_	p.Locus	p.Locus	_	_	_	_
+31	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	roof	roof	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	be	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	able	able	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	get	get	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	idea	idea	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	of	of	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+45	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	house	house	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	at	at	_	_	_	_	_	_	_	1:1	_	_	p.Extent	p.Extent	_	_	_	_
+48	all	all	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+49	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.172
+1	You	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	say	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+7	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	saw	see	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	house	house	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	cost	cost	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	$	$	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	20,000	20,000	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.173
+1	Then	then	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	exclaim	exclaim	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Oh	oh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	what	what	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	pretty	pretty	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	house	house	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	!	!	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.174
+1	Just	just	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	so	so	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	might	might	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	say	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+8	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	The	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	proof	proof	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	prince	prince	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	existed	exist	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	charming	charming	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	laughed	laugh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	looking	look	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	for	for	_	_	_	_	_	_	_	_	_	_	p.Theme	p.Theme	_	_	_	_
+34	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	sheep	sheep	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.175
+1	If	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	anybody	anybody	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	wants	want	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	sheep	sheep	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	proof	proof	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	exists	exist	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.176
+1	And	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	what	what	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	good	good	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	do	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	tell	tell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	?	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.177
+1	They	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	shrug	shrug	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	their	they	_	_	_	_	_	_	_	_	_	_	p.Whole	p.Gestalt	_	_	_	_
+5	shoulders	shoulder	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	treat	treat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+11	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	child	child	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.178
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	if	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	said	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+6	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	The	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	planet	planet	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	came	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	from	from	_	_	_	_	_	_	_	_	_	_	p.Source	p.Source	_	_	_	_
+14	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Asteroid	Asteroid	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	B-612	B-612	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	then	then	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	they	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	be	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	convinced	convinced	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	leave	leave	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	you	you	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	in	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	peace	peace	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	from	from	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	their	they	_	_	_	_	_	_	_	_	_	_	p.Originator	p.Gestalt	_	_	_	_
+32	questions	question	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.179
+1	They	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+4	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.180
+1	One	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	must	must	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	hold	hold	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	against	against	_	_	_	_	_	_	_	_	_	_	p.Beneficiary	p.Beneficiary	_	_	_	_
+7	them	they	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.181
+1	Children	Children	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	should	should	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	always	always	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	show	show	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	great	great	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	forbearance	forbearance	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	toward	toward	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	grown	grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	up	up	_	_	_	_	_	_	_	_	_	_	`	`	_	_	_	_
+11	people	people	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.182
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	certainly	certainly	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	for	for	_	_	_	_	_	_	_	_	_	_	p.Experiencer	p.Beneficiary	_	_	_	_
+5	us	we	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	who	who	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	understand	understand	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	life	life	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	figures	figure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	matter	matter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	of	of	_	_	_	_	_	_	_	_	_	_	p.Characteristic	p.Characteristic	_	_	_	_
+15	indifference	indifference	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.183
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	should	should	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	liked	like	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	begin	begin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	this	this	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	story	story	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	in	_	_	_	_	_	_	_	1:1	_	_	p.Manner	p.Manner	_	_	_	_
+10	the	the	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+11	fashion	fashion	_	_	_	_	_	_	_	1:3	_	_	_	_	_	_	_	_
+12	of	of	_	_	_	_	_	_	_	1:4	_	_	_	_	_	_	_	_
+13	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	fairy	fairy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	tales	tale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.184
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	should	should	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	like	like	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	say	say	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Once	once	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	upon	upon	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	time	time	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	there	there	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	prince	prince	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	who	who	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	lived	live	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	on	on	_	_	_	_	_	_	_	_	_	_	p.Locus	p.Locus	_	_	_	_
+21	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	planet	planet	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	scarcely	scarcely	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	bigger	bigger	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	than	than	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+29	himself	himself	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	who	who	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	had	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	need	need	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	of	of	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	sheep	sheep	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	...	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	"	"	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.185
+1	To	to	_	_	_	_	_	_	_	_	_	_	p.Experiencer	p.Goal	_	_	_	_
+2	those	those	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	who	who	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	understand	understand	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	life	life	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	would	would	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	given	give	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	much	much	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	greater	greater	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	air	air	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	of	of	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	truth	truth	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	my	my	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	story	story	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.186
+1	For	for	_	_	_	_	_	_	_	_	_	_	p.Explanation	p.Explanation	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	do	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	want	want	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	one	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	read	read	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	my	my	_	_	_	_	_	_	_	_	_	_	p.Originator	p.Possessor	_	_	_	_
+11	book	book	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	carelessly	carelessly	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.187
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	suffered	suffer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	too	too	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	much	much	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	grief	grief	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_	_	_	_	p.Circumstance	p.Circumstance	_	_	_	_
+8	setting	set	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	down	down	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	these	these	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	memories	memory	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.188
+1	Six	six	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	years	year	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	already	already	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	passed	pass	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	since	since	_	_	_	_	_	_	_	_	_	_	p.StartTime	p.StartTime	_	_	_	_
+7	my	my	_	_	_	_	_	_	_	_	_	_	p.SocialRel	p.Gestalt	_	_	_	_
+8	friend	friend	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	went	go	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	away	away	_	_	_	_	_	_	_	_	_	_	p.Direction	p.Direction	_	_	_	_
+11	from	from	_	_	_	_	_	_	_	_	_	_	p.Source	p.Source	_	_	_	_
+12	me	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	with	with	_	_	_	_	_	_	_	_	_	_	p.Possession	p.Accompanier	_	_	_	_
+15	his	he	_	_	_	_	_	_	_	_	_	_	p.Possessor	p.Possessor	_	_	_	_
+16	sheep	sheep	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.189
+1	If	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	try	try	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	describe	describe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	him	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	here	here	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	it	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	make	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	sure	sure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	shall	shall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	forget	forget	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	him	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.190
+1	To	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	forget	forget	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	friend	friend	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	sad	sad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.191
+1	Not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	every	every	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	one	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	has	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	had	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	friend	friend	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.192
+1	And	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	if	if	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	forget	forget	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	him	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	may	may	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	become	become	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+11	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	grown	grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	ups	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	who	who	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	are	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	no	no	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	longer	longer	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	interested	interest	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	in	in	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+21	anything	anything	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	but	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	figures	figure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	...	...	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.193
+1	It	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	for	for	_	_	_	_	_	_	_	_	_	_	p.Purpose	p.Purpose	_	_	_	_
+4	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	purpose	purpose	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	again	again	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	bought	buy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	box	box	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	of	of	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	paints	paint	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	some	some	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	pencils	pencil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.194
+1	It	it	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	hard	hard	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	take	take	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	up	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	drawing	draw	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	again	again	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	at	at	_	_	_	_	_	_	_	_	_	_	p.Time	p.Time	_	_	_	_
+10	my	my	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+11	age	age	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	when	when	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	never	never	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	made	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	any	any	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	pictures	picture	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	except	except	_	_	_	_	_	_	_	_	_	_	p.PartPortion	p.PartPortion	_	_	_	_
+21	those	those	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	of	of	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+23	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	boa	boa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	constrictor	constrictor	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	from	from	_	_	_	_	_	_	_	_	_	_	p.Manner	p.Source	_	_	_	_
+27	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	outside	outside	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	boa	boa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	constrictor	constrictor	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	from	from	_	_	_	_	_	_	_	_	_	_	p.Manner	p.Source	_	_	_	_
+34	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	inside	inside	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	since	since	_	_	_	_	_	_	_	_	_	_	p.StartTime	p.StartTime	_	_	_	_
+38	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	six	six	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.195
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	shall	shall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	certainly	certainly	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	try	try	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	make	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	my	my	_	_	_	_	_	_	_	_	_	_	p.Originator	p.Possessor	_	_	_	_
+8	portraits	portrait	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	as	as	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	true	true	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	life	life	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	as	as	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+14	possible	possible	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.196
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	am	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	at	at	_	_	_	_	_	_	_	1:1	_	_	p.Extent	p.Extent	_	_	_	_
+6	all	all	_	_	_	_	_	_	_	1:2	_	_	_	_	_	_	_	_
+7	sure	sure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	of	of	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+9	success	success	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.197
+1	One	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	drawing	drawing	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	goes	go	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	along	along	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	all	all	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	right	right	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	another	another	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	has	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	no	no	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	resemblance	resemblance	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	to	to	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.Goal	_	_	_	_
+14	its	its	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+15	subject	subject	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.198
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	make	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	some	some	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	errors	error	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	too	too	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+9	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	prince	prince	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	's	's	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+13	height	height	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	:	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	in	in	_	_	_	_	_	_	_	_	_	_	p.Locus	p.Locus	_	_	_	_
+16	one	one	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	place	place	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	he	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	too	too	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	tall	tall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	in	in	_	_	_	_	_	_	_	_	_	_	p.Locus	p.Locus	_	_	_	_
+24	another	another	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	too	too	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	short	short	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.199
+1	And	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	feel	feel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	some	some	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	doubts	doubt	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	about	about	_	_	_	_	_	_	_	_	_	_	p.Topic	p.Topic	_	_	_	_
+7	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	color	color	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	of	of	_	_	_	_	_	_	_	_	_	_	p.Gestalt	p.Gestalt	_	_	_	_
+10	his	he	_	_	_	_	_	_	_	_	_	_	p.Possessor	p.Possessor	_	_	_	_
+11	costume	costume	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.200
+1	So	so	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	fumble	fumble	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	along	along	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	as	as	_	_	_	_	_	_	_	_	_	_	p.Manner	p.Identity	_	_	_	_
+6	best	best	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	can	can	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	now	now	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	good	good	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	now	now	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	bad	bad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	and	and	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	hope	hope	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	generally	generally	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	fair	fair	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	middling	middling	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.201
+1	In	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	certain	certain	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	more	more	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	important	important	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	details	detail	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	shall	shall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	make	make	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	mistakes	mistake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	also	also	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.202
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	is	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	something	something	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	will	will	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	be	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	my	my	_	_	_	_	_	_	_	_	_	_	p.Agent	p.Gestalt	_	_	_	_
+10	fault	fault	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.203
+1	My	my	_	_	_	_	_	_	_	_	_	_	p.SocialRel	p.Gestalt	_	_	_	_
+2	friend	friend	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	never	never	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	explained	explain	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	anything	anything	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	to	_	_	_	_	_	_	_	_	_	_	p.Recipient	p.Goal	_	_	_	_
+7	me	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.204
+1	He	he	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	thought	think	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	perhaps	perhaps	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	that	that	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	was	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+10	himself	himself	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.205
+1	But	but	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	alas	alas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	do	do	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	not	not	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	know	know	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	how	how	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	see	see	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	sheep	sheep	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	through	through	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	walls	wall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	of	of	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	boxes	box	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.206
+1	Perhaps	perhaps	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	am	be	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	little	little	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	like	like	_	_	_	_	_	_	_	_	_	_	p.ComparisonRef	p.ComparisonRef	_	_	_	_
+7	the	the	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	grown	grown	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	ups	up	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+# sent_id = lpp_1943.207
+1	I	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	have	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	had	have	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	to	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	grow	grow	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	old	old	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
