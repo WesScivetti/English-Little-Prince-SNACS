@@ -330,7 +330,6 @@
 # sent_id = lpp_1943.54
 # mwe = The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [27]: Missing supersense annotation in lexical entry: {'lexlemma': 'except', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [27]}
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	_	_	V	grow	_	_	_	_	_	O-V
 3	-	-	PUNCT	HYPH	_	4	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -357,7 +356,7 @@
 24	draw	draw	VERB	VB	VerbForm=Inf	22	xcomp	_	_	_	V	draw	_	_	_	_	_	O-V
 25	anything	anything	PRON	NN	Number=Sing	24	obj	_	_	_	PRON	anything	_	_	_	_	_	O-PRON
 26	,	,	PUNCT	,	_	28	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
-27	except	except	ADP	IN	_	28	case	_	_	_	P	except	_	_	_	_	_	O-P
+27	except	except	ADP	IN	_	28	case	_	_	_	P	except	p.PartPortion	p.PartPortion	_	_	_	O-P-p.PartPortion|p.PartPortion
 28	boas	boas	NOUN	NN	Number=Sing	24	obl	_	_	_	N	boas	_	_	_	_	_	O-N
 29	from	from	ADP	IN	_	31	case	_	_	_	P	from	p.Locus	p.Source	_	_	_	O-P-p.Locus|p.Source
 30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -913,16 +912,15 @@
 5	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.84
-# mwe = So then I did my drawing over once more .
+# mwe = So then I did_ my drawing _over once more .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [7]: Missing supersense annotation in lexical entry: {'lexlemma': 'over', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [7]}
 1	So	so	ADV	RB	_	4	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-4	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	do	_	_	_	_	_	O-V
-5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_	_	PRON.POSS	my	p.Originator	p.Gestalt	_	_	_	O-PRON.POSS-p.Originator|p.Gestalt
-6	drawing	draw	NOUN	NN	Number=Sing	4	obj	_	_	_	N	draw	_	_	_	_	_	O-N
-7	over	over	ADP	RP	_	4	compound:prt	_	_	_	P	over	_	_	_	_	_	O-P
+4	did	do	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	do over	_	_	_	_	_	B-V
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_	_	PRON.POSS	my	p.Originator	p.Gestalt	_	_	_	o-PRON.POSS-p.Originator|p.Gestalt
+6	drawing	draw	NOUN	NN	Number=Sing	4	obj	_	_	_	N	draw	_	_	_	_	_	o-N
+7	over	over	ADP	RP	_	4	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 8	once	once	ADV	RB	NumType=Mult	9	advmod	_	_	_	ADV	once	_	_	_	_	_	O-ADV
 9	more	more	ADV	RBR	_	4	advmod	_	_	_	ADV	more	_	_	_	_	_	O-ADV
 10	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
@@ -970,11 +968,8 @@
 12	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.88
-# mwe = By this time my patience was exhausted , because I was in a hurry to start taking my engine apart .
+# mwe = By this time my patience was exhausted , because I was in a hurry to start taking_ my engine _apart .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [17]: Invalid supersense(s) in lexical entry: {'lexlemma': 'take', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [17]}
-# 1_ERROR = Tokens [20]: Invalid supersense(s) in lexical entry: {'lexlemma': 'apart', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [20]}
-# 2_ERROR = single-word expression 'taking' has lexcat P, which is incompatible with its upos VERB
 1	By	by	ADP	IN	_	3	case	_	_	_	P	by	p.Time	p.Time	_	_	_	O-P-p.Time
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	this	_	_	_	_	_	O-DET
 3	time	time	NOUN	NN	Number=Sing	7	obl	_	_	_	N	time	_	_	_	_	_	O-N
@@ -991,32 +986,30 @@
 14	hurry	hurry	NOUN	NN	Number=Sing	7	advcl	_	_	_	N	hurry	_	_	_	_	_	O-N
 15	to	to	PART	TO	_	16	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 16	start	start	VERB	VB	VerbForm=Inf	14	acl	_	_	_	V	start	_	_	_	_	_	O-V
-17	taking	take	VERB	VBG	VerbForm=Ger	16	xcomp	_	_	_	P	take	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	_	_	PRON.POSS	my	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
-19	engine	engine	NOUN	NN	Number=Sing	17	obj	_	_	_	N	engine	_	_	_	_	_	O-N
-20	apart	apart	ADV	RB	_	17	compound:prt	_	_	_	P	apart	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+17	taking	take	VERB	VBG	VerbForm=Ger	16	xcomp	_	_	1:1	V	take apart	_	_	_	_	_	B-V
+18	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	nmod:poss	_	_	_	PRON.POSS	my	p.Possessor	p.Possessor	_	_	_	o-PRON.POSS-p.Possessor
+19	engine	engine	NOUN	NN	Number=Sing	17	obj	_	_	_	N	engine	_	_	_	_	_	o-N
+20	apart	apart	ADV	RB	_	17	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 21	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.89
-# mwe = So I tossed off this drawing .
+# mwe = So I tossed_off this drawing .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [4]: Missing supersense annotation in lexical entry: {'lexlemma': 'off', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [4]}
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-3	tossed	toss	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	toss	_	_	_	_	_	O-V
-4	off	off	ADP	RP	_	3	compound:prt	_	_	_	P	off	_	_	_	_	_	O-P
+3	tossed	toss	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	toss off	_	_	_	_	_	B-V
+4	off	off	ADP	RP	_	3	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	_	_	DET	this	_	_	_	_	_	O-DET
 6	drawing	draw	NOUN	NN	Number=Sing	3	obj	_	_	_	N	draw	_	_	_	_	_	O-N
 7	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.90
-# mwe = And I threw out an explanation with it .
+# mwe = And I threw_out an explanation with it .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [4]: Missing supersense annotation in lexical entry: {'lexlemma': 'out', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [4]}
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-3	threw	throw	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	throw	_	_	_	_	_	O-V
-4	out	out	ADP	RP	_	3	compound:prt	_	_	_	P	out	_	_	_	_	_	O-P
+3	threw	throw	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	throw out	_	_	_	_	_	B-V
+4	out	out	ADP	RP	_	3	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 6	explanation	explanation	NOUN	NN	Number=Sing	3	obj	_	_	_	N	explanation	_	_	_	_	_	O-N
 7	with	with	ADP	IN	_	8	case	_	_	_	P	with	p.Ensemble	p.Ancillary	_	_	_	O-P-p.Ensemble|p.Ancillary
@@ -1194,24 +1187,17 @@
 7	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.102
-# mwe = And that is how I made the acquaintance of the little prince .
+# mwe = And that is how I made_ the _acquaintance~of the little prince .
 # doc_id = lpp_1943_en_ch-02
-# 0_ERROR = Tokens [6]: Invalid supersense(s) in lexical entry: {'lexlemma': 'make', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [6]}
-# 1_ERROR = Tokens [7]: Invalid supersense(s) in lexical entry: {'lexlemma': 'the', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [7]}
-# 2_ERROR = Tokens [8]: Invalid supersense(s) in lexical entry: {'lexlemma': 'acquaintance', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [8]}
-# 3_ERROR = Tokens [9]: Invalid supersense(s) in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [9]}
-# 4_ERROR = single-word expression 'made' has lexcat P, which is incompatible with its upos VERB
-# 5_ERROR = single-word expression 'the' has lexcat P, which is incompatible with its upos DET
-# 6_ERROR = single-word expression 'acquaintance' has lexcat P, which is incompatible with its upos NOUN
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 4	how	how	SCONJ	WRB	PronType=Int	6	mark	_	_	_	SCONJ	how	_	_	_	_	_	O-SCONJ
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-6	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_	_	P	make	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	P	the	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-8	acquaintance	acquaintance	NOUN	NN	Number=Sing	6	obj	_	_	_	P	acquaintance	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-9	of	of	ADP	IN	_	12	case	_	_	_	P	of	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+6	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_	1:1	P	make	_	_	2:1	make the acquaintance of	_	O-P-p.NONSNACS
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	2:2	_	_	o-DET
+8	acquaintance	acquaintance	NOUN	NN	Number=Sing	6	obj	_	_	1:2	P	acquaintance	_	_	2:3	_	_	I_
+9	of	of	ADP	IN	_	12	case	_	_	_	P	of	p.SocialRel	p.Gestalt	2:4	_	_	O-P-p.SocialRel|p.Gestalt
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 11	little	little	ADJ	JJ	Degree=Pos	12	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 12	prince	prince	NOUN	NN	Number=Sing	8	nmod	_	_	_	N	prince	_	_	_	_	_	O-N
