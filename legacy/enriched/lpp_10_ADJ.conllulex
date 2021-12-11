@@ -1,14 +1,12 @@
+# newdoc id = lpp_1943_en_ch-10
 # sent_id = lpp_1943.480
 # mwe = Chapter 10 .
-# newdoc id = lpp_1943_en_ch-10
-# doc_id = lpp_1943_en_ch-10
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	10	10	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	10	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.481
 # mwe = He found himself in the neighborhood of the asteroids 325 , 326 , 327 , 328 , 329 , and 330 .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	find	_	_	_	_	_	O-V
 3	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_	_	PRON	himself	_	_	_	_	_	O-PRON
@@ -34,7 +32,6 @@
 
 # sent_id = lpp_1943.482
 # mwe = He began , therefore , by visiting them , in_order_to add to his knowledge .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	begin	_	_	_	_	_	O-V
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -55,7 +52,6 @@
 
 # sent_id = lpp_1943.483
 # mwe = The first of them was inhabited by a king .
-# doc_id = lpp_1943_en_ch-10
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	6	nsubj:pass	_	_	_	ADJ	first	_	_	_	_	_	O-ADJ
 3	of	of	ADP	IN	_	4	case	_	_	_	P	of	p.Whole	p.Whole	_	_	_	O-P-p.Whole
@@ -69,7 +65,6 @@
 
 # sent_id = lpp_1943.484
 # mwe = Clad in royal purple and ermine , he was seated upon a throne which was at the same time both simple and majestic .
-# doc_id = lpp_1943_en_ch-10
 1	Clad	clad	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	_	_	_	V	clad	_	_	_	_	_	O-V
 2	in	in	ADP	IN	_	4	case	_	_	_	P	in	p.Possession	p.Locus	_	_	_	O-P-p.Possession|p.Locus
 3	royal	royal	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	royal	_	_	_	_	_	O-ADJ
@@ -97,14 +92,12 @@
 
 # sent_id = lpp_1943.485
 # mwe = " Ah !
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.486
 # mwe = Here is a subject , " exclaimed the king , when he saw the little prince coming .
-# doc_id = lpp_1943_en_ch-10
 1	Here	here	ADV	RB	PronType=Dem	7	advmod	_	_	_	ADV	here	_	_	_	_	_	O-ADV
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -126,7 +119,6 @@
 
 # sent_id = lpp_1943.487
 # mwe = And the little prince asked himself : " How could he recognize me when he had never seen me before ? "
-# doc_id = lpp_1943_en_ch-10
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -152,7 +144,6 @@
 
 # sent_id = lpp_1943.488
 # mwe = He did not know how the world is simplified for kings .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -168,7 +159,6 @@
 
 # sent_id = lpp_1943.489
 # mwe = To them , all men are subjects .
-# doc_id = lpp_1943_en_ch-10
 1	To	to	ADP	IN	_	2	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
 2	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obl	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -180,7 +170,6 @@
 
 # sent_id = lpp_1943.490
 # mwe = " Approach , so that I may see you better , " said the king , who felt consumingly proud of being at_last a king over somebody .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Approach	approach	NOUN	NN	Number=Sing	13	ccomp	_	_	_	N	approach	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	13	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -212,11 +201,7 @@
 29	.	.	PUNCT	.	_	13	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.491
-# mwe = The little prince looked everywhere to find a place to sit down ; but the entire planet was crammed and obstructed by the king 's magnificent ermine robe .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [12]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [12]}
-# 1_ERROR = Tokens [22]: Missing supersense annotation in lexical entry: {'lexlemma': 'by', 'lexcat': 'P', 'ss': None, 'ss2': 'p.Causer', 'toknums': [22]}
-# 2_ERROR = Token 22: the full tag at the end of the line is inconsistent with the rest of the line (O-P expected)
+# mwe = The little prince looked everywhere to find a place to sit_down ; but the entire planet was crammed and obstructed by the king 's magnificent ermine robe .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -227,8 +212,8 @@
 8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 9	place	place	NOUN	NN	Number=Sing	7	obj	_	_	_	N	place	_	_	_	_	_	O-N
 10	to	to	PART	TO	_	11	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
-11	sit	sit	VERB	VB	VerbForm=Inf	9	acl	_	_	_	V	sit	_	_	_	_	_	O-V
-12	down	down	ADP	RP	_	11	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+11	sit	sit	VERB	VB	VerbForm=Inf	9	acl	_	_	1:1	V	sit down	_	_	_	_	_	B-V
+12	down	down	ADP	RP	_	11	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 13	;	;	PUNCT	,	_	4	punct	_	_	_	PUNCT	;	_	_	_	_	_	O-PUNCT
 14	but	but	CCONJ	CC	_	19	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -238,7 +223,7 @@
 19	crammed	cram	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_	_	V	cram	_	_	_	_	_	O-V
 20	and	and	CCONJ	CC	_	21	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 21	obstructed	obstruct	VERB	VBN	Tense=Past|VerbForm=Part	19	conj	_	_	_	V	obstruct	_	_	_	_	_	O-V
-22	by	by	ADP	IN	_	28	case	_	_	_	P	by	_	p.Causer	_	_	_	O-P|p.Causer
+22	by	by	ADP	IN	_	28	case	_	_	_	P	by	p.Causer	p.Causer	_	_	_	O-P-p.Causer
 23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 24	king	king	NOUN	NN	Number=Sing	28	nmod:poss	_	_	_	N	king	_	_	_	_	_	O-N
 25	's	's	PART	POS	_	24	case	_	_	_	POSS	's	p.Possessor	p.Possessor	_	_	_	O-POSS-p.Possessor
@@ -249,7 +234,6 @@
 
 # sent_id = lpp_1943.492
 # mwe = So he remained standing upright , and , since he was tired , he yawned .
-# doc_id = lpp_1943_en_ch-10
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	remained	remain	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	remain	_	_	_	_	_	O-V
@@ -268,15 +252,12 @@
 16	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.493
-# mwe = " It is contrary to etiquette to yawn in the presence of a king , " the monarch said to him .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [5]: Missing supersense annotation in lexical entry: {'lexlemma': 'to', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [5]}
-# 1_ERROR = single-word expression 'contrary' has lexcat P, which is incompatible with its upos ADJ
+# mwe = " It is contrary~to etiquette to yawn in the presence of a king , " the monarch said to him .
 1	"	"	PUNCT	``	_	19	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
-4	contrary	contrary	ADJ	JJ	Degree=Pos	19	ccomp	_	_	_	P	contrary	p.ComparisonRef	p.Goal	_	_	_	O-P-p.ComparisonRef|p.Goal
-5	to	to	ADP	IN	_	6	case	_	_	_	P	to	_	_	_	_	_	O-P
+4	contrary	contrary	ADJ	JJ	Degree=Pos	19	ccomp	_	_	_	ADJ	contrary	_	_	1:1	_	contrary to	B-ADJ
+5	to	to	ADP	IN	_	6	case	_	_	_	P	to	p.ComparisonRef	p.Goal	1:2	_	_	I~-P-p.ComparisonRef|p.Goal
 6	etiquette	etiquette	NOUN	NN	Number=Sing	4	obl	_	_	_	N	etiquette	_	_	_	_	_	O-N
 7	to	to	PART	TO	_	8	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 8	yawn	yawn	VERB	VB	VerbForm=Inf	4	csubj	_	_	_	V	yawn	_	_	_	_	_	O-V
@@ -297,7 +278,6 @@
 
 # sent_id = lpp_1943.494
 # mwe = " I forbid you to do so . "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	forbid	forbid	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	forbid	_	_	_	_	_	O-V
@@ -310,7 +290,6 @@
 
 # sent_id = lpp_1943.495
 # mwe = " I can n't help it .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	can	can	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
@@ -321,7 +300,6 @@
 
 # sent_id = lpp_1943.496
 # mwe = I can n't stop myself , " replied the little prince , thoroughly embarrassed .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	n't	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -340,7 +318,6 @@
 
 # sent_id = lpp_1943.497
 # mwe = " I have come on a long journey , and I have had no sleep ... "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -361,7 +338,6 @@
 
 # sent_id = lpp_1943.498
 # mwe = " Ah , then , " the king said .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ah	ah	INTJ	UH	_	9	ccomp	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -375,7 +351,6 @@
 
 # sent_id = lpp_1943.499
 # mwe = " I order you to yawn .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	order	order	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	order	_	_	_	_	_	O-V
@@ -386,7 +361,6 @@
 
 # sent_id = lpp_1943.500
 # mwe = It is years since I have seen anyone yawning .
-# doc_id = lpp_1943_en_ch-10
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	years	year	NOUN	NNS	Number=Plur	0	root	_	_	_	N	year	_	_	_	_	_	O-N
@@ -400,7 +374,6 @@
 
 # sent_id = lpp_1943.501
 # mwe = Yawns , to me , are objects of curiosity .
-# doc_id = lpp_1943_en_ch-10
 1	Yawns	yawn	NOUN	NNS	Number=Plur	7	nsubj	_	_	_	N	yawn	_	_	_	_	_	O-N
 2	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	to	to	ADP	IN	_	4	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
@@ -414,7 +387,6 @@
 
 # sent_id = lpp_1943.502
 # mwe = Come , now !
-# doc_id = lpp_1943_en_ch-10
 1	Come	come	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	come	_	_	_	_	_	O-V
 2	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	now	now	ADV	RB	_	1	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
@@ -422,14 +394,12 @@
 
 # sent_id = lpp_1943.503
 # mwe = Yawn again !
-# doc_id = lpp_1943_en_ch-10
 1	Yawn	yawn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	yawn	_	_	_	_	_	O-V
 2	again	again	ADV	RB	_	1	advmod	_	_	_	ADV	again	_	_	_	_	_	O-ADV
 3	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.504
 # mwe = It is an order . "
-# doc_id = lpp_1943_en_ch-10
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -439,7 +409,6 @@
 
 # sent_id = lpp_1943.505
 # mwe = " That frightens me ...
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	frightens	frighten	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	frighten	_	_	_	_	_	O-V
@@ -448,7 +417,6 @@
 
 # sent_id = lpp_1943.506
 # mwe = I can not , any more ... " murmured the little prince , now completely abashed .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	9	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	2	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -469,14 +437,12 @@
 
 # sent_id = lpp_1943.507
 # mwe = " Hum !
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Hum	hum	INTJ	UH	_	0	root	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.508
 # mwe = Hum ! " replied the king .
-# doc_id = lpp_1943_en_ch-10
 1	Hum	hum	INTJ	UH	_	4	ccomp	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 3	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
@@ -487,8 +453,6 @@
 
 # sent_id = lpp_1943.509
 # mwe = " Then I - - I order you sometimes to yawn and sometimes to - - "
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = single-word expression 'to' has lexcat INF, which is incompatible with its upos ADP
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	3	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	reparandum	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -502,14 +466,13 @@
 11	yawn	yawn	VERB	VB	VerbForm=Inf	7	xcomp	_	_	_	V	yawn	_	_	_	_	_	O-V
 12	and	and	CCONJ	CC	_	14	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 13	sometimes	sometimes	ADV	RB	_	14	advmod	_	_	_	ADV	sometimes	_	_	_	_	_	O-ADV
-14	to	to	ADP	IN	_	11	conj	_	_	_	INF	to	_	_	_	_	_	O-INF
+14	to	to	PART	TO	_	11	conj	_	_	_	INF	to	_	_	_	_	_	O-INF
 15	-	-	PUNCT	HYPH	_	14	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
 16	-	-	PUNCT	,	_	7	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
 17	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.510
 # mwe = He sputtered a little , and seemed vexed .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	sputtered	sputter	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	sputter	_	_	_	_	_	O-V
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -522,7 +485,6 @@
 
 # sent_id = lpp_1943.511
 # mwe = For what the king fundamentally insisted upon was that his authority should be respected .
-# doc_id = lpp_1943_en_ch-10
 1	For	for	SCONJ	IN	_	2	case	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	what	what	PRON	WP	PronType=Int	8	nsubj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -541,7 +503,6 @@
 
 # sent_id = lpp_1943.512
 # mwe = He tolerated no disobedience .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	tolerated	tolerate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	tolerate	_	_	_	_	_	O-V
 3	no	no	DET	DT	_	4	det	_	_	_	DET	no	_	_	_	_	_	O-DET
@@ -550,7 +511,6 @@
 
 # sent_id = lpp_1943.513
 # mwe = He was an absolute monarch .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -560,7 +520,6 @@
 
 # sent_id = lpp_1943.514
 # mwe = But , because he was a very good man , he made his orders reasonable .
-# doc_id = lpp_1943_en_ch-10
 1	But	but	CCONJ	CC	_	12	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	12	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	because	because	SCONJ	IN	_	9	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
@@ -579,9 +538,7 @@
 16	.	.	PUNCT	.	_	12	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.515
-# mwe = " If I ordered a general , " he would say , by way of example , " if I ordered a general to change himself into a sea bird , and if the general did not obey me , that would not be the fault of the general .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [15]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [15]}
+# mwe = " If I ordered a general , " he would say , by_way_of_example , " if I ordered a general to change himself into a sea bird , and if the general did not obey me , that would not be the fault of the general .
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	If	if	SCONJ	IN	_	4	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -594,10 +551,10 @@
 10	would	would	AUX	MD	VerbForm=Fin	11	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 11	say	say	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 12	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
-13	by	by	ADP	IN	_	14	case	_	_	_	DISC	by	_	_	_	_	_	O-DISC
-14	way	way	NOUN	NN	Number=Sing	11	obl	_	_	_	N	way	_	_	_	_	_	O-N
-15	of	of	ADP	IN	_	16	case	_	_	_	P	of	_	_	_	_	_	O-P
-16	example	example	NOUN	NN	Number=Sing	14	nmod	_	_	_	N	example	_	_	_	_	_	O-N
+13	by	by	ADP	IN	_	14	case	_	_	1:1	DISC	by way of example	_	_	_	_	_	B-DISC
+14	way	way	NOUN	NN	Number=Sing	11	obl	_	_	1:2	_	_	_	_	_	_	_	I_
+15	of	of	ADP	IN	_	16	case	_	_	1:3	_	_	_	_	_	_	_	I_
+16	example	example	NOUN	NN	Number=Sing	14	nmod	_	_	1:4	_	_	_	_	_	_	_	I_
 17	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 18	"	"	PUNCT	``	_	46	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 19	if	if	SCONJ	IN	_	21	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
@@ -635,7 +592,6 @@
 
 # sent_id = lpp_1943.516
 # mwe = It would be my fault . "
-# doc_id = lpp_1943_en_ch-10
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -645,14 +601,12 @@
 7	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.517
-# mwe = " May I sit down ? " came now a timid inquiry from the little prince .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [5]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [5]}
+# mwe = " May I sit_down ? " came now a timid inquiry from the little prince .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	May	may	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	may	_	_	_	_	_	O-AUX
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
-4	sit	sit	VERB	VB	VerbForm=Inf	8	ccomp	_	_	_	V	sit	_	_	_	_	_	O-V
-5	down	down	ADP	RP	_	4	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+4	sit	sit	VERB	VB	VerbForm=Inf	8	ccomp	_	_	1:1	V	sit down	_	_	_	_	_	B-V
+5	down	down	ADP	RP	_	4	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 6	?	?	PUNCT	.	_	4	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
 7	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 8	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	come	_	_	_	_	_	O-V
@@ -668,10 +622,6 @@
 
 # sent_id = lpp_1943.518
 # mwe = " I order you to do so , " the king answered him , and majestically gathered in a fold of his ermine mantle .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [17]: Invalid supersense(s) in lexical entry: {'lexlemma': 'gather', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [17]}
-# 1_ERROR = Tokens [18]: Invalid supersense(s) in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [18]}
-# 2_ERROR = single-word expression 'gathered' has lexcat P, which is incompatible with its upos VERB
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	order	order	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	parataxis	_	_	_	V	order	_	_	_	_	_	O-V
@@ -688,10 +638,10 @@
 14	,	,	PUNCT	,	_	17	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 15	and	and	CCONJ	CC	_	17	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 16	majestically	majestically	ADV	RB	_	17	advmod	_	_	_	ADV	majestically	_	_	_	_	_	O-ADV
-17	gathered	gather	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	conj	_	_	_	P	gather	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-18	in	in	ADP	IN	_	20	case	_	_	_	P	in	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+17	gathered	gather	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	conj	_	_	_	V	gather	_	_	_	_	_	O-V
+18	in	in	ADP	RP	_	17	compound:prt	_	_	_	P	in	p.Direction	p.Direction	_	_	_	O-P-p.Direction
 19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	_	_	DET	a	_	_	_	_	_	O-DET
-20	fold	fold	NOUN	NN	Number=Sing	17	obl	_	_	_	N	fold	_	_	_	_	_	O-N
+20	fold	fold	NOUN	NN	Number=Sing	17	obj	_	_	_	N	fold	_	_	_	_	_	O-N
 21	of	of	ADP	IN	_	24	case	_	_	_	P	of	p.Whole	p.Whole	_	_	_	O-P-p.Whole
 22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
 23	ermine	ermine	NOUN	NN	Number=Sing	24	compound	_	_	_	N	ermine	_	_	_	_	_	O-N
@@ -700,7 +650,6 @@
 
 # sent_id = lpp_1943.519
 # mwe = But the little prince was wondering ...
-# doc_id = lpp_1943_en_ch-10
 1	But	but	CCONJ	CC	_	6	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -711,7 +660,6 @@
 
 # sent_id = lpp_1943.520
 # mwe = The planet was tiny .
-# doc_id = lpp_1943_en_ch-10
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	planet	planet	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -720,7 +668,6 @@
 
 # sent_id = lpp_1943.521
 # mwe = Over what could this king really rule ?
-# doc_id = lpp_1943_en_ch-10
 1	Over	over	SCONJ	IN	_	2	case	_	_	_	P	over	p.ComparisonRef	p.Locus	_	_	_	O-P-p.ComparisonRef|p.Locus
 2	what	what	PRON	WP	PronType=Int	7	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	could	could	AUX	MD	VerbForm=Fin	7	aux	_	_	_	AUX	could	_	_	_	_	_	O-AUX
@@ -732,7 +679,6 @@
 
 # sent_id = lpp_1943.522
 # mwe = " Sire , " he said to him , " I beg that you will excuse my asking you a question - - "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Sire	sire	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	sire	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -760,7 +706,6 @@
 
 # sent_id = lpp_1943.523
 # mwe = " I order you to ask me a question , " the king hastened to assure him .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	order	order	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	_	_	V	order	_	_	_	_	_	O-V
@@ -782,7 +727,6 @@
 
 # sent_id = lpp_1943.524
 # mwe = " Sire - - over what do you rule ? "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Sire	sire	NOUN	NN	Number=Sing	0	root	_	_	_	N	sire	_	_	_	_	_	O-N
 3	-	-	PUNCT	,	_	2	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -797,7 +741,6 @@
 
 # sent_id = lpp_1943.525
 # mwe = " Over everything , " said the king , with magnificent simplicity .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Over	over	ADP	IN	_	3	case	_	_	_	P	over	p.ComparisonRef	p.Locus	_	_	_	O-P-p.ComparisonRef|p.Locus
 3	everything	everything	PRON	NN	Number=Sing	6	obl	_	_	_	PRON	everything	_	_	_	_	_	O-PRON
@@ -814,7 +757,6 @@
 
 # sent_id = lpp_1943.526
 # mwe = " Over everything ? "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Over	over	ADP	IN	_	3	case	_	_	_	P	over	p.ComparisonRef	p.Locus	_	_	_	O-P-p.ComparisonRef|p.Locus
 3	everything	everything	NOUN	NN	Number=Sing	0	root	_	_	_	N	everything	_	_	_	_	_	O-N
@@ -822,9 +764,7 @@
 5	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.527
-# mwe = The king made a gesture , which took in his planet , the other planets , and all the stars .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [9]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [9]}
+# mwe = The king made a gesture , which took_in his planet , the other planets , and all the stars .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	king	king	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	king	_	_	_	_	_	O-N
 3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	make	_	_	_	_	_	O-V
@@ -832,10 +772,10 @@
 5	gesture	gesture	NOUN	NN	Number=Sing	3	obj	_	_	_	N	gesture	_	_	_	_	_	O-N
 6	,	,	PUNCT	,	_	8	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 7	which	which	PRON	WDT	PronType=Rel	8	nsubj	_	_	_	PRON	which	_	_	_	_	_	O-PRON
-8	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_	_	V	take	_	_	_	_	_	O-V
-9	in	in	ADP	IN	_	11	case	_	_	_	P	in	_	_	_	_	_	O-P
+8	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_	1:1	V	take in	_	_	_	_	_	B-V
+9	in	in	ADP	RP	_	8	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 10	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_	_	PRON.POSS	he	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
-11	planet	planet	NOUN	NN	Number=Sing	8	obl	_	_	_	N	planet	_	_	_	_	_	O-N
+11	planet	planet	NOUN	NN	Number=Sing	8	obj	_	_	_	N	planet	_	_	_	_	_	O-N
 12	,	,	PUNCT	,	_	15	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 14	other	other	ADJ	JJ	Degree=Pos	15	amod	_	_	_	ADJ	other	_	_	_	_	_	O-ADJ
@@ -849,7 +789,6 @@
 
 # sent_id = lpp_1943.528
 # mwe = " Over all that ? " asked the little prince .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Over	over	ADP	IN	_	4	case	_	_	_	P	over	p.ComparisonRef	p.Locus	_	_	_	O-P-p.ComparisonRef|p.Locus
 3	all	all	DET	PDT	_	4	det:predet	_	_	_	DET	all	_	_	_	_	_	O-DET
@@ -864,7 +803,6 @@
 
 # sent_id = lpp_1943.529
 # mwe = " Over all that , " the king answered .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Over	over	ADP	IN	_	4	case	_	_	_	P	over	p.ComparisonRef	p.Locus	_	_	_	O-P-p.ComparisonRef|p.Locus
 3	all	all	DET	PDT	_	4	det:predet	_	_	_	DET	all	_	_	_	_	_	O-DET
@@ -878,7 +816,6 @@
 
 # sent_id = lpp_1943.530
 # mwe = For his rule was not only absolute : it was also universal .
-# doc_id = lpp_1943_en_ch-10
 1	For	for	ADP	IN	_	3	case	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	he	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
 3	rule	rule	NOUN	NN	Number=Sing	7	obl	_	_	_	N	rule	_	_	_	_	_	O-N
@@ -895,7 +832,6 @@
 
 # sent_id = lpp_1943.531
 # mwe = " And the stars obey you ? "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -907,7 +843,6 @@
 
 # sent_id = lpp_1943.532
 # mwe = " Certainly they do , " the king said .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Certainly	certainly	ADV	RB	_	4	advmod	_	_	_	ADV	certainly	_	_	_	_	_	O-ADV
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -921,7 +856,6 @@
 
 # sent_id = lpp_1943.533
 # mwe = " They obey instantly .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	obey	obey	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	obey	_	_	_	_	_	O-V
@@ -930,7 +864,6 @@
 
 # sent_id = lpp_1943.534
 # mwe = I do not permit insubordination . "
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -941,26 +874,22 @@
 
 # sent_id = lpp_1943.535
 # mwe = Such power was a thing for the little prince to marvel at .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [6]: Missing supersense annotation in lexical entry: {'lexlemma': 'for', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [6]}
-# 1_ERROR = single-word expression 'to' has lexcat INF, which is incompatible with its upos ADP
 1	Such	such	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	such	_	_	_	_	_	O-ADJ
 2	power	power	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	power	_	_	_	_	_	O-N
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 5	thing	thing	NOUN	NN	Number=Sing	0	root	_	_	_	N	thing	_	_	_	_	_	O-N
-6	for	for	ADP	IN	_	9	case	_	_	_	P	for	_	_	_	_	_	O-P
+6	for	for	SCONJ	IN	_	11	mark	_	_	_	INF	for	_	_	_	_	_	O-INF
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 8	little	little	ADJ	JJ	Degree=Pos	9	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
-9	prince	prince	NOUN	NN	Number=Sing	5	nmod	_	_	_	N	prince	_	_	_	_	_	O-N
-10	to	to	ADP	IN	_	11	case	_	_	_	INF	to	_	_	_	_	_	O-INF
-11	marvel	marvel	PROPN	NNP	Number=Sing	9	nmod	_	_	_	N	marvel	_	_	_	_	_	O-N
-12	at	at	ADP	IN	_	11	nmod	_	_	_	P	at	p.Stimulus	p.Direction	_	_	_	O-P-p.Stimulus|p.Direction
+9	prince	prince	NOUN	NN	Number=Sing	11	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
+10	to	to	PART	TO	_	11	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
+11	marvel	marvel	VERB	VB	VerbForm=Inf	5	acl	_	_	_	V	marvel	_	_	_	_	_	O-V
+12	at	at	ADP	IN	_	11	obl	_	_	_	P	at	p.Stimulus	p.Direction	_	_	_	O-P-p.Stimulus|p.Direction
 13	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.536
 # mwe = If he had been master of such complete authority , he would have been able to watch the sunset , not forty - four times in one day , but seventy - two , or even a hundred , or even two hundred times , without ever having to move his chair .
-# doc_id = lpp_1943_en_ch-10
 1	If	if	SCONJ	IN	_	5	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -1016,9 +945,7 @@
 53	.	.	PUNCT	.	_	15	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.537
-# mwe = And because he felt a bit sad as he remembered his little planet which he had forsaken , he plucked up his courage to ask the king a favor : " I should like to see a sunset ... do me that kindness ...
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [21]: Missing supersense annotation in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [21]}
+# mwe = And because he felt a bit sad as he remembered his little planet which he had forsaken , he plucked_up_ his _courage to ask the king a favor : " I should like to see a sunset ... do me that kindness ...
 1	And	and	CCONJ	CC	_	20	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	because	because	SCONJ	IN	_	4	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
 3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
@@ -1038,10 +965,10 @@
 17	forsaken	forsake	VERB	VBN	Tense=Past|VerbForm=Part	13	acl:relcl	_	_	_	V	forsake	_	_	_	_	_	O-V
 18	,	,	PUNCT	,	_	4	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 19	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
-20	plucked	pluck	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	pluck	_	_	_	_	_	O-V
-21	up	up	ADP	RP	_	20	compound:prt	_	_	_	P	up	_	_	_	_	_	O-P
-22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	_	_	PRON.POSS	he	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
-23	courage	courage	NOUN	NN	Number=Sing	20	obj	_	_	_	N	courage	_	_	_	_	_	O-N
+20	plucked	pluck	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	pluck up courage	_	_	_	_	_	B-V
+21	up	up	ADP	RP	_	20	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
+22	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	_	_	PRON.POSS	he	p.Experiencer	p.Gestalt	_	_	_	o-PRON.POSS-p.Experiencer|p.Gestalt
+23	courage	courage	NOUN	NN	Number=Sing	20	obj	_	_	1:3	_	_	_	_	_	_	_	I_
 24	to	to	PART	TO	_	25	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
 25	ask	ask	VERB	VB	VerbForm=Inf	20	advcl	_	_	_	V	ask	_	_	_	_	_	O-V
 26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -1066,7 +993,6 @@
 
 # sent_id = lpp_1943.538
 # mwe = Order the sun to set ... "
-# doc_id = lpp_1943_en_ch-10
 1	Order	order	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	order	_	_	_	_	_	O-V
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	sun	sun	NOUN	NN	Number=Sing	1	obj	_	_	_	N	sun	_	_	_	_	_	O-N
@@ -1076,9 +1002,7 @@
 7	"	"	PUNCT	''	_	1	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.539
-# mwe = " If I ordered a general to fly from one flower to another like a butterfly , or to write a tragic drama , or to change himself into a sea bird , and if the general did not carry out the order that he had received , which one of us would be in the wrong ? " the king demanded .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [41]: Missing supersense annotation in lexical entry: {'lexlemma': 'out', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [41]}
+# mwe = " If I ordered a general to fly from one flower to another like a butterfly , or to write a tragic drama , or to change himself into a sea bird , and if the general did not carry_out the order that he had received , which one of us would be in the wrong ? " the king demanded .
 1	"	"	PUNCT	``	_	62	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	If	if	SCONJ	IN	_	4	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -1118,8 +1042,8 @@
 37	general	general	NOUN	NN	Number=Sing	40	nsubj	_	_	_	N	general	_	_	_	_	_	O-N
 38	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	40	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 39	not	not	PART	RB	_	40	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
-40	carry	carry	VERB	VB	VerbForm=Inf	27	advcl	_	_	_	V	carry	_	_	_	_	_	O-V
-41	out	out	ADP	RP	_	40	compound:prt	_	_	_	P	out	_	_	_	_	_	O-P
+40	carry	carry	VERB	VB	VerbForm=Inf	27	advcl	_	_	1:1	V	carry out	_	_	_	_	_	B-V
+41	out	out	ADP	RP	_	40	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 42	the	the	DET	DT	Definite=Def|PronType=Art	43	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 43	order	order	NOUN	NN	Number=Sing	40	obj	_	_	_	N	order	_	_	_	_	_	O-N
 44	that	that	SCONJ	IN	_	47	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -1145,7 +1069,6 @@
 
 # sent_id = lpp_1943.540
 # mwe = " The general , or myself ? "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	general	general	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	general	_	_	_	_	_	O-ADJ
@@ -1157,7 +1080,6 @@
 
 # sent_id = lpp_1943.541
 # mwe = " You , " said the little prince firmly .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	You	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	ccomp	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1171,15 +1093,12 @@
 
 # sent_id = lpp_1943.542
 # mwe = " Exactly .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Exactly	exactly	ADV	RB	_	0	root	_	_	_	ADV	exactly	_	_	_	_	_	O-ADV
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.543
-# mwe = One much require from each one the duty which each one can perform , " the king went on .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [19]: Missing supersense annotation in lexical entry: {'lexlemma': 'on', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [19]}
+# mwe = One much require from each one the duty which each one can perform , " the king went_on .
 1	One	one	NUM	CD	NumType=Card	2	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
 2	much	much	ADV	RB	_	3	advmod	_	_	_	ADV	much	_	_	_	_	_	O-ADV
 3	require	require	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	ccomp	_	_	_	V	require	_	_	_	_	_	O-V
@@ -1197,29 +1116,25 @@
 15	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 17	king	king	NOUN	NN	Number=Sing	18	nsubj	_	_	_	N	king	_	_	_	_	_	O-N
-18	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	go	_	_	_	_	_	O-V
-19	on	on	ADP	RP	_	18	compound:prt	_	_	_	P	on	_	_	_	_	_	O-P
+18	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	go on	_	_	_	_	_	B-V
+19	on	on	ADP	RP	_	18	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 20	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.544
-# mwe = " Accepted authority rests first of all on reason .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [6]: Missing supersense annotation in lexical entry: {'lexlemma': 'of', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [6]}
+# mwe = " Accepted authority rests first_of_all on reason .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Accepted	accept	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	_	_	V	accept	_	_	_	_	_	O-V
 3	authority	authority	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	authority	_	_	_	_	_	O-N
 4	rests	rest	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	rest	_	_	_	_	_	O-V
-5	first	first	ADV	RB	Degree=Pos	4	advmod	_	_	_	ADV	first	_	_	_	_	_	O-ADV
-6	of	of	ADP	IN	_	7	case	_	_	_	P	of	_	_	_	_	_	O-P
-7	all	all	DET	DT	_	4	obl	_	_	_	DET	all	_	_	_	_	_	O-DET
+5	first	first	ADV	RB	Degree=Pos	4	advmod	_	_	1:1	ADV	first of all	_	_	_	_	_	B-ADV
+6	of	of	ADP	IN	_	7	case	_	_	1:2	_	_	_	_	_	_	_	I_
+7	all	all	DET	DT	_	4	obl	_	_	1:3	_	_	_	_	_	_	_	I_
 8	on	on	ADP	IN	_	9	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
 9	reason	reason	NOUN	NN	Number=Sing	4	obl	_	_	_	N	reason	_	_	_	_	_	O-N
 10	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.545
-# mwe = If you ordered your people to go and throw themselves into the sea , they would rise up in revolution .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [18]: Missing supersense annotation in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [18]}
+# mwe = If you ordered your people to go and throw themselves into the sea , they would rise_up in revolution .
 1	If	if	SCONJ	IN	_	3	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	ordered	order	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	advcl	_	_	_	V	order	_	_	_	_	_	O-V
@@ -1236,15 +1151,14 @@
 14	,	,	PUNCT	,	_	17	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 16	would	would	AUX	MD	VerbForm=Fin	17	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
-17	rise	rise	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	rise	_	_	_	_	_	O-V
-18	up	up	ADP	RP	_	17	compound:prt	_	_	_	P	up	_	_	_	_	_	O-P
+17	rise	rise	VERB	VB	VerbForm=Inf	0	root	_	_	1:1	V	rise up	_	_	_	_	_	B-V
+18	up	up	ADP	RP	_	17	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 19	in	in	ADP	IN	_	20	case	_	_	_	P	in	p.Characteristic	p.Locus	_	_	_	O-P-p.Characteristic|p.Locus
 20	revolution	revolution	NOUN	NN	Number=Sing	17	obl	_	_	_	N	revolution	_	_	_	_	_	O-N
 21	.	.	PUNCT	.	_	17	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.546
 # mwe = I have the right to require obedience because my orders are reasonable . "
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -1262,7 +1176,6 @@
 
 # sent_id = lpp_1943.547
 # mwe = " Then my sunset ? " the little prince reminded him : for he never forgot a question once he had asked it .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
@@ -1290,7 +1203,6 @@
 
 # sent_id = lpp_1943.548
 # mwe = " You shall have your sunset .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	shall	shall	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	shall	_	_	_	_	_	O-AUX
@@ -1301,7 +1213,6 @@
 
 # sent_id = lpp_1943.549
 # mwe = I shall command it .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	shall	shall	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	shall	_	_	_	_	_	O-AUX
 3	command	command	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	command	_	_	_	_	_	O-V
@@ -1310,7 +1221,6 @@
 
 # sent_id = lpp_1943.550
 # mwe = But , according_to my science of government , I shall wait until conditions are favorable . "
-# doc_id = lpp_1943_en_ch-10
 1	But	but	CCONJ	CC	_	12	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	12	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	according	accord	VERB	VBG	VerbForm=Ger	6	case	_	_	1:1	P	accord to	p.Circumstance	p.Circumstance	_	_	_	B-P-p.Circumstance
@@ -1332,7 +1242,6 @@
 
 # sent_id = lpp_1943.551
 # mwe = " When will that be ? " inquired the little prince .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	When	when	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	when	_	_	_	_	_	O-ADV
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
@@ -1348,14 +1257,12 @@
 
 # sent_id = lpp_1943.552
 # mwe = " Hum !
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Hum	hum	INTJ	UH	_	0	root	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.553
 # mwe = Hum ! " replied the king ; and before saying anything else he consulted a bulky almanac .
-# doc_id = lpp_1943_en_ch-10
 1	Hum	hum	INTJ	UH	_	4	discourse	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 3	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
@@ -1377,20 +1284,17 @@
 
 # sent_id = lpp_1943.554
 # mwe = " Hum !
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Hum	hum	INTJ	UH	_	0	root	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.555
 # mwe = Hum !
-# doc_id = lpp_1943_en_ch-10
 1	Hum	hum	INTJ	UH	_	0	root	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.556
 # mwe = That will be about - - about - - that will be this evening about twenty minutes to eight .
-# doc_id = lpp_1943_en_ch-10
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	will	will	AUX	MD	VerbForm=Fin	7	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1414,7 +1318,6 @@
 
 # sent_id = lpp_1943.557
 # mwe = And you will see how well I am obeyed . "
-# doc_id = lpp_1943_en_ch-10
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
@@ -1429,7 +1332,6 @@
 
 # sent_id = lpp_1943.558
 # mwe = The little prince yawned .
-# doc_id = lpp_1943_en_ch-10
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -1438,7 +1340,6 @@
 
 # sent_id = lpp_1943.559
 # mwe = He was regretting his lost sunset .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	regretting	regret	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_	_	V	regret	_	_	_	_	_	O-V
@@ -1449,7 +1350,6 @@
 
 # sent_id = lpp_1943.560
 # mwe = And then , too , he was already beginning to be a little bored .
-# doc_id = lpp_1943_en_ch-10
 1	And	and	CCONJ	CC	_	9	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	then	then	ADV	RB	PronType=Dem	9	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1468,7 +1368,6 @@
 
 # sent_id = lpp_1943.561
 # mwe = " I have nothing more to do here , " he said to the king .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	ccomp	_	_	_	V	have	_	_	_	_	_	O-V
@@ -1487,15 +1386,13 @@
 16	.	.	PUNCT	.	_	12	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.562
-# mwe = " So I shall set out on my way again . "
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [6]: Missing supersense annotation in lexical entry: {'lexlemma': 'out', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [6]}
+# mwe = " So I shall set_out on my way again . "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	So	so	ADV	RB	_	5	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 4	shall	shall	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	shall	_	_	_	_	_	O-AUX
-5	set	set	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	set	_	_	_	_	_	O-V
-6	out	out	ADP	RP	_	5	compound:prt	_	_	_	P	out	_	_	_	_	_	O-P
+5	set	set	VERB	VB	VerbForm=Inf	0	root	_	_	1:1	V	set out	_	_	_	_	_	B-V
+6	out	out	ADP	RP	_	5	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 7	on	on	ADP	IN	_	9	case	_	_	_	P	on	p.Circumstance	p.Locus	_	_	_	O-P-p.Circumstance|p.Locus
 8	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	_	_	PRON.POSS	my	`$	`$	_	_	_	O-PRON.POSS-`$
 9	way	way	NOUN	NN	Number=Sing	5	obl	_	_	_	N	way	_	_	_	_	_	O-N
@@ -1505,7 +1402,6 @@
 
 # sent_id = lpp_1943.563
 # mwe = " Do not go , " said the king , who was very proud of having a subject .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -1528,7 +1424,6 @@
 
 # sent_id = lpp_1943.564
 # mwe = " Do not go .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	AUX	VB	VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -1537,7 +1432,6 @@
 
 # sent_id = lpp_1943.565
 # mwe = I will make you a Minister ! "
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
 3	make	make	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	make	_	_	_	_	_	O-V
@@ -1549,7 +1443,6 @@
 
 # sent_id = lpp_1943.566
 # mwe = " Minister of what ? "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Minister	minister	NOUN	NN	Number=Sing	0	root	_	_	_	N	minister	_	_	_	_	_	O-N
 3	of	of	ADP	IN	_	4	case	_	_	_	P	of	p.Topic	p.Topic	_	_	_	O-P-p.Topic
@@ -1559,7 +1452,6 @@
 
 # sent_id = lpp_1943.567
 # mwe = " Minster of - - of Justice ! "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Minster	Minster	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Minster	_	_	_	_	_	O-N
 3	of	of	ADP	IN	_	7	case	_	_	_	P	of	p.Topic	p.Topic	_	_	_	O-P-p.Topic
@@ -1572,7 +1464,6 @@
 
 # sent_id = lpp_1943.568
 # mwe = " But there is nobody here to judge ! "
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	there	there	PRON	EX	_	4	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
@@ -1586,7 +1477,6 @@
 
 # sent_id = lpp_1943.569
 # mwe = " We do not know that , " the king said to him .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -1604,7 +1494,6 @@
 
 # sent_id = lpp_1943.570
 # mwe = " I have not yet made a complete tour of my kingdom .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -1621,7 +1510,6 @@
 
 # sent_id = lpp_1943.571
 # mwe = I am very old .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	very	very	ADV	RB	_	4	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
@@ -1630,7 +1518,6 @@
 
 # sent_id = lpp_1943.572
 # mwe = There is no room here for a carriage .
-# doc_id = lpp_1943_en_ch-10
 1	There	there	PRON	EX	_	2	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
 3	no	no	DET	DT	_	4	det	_	_	_	DET	no	_	_	_	_	_	O-DET
@@ -1643,7 +1530,6 @@
 
 # sent_id = lpp_1943.573
 # mwe = And it tires me to walk . "
-# doc_id = lpp_1943_en_ch-10
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	tires	tire	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	tire	_	_	_	_	_	O-V
@@ -1655,7 +1541,6 @@
 
 # sent_id = lpp_1943.574
 # mwe = " Oh , but I have looked already ! " said the little prince , turning around to give one more glance to the other side of the planet .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Oh	oh	INTJ	UH	_	7	discourse	_	_	_	INTJ	oh	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1689,7 +1574,6 @@
 
 # sent_id = lpp_1943.575
 # mwe = On that side , as on this , there was nobody at all ...
-# doc_id = lpp_1943_en_ch-10
 1	On	on	ADP	IN	_	3	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
 2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	that	_	_	_	_	_	O-DET
 3	side	side	NOUN	NN	Number=Sing	10	obl	_	_	_	N	side	_	_	_	_	_	O-N
@@ -1707,7 +1591,6 @@
 
 # sent_id = lpp_1943.576
 # mwe = " Then you shall judge yourself , " the king answered .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	5	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -1723,7 +1606,6 @@
 
 # sent_id = lpp_1943.577
 # mwe = " that is the most difficult thing of all .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	7	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1737,7 +1619,6 @@
 
 # sent_id = lpp_1943.578
 # mwe = It is much more difficult to judge oneself than to judge others .
-# doc_id = lpp_1943_en_ch-10
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	much	much	ADV	RB	_	4	advmod	_	_	_	ADV	much	_	_	_	_	_	O-ADV
@@ -1754,7 +1635,6 @@
 
 # sent_id = lpp_1943.579
 # mwe = If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
-# doc_id = lpp_1943_en_ch-10
 1	If	if	SCONJ	IN	_	3	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	succeed	succeed	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	_	_	V	succeed	_	_	_	_	_	O-V
@@ -1777,7 +1657,6 @@
 
 # sent_id = lpp_1943.580
 # mwe = " Yes , " said the little prince , " but I can judge myself anywhere .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Yes	yes	INTJ	UH	_	5	discourse	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1798,7 +1677,6 @@
 
 # sent_id = lpp_1943.581
 # mwe = I do not need to live on this planet .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -1812,14 +1690,12 @@
 
 # sent_id = lpp_1943.582
 # mwe = " Hum !
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Hum	hum	INTJ	UH	_	0	root	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.583
 # mwe = Hum ! " said the king .
-# doc_id = lpp_1943_en_ch-10
 1	Hum	hum	INTJ	UH	_	4	ccomp	_	_	_	INTJ	hum	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 3	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
@@ -1830,7 +1706,6 @@
 
 # sent_id = lpp_1943.584
 # mwe = " I have good reason to believe that somewhere on my planet there is an old rat .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
@@ -1852,7 +1727,6 @@
 
 # sent_id = lpp_1943.585
 # mwe = I hear him at night .
-# doc_id = lpp_1943_en_ch-10
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	hear	_	_	_	_	_	O-V
 3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
@@ -1862,7 +1736,6 @@
 
 # sent_id = lpp_1943.586
 # mwe = You can judge this old rat .
-# doc_id = lpp_1943_en_ch-10
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	judge	judge	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	judge	_	_	_	_	_	O-V
@@ -1873,7 +1746,6 @@
 
 # sent_id = lpp_1943.587
 # mwe = From_time_to_time you will condemn him to death .
-# doc_id = lpp_1943_en_ch-10
 1	From	from	ADP	IN	_	2	case	_	_	1:1	PP	from time to time	p.Frequency	p.Frequency	_	_	_	B-PP-p.Frequency
 2	time	time	NOUN	NN	Number=Sing	7	obl	_	_	1:2	_	_	_	_	_	_	_	I_
 3	to	to	ADP	IN	_	4	case	_	_	1:3	_	_	_	_	_	_	_	I_
@@ -1888,7 +1760,6 @@
 
 # sent_id = lpp_1943.588
 # mwe = Thus his life will depend on your justice .
-# doc_id = lpp_1943_en_ch-10
 1	Thus	thus	ADV	RB	_	5	advmod	_	_	_	ADV	thus	_	_	_	_	_	O-ADV
 2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	he	p.Theme	p.Gestalt	_	_	_	O-PRON.POSS-p.Theme|p.Gestalt
 3	life	life	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	life	_	_	_	_	_	O-N
@@ -1901,7 +1772,6 @@
 
 # sent_id = lpp_1943.589
 # mwe = But you will pardon him on each occasion ; for he must be treated thriftily .
-# doc_id = lpp_1943_en_ch-10
 1	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
@@ -1921,7 +1791,6 @@
 
 # sent_id = lpp_1943.590
 # mwe = He is the only one we have . "
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -1934,7 +1803,6 @@
 
 # sent_id = lpp_1943.591
 # mwe = " I , " replied the little prince , " do not like to condemn anyone to death .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1957,7 +1825,6 @@
 
 # sent_id = lpp_1943.592
 # mwe = And now I think I will go on my way . "
-# doc_id = lpp_1943_en_ch-10
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	now	now	ADV	RB	_	4	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -1973,7 +1840,6 @@
 
 # sent_id = lpp_1943.593
 # mwe = " No , " said the king .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	No	no	INTJ	UH	_	5	ccomp	_	_	_	INTJ	no	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	5	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1985,7 +1851,6 @@
 
 # sent_id = lpp_1943.594
 # mwe = But the little prince , having now completed his preparations for departure , had no wish to grieve the old monarch .
-# doc_id = lpp_1943_en_ch-10
 1	But	but	CCONJ	CC	_	14	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -2011,7 +1876,6 @@
 
 # sent_id = lpp_1943.595
 # mwe = " If Your Majesty wishes to be promptly obeyed , " he said , " he should be able to give me a reasonable order .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	If	if	SCONJ	IN	_	5	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	you	`$	`$	_	_	_	O-PRON.POSS-`$
@@ -2041,7 +1905,6 @@
 
 # sent_id = lpp_1943.596
 # mwe = He should be able , for_example , to order me to be gone by the end of one minute .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	should	should	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	should	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -2066,7 +1929,6 @@
 
 # sent_id = lpp_1943.597
 # mwe = It seems to me that conditions are favorable ... "
-# doc_id = lpp_1943_en_ch-10
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	seem	_	_	_	_	_	O-V
 3	to	to	ADP	IN	_	4	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
@@ -2080,7 +1942,6 @@
 
 # sent_id = lpp_1943.598
 # mwe = As the king made no answer , the little prince hesitated a moment .
-# doc_id = lpp_1943_en_ch-10
 1	As	as	SCONJ	IN	_	4	mark	_	_	_	P	as	p.Explanation	p.Time	_	_	_	O-P-p.Explanation|p.Time
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	king	king	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	king	_	_	_	_	_	O-N
@@ -2098,7 +1959,6 @@
 
 # sent_id = lpp_1943.599
 # mwe = Then , with a sigh , he took his leave .
-# doc_id = lpp_1943_en_ch-10
 1	Then	then	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	8	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	with	with	ADP	IN	_	5	case	_	_	_	P	with	p.Manner	p.Manner	_	_	_	O-P-p.Manner
@@ -2112,9 +1972,7 @@
 11	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.600
-# mwe = " I made you my Ambassador , " the king called out , hastily .
-# doc_id = lpp_1943_en_ch-10
-# 0_ERROR = Tokens [12]: Missing supersense annotation in lexical entry: {'lexlemma': 'out', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [12]}
+# mwe = " I made you my Ambassador , " the king called_out , hastily .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	ccomp	_	_	_	V	make	_	_	_	_	_	O-V
@@ -2125,15 +1983,14 @@
 8	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 10	king	king	NOUN	NN	Number=Sing	11	nsubj	_	_	_	N	king	_	_	_	_	_	O-N
-11	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	call	_	_	_	_	_	O-V
-12	out	out	ADP	RP	_	11	compound:prt	_	_	_	P	out	_	_	_	_	_	O-P
+11	called	call	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	call out	_	_	_	_	_	B-V
+12	out	out	ADP	RP	_	11	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 13	,	,	PUNCT	,	_	14	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 14	hastily	hastily	ADV	RB	_	11	advmod	_	_	_	ADV	hastily	_	_	_	_	_	O-ADV
 15	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.601
 # mwe = He had a magnificent air of authority .
-# doc_id = lpp_1943_en_ch-10
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	had	have	VERB	VBD	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -2145,7 +2002,6 @@
 
 # sent_id = lpp_1943.602
 # mwe = " The grown - ups are very strange , " the little prince said to himself , as he continued on his journey .
-# doc_id = lpp_1943_en_ch-10
 1	"	"	PUNCT	``	_	14	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	_	V	grow	_	_	_	_	_	O-V
