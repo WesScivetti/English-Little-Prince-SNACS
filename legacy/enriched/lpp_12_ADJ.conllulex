@@ -1,14 +1,12 @@
+# newdoc id = lpp_1943_en_ch-12
 # sent_id = lpp_1943.634
 # mwe = Chapter 12 .
-# newdoc id = lpp_1943_en_ch-12
-# doc_id = lpp_1943_en_ch-12
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	12	12	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	12	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.635
 # mwe = The next planet was inhabited by a tippler .
-# doc_id = lpp_1943_en_ch-12
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	next	_	_	_	_	_	O-ADJ
 3	planet	planet	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -21,7 +19,6 @@
 
 # sent_id = lpp_1943.636
 # mwe = This was a very short visit , but it plunged the little prince into deep dejection .
-# doc_id = lpp_1943_en_ch-12
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -41,9 +38,7 @@
 17	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.637
-# mwe = " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
-# doc_id = lpp_1943_en_ch-12
-# 0_ERROR = Tokens [19]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [19]}
+# mwe = " What are you doing there ? " he said to the tippler , whom he found settled_down in silence before a collection of empty bottles and also a collection of full bottles .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -61,8 +56,8 @@
 15	whom	whom	PRON	WP	PronType=Int	17	obj	_	_	_	PRON	whom	_	_	_	_	_	O-PRON
 16	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 17	found	find	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_	_	V	find	_	_	_	_	_	O-V
-18	settled	settle	VERB	VBN	Tense=Past|VerbForm=Part	17	xcomp	_	_	_	V	settle	_	_	_	_	_	O-V
-19	down	down	ADP	RP	_	18	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+18	settled	settle	VERB	VBN	Tense=Past|VerbForm=Part	17	xcomp	_	_	1:1	V	settle down	_	_	_	_	_	B-V
+19	down	down	ADP	RP	_	18	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 20	in	in	ADP	IN	_	21	case	_	_	_	P	in	p.Characteristic	p.Locus	_	_	_	O-P-p.Characteristic|p.Locus
 21	silence	silence	NOUN	NN	Number=Sing	18	obl	_	_	_	N	silence	_	_	_	_	_	O-N
 22	before	before	ADP	IN	_	24	case	_	_	_	P	before	p.Locus	p.Locus	_	_	_	O-P-p.Locus
@@ -82,7 +77,6 @@
 
 # sent_id = lpp_1943.638
 # mwe = " I am drinking , " replied the tippler , with a lugubrious air .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -101,7 +95,6 @@
 
 # sent_id = lpp_1943.639
 # mwe = " Why are you drinking ? " demanded the little prince .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -117,7 +110,6 @@
 
 # sent_id = lpp_1943.640
 # mwe = " So that I may forget , " replied the tippler .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	So	so	ADV	RB	_	9	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 3	that	that	SCONJ	IN	_	6	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -133,7 +125,6 @@
 
 # sent_id = lpp_1943.641
 # mwe = " Forget what ? " inquired the little prince , who already was sorry for him .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Forget	forget	VERB	VB	Mood=Imp|VerbForm=Fin	6	ccomp	_	_	_	V	forget	_	_	_	_	_	O-V
 3	what	what	PRON	WP	PronType=Int	2	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -154,7 +145,6 @@
 
 # sent_id = lpp_1943.642
 # mwe = " Forget that I am ashamed , " the tippler confessed , hanging his head .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Forget	forget	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	forget	_	_	_	_	_	O-V
 3	that	that	SCONJ	IN	_	6	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -174,7 +164,6 @@
 
 # sent_id = lpp_1943.643
 # mwe = " Ashamed of what ? " insisted the little prince , who wanted to help him .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ashamed	ashamed	ADJ	JJ	Degree=Pos	7	ccomp	_	_	_	ADJ	ashamed	_	_	_	_	_	O-ADJ
 3	of	of	ADP	IN	_	4	case	_	_	_	P	of	p.Stimulus	p.Topic	_	_	_	O-P-p.Stimulus|p.Topic
@@ -195,7 +184,6 @@
 
 # sent_id = lpp_1943.644
 # mwe = " Ashamed of drinking ! "
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ashamed	ashamed	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	ashamed	_	_	_	_	_	O-ADJ
 3	of	of	SCONJ	IN	_	4	case	_	_	_	P	of	p.Stimulus	p.Topic	_	_	_	O-P-p.Stimulus|p.Topic
@@ -204,9 +192,7 @@
 6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.645
-# mwe = The tippler brought his speech to an end , and shut himself up in an impregnable silence .
-# doc_id = lpp_1943_en_ch-12
-# 0_ERROR = Tokens [13]: Missing supersense annotation in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [13]}
+# mwe = The tippler brought his speech to an end , and shut_ himself _up in an impregnable silence .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	tippler	tippler	ADV	RBR	Degree=Cmp	3	advmod	_	_	_	ADV	tippler	_	_	_	_	_	O-ADV
 3	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	bring	_	_	_	_	_	O-V
@@ -217,9 +203,9 @@
 8	end	end	NOUN	NN	Number=Sing	3	obl	_	_	_	N	end	_	_	_	_	_	O-N
 9	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 10	and	and	CCONJ	CC	_	11	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
-11	shut	shut	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_	_	V	shut	_	_	_	_	_	O-V
-12	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	_	_	PRON	himself	_	_	_	_	_	O-PRON
-13	up	up	ADP	RP	_	11	compound:prt	_	_	_	P	up	_	_	_	_	_	O-P
+11	shut	shut	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	_	1:1	V	shut up	_	_	_	_	_	B-V
+12	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	_	_	PRON	himself	_	_	_	_	_	o-PRON
+13	up	up	ADP	RP	_	11	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 14	in	in	ADP	IN	_	17	case	_	_	_	P	in	p.Goal	p.Locus	_	_	_	O-P-p.Goal|p.Locus
 15	an	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 16	impregnable	impregnable	ADJ	JJ	Degree=Pos	17	amod	_	_	_	ADJ	impregnable	_	_	_	_	_	O-ADJ
@@ -228,7 +214,6 @@
 
 # sent_id = lpp_1943.646
 # mwe = And the little prince went away , puzzled .
-# doc_id = lpp_1943_en_ch-12
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -241,7 +226,6 @@
 
 # sent_id = lpp_1943.647
 # mwe = " The grown - ups are certainly very , very odd , " he said to himself , as he continued on his journey .
-# doc_id = lpp_1943_en_ch-12
 1	"	"	PUNCT	``	_	15	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	_	V	grow	_	_	_	_	_	O-V

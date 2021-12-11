@@ -1,14 +1,12 @@
+# newdoc id = lpp_1943_en_ch-11
 # sent_id = lpp_1943.603
 # mwe = Chapter 11 .
-# newdoc id = lpp_1943_en_ch-11
-# doc_id = lpp_1943_en_ch-11
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	11	11	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	11	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.604
 # mwe = The second planet was inhabited by a conceited man .
-# doc_id = lpp_1943_en_ch-11
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	second	_	_	_	_	_	O-ADJ
 3	planet	planet	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -22,20 +20,17 @@
 
 # sent_id = lpp_1943.605
 # mwe = " Ah !
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.606
 # mwe = Ah !
-# doc_id = lpp_1943_en_ch-11
 1	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.607
 # mwe = I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
-# doc_id = lpp_1943_en_ch-11
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	about	about	ADV	RB	_	14	advmod	_	_	_	ADV	about	_	_	_	_	_	O-ADV
@@ -65,7 +60,6 @@
 
 # sent_id = lpp_1943.608
 # mwe = For , to conceited men , all other men are admirers .
-# doc_id = lpp_1943_en_ch-11
 1	For	for	ADP	IN	_	11	advmod	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	to	to	ADP	IN	_	5	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
@@ -81,7 +75,6 @@
 
 # sent_id = lpp_1943.609
 # mwe = " Good morning , " said the little prince .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -95,7 +88,6 @@
 
 # sent_id = lpp_1943.610
 # mwe = " That is a queer hat you are wearing . "
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -110,7 +102,6 @@
 
 # sent_id = lpp_1943.611
 # mwe = " It is a hat for salutes , " the conceited man replied .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -128,14 +119,12 @@
 
 # sent_id = lpp_1943.612
 # mwe = " It is to raise in salute when people acclaim me .
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = Tokens [6]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [6]}
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
 4	to	to	PART	TO	_	5	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
 5	raise	raise	VERB	VB	VerbForm=Inf	3	ccomp	_	_	_	V	raise	_	_	_	_	_	O-V
-6	in	in	ADP	IN	_	7	case	_	_	_	P	in	_	_	_	_	_	O-P
+6	in	in	ADP	IN	_	7	case	_	_	_	P	in	p.Manner	p.Manner	_	_	_	O-P-p.Manner
 7	salute	salute	NOUN	NN	Number=Sing	5	obl	_	_	_	N	salute	_	_	_	_	_	O-N
 8	when	when	SCONJ	WRB	PronType=Int	10	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 9	people	people	NOUN	NNS	Number=Plur	10	nsubj	_	_	_	N	people	_	_	_	_	_	O-N
@@ -145,7 +134,6 @@
 
 # sent_id = lpp_1943.613
 # mwe = Unfortunately , nobody at all ever passes this way . "
-# doc_id = lpp_1943_en_ch-11
 1	Unfortunately	unfortunately	ADV	RB	_	7	advmod	_	_	_	ADV	unfortunately	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	nobody	nobody	PRON	NN	Number=Sing	7	nsubj	_	_	_	PRON	nobody	_	_	_	_	_	O-PRON
@@ -160,7 +148,6 @@
 
 # sent_id = lpp_1943.614
 # mwe = " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Yes	yes	INTJ	UH	_	5	ccomp	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -185,7 +172,6 @@
 
 # sent_id = lpp_1943.615
 # mwe = " Clap your hands , one against the other , " the conceited man now directed him .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Clap	clap	VERB	VB	Mood=Imp|VerbForm=Fin	16	ccomp	_	_	_	V	clap	_	_	_	_	_	O-V
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	you	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
@@ -207,7 +193,6 @@
 
 # sent_id = lpp_1943.616
 # mwe = The little prince clapped his hands .
-# doc_id = lpp_1943_en_ch-11
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -218,15 +203,13 @@
 
 # sent_id = lpp_1943.617
 # mwe = The conceited man raised his hat in a modest salute .
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = Tokens [7]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [7]}
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	conceited	conceited	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 3	man	man	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
 4	raised	raise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	raise	_	_	_	_	_	O-V
 5	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
 6	hat	hat	NOUN	NN	Number=Sing	4	obj	_	_	_	N	hat	_	_	_	_	_	O-N
-7	in	in	ADP	IN	_	10	case	_	_	_	P	in	_	_	_	_	_	O-P
+7	in	in	ADP	IN	_	10	case	_	_	_	P	in	p.Manner	p.Manner	_	_	_	O-P-p.Manner
 8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 9	modest	modest	ADJ	JJ	Degree=Pos	10	amod	_	_	_	ADJ	modest	_	_	_	_	_	O-ADJ
 10	salute	salute	NOUN	NN	Number=Sing	4	obl	_	_	_	N	salute	_	_	_	_	_	O-N
@@ -234,7 +217,6 @@
 
 # sent_id = lpp_1943.618
 # mwe = " This is more entertaining than the visit to the king , " the little prince said to himself .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	17	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -258,7 +240,6 @@
 
 # sent_id = lpp_1943.619
 # mwe = And he began again to clap his hands , one against the other .
-# doc_id = lpp_1943_en_ch-11
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	begin	_	_	_	_	_	O-V
@@ -276,23 +257,19 @@
 
 # sent_id = lpp_1943.620
 # mwe = The conceited man against raised his hat in salute .
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = Tokens [4]: Invalid supersense(s) in lexical entry: {'lexlemma': 'against', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [4]}
-# 1_ERROR = Tokens [8]: Missing supersense annotation in lexical entry: {'lexlemma': 'in', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [8]}
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	conceited	conceited	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 3	man	man	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
-4	against	against	ADP	IN	_	5	mark	_	_	_	P	against	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+4	against	again	ADV	RB	Typo=Yes	5	advmod	_	CorrectForm=again	_	ADV	again	_	_	_	_	_	O-ADV
 5	raised	raise	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	raise	_	_	_	_	_	O-V
 6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	_	_	PRON.POSS	he	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
 7	hat	hat	NOUN	NN	Number=Sing	5	obj	_	_	_	N	hat	_	_	_	_	_	O-N
-8	in	in	ADP	IN	_	9	case	_	_	_	P	in	_	_	_	_	_	O-P
+8	in	in	ADP	IN	_	9	case	_	_	_	P	in	p.Manner	p.Manner	_	_	_	O-P-p.Manner
 9	salute	salute	NOUN	NN	Number=Sing	5	obl	_	_	_	N	salute	_	_	_	_	_	O-N
 10	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.621
 # mwe = After five minutes of this exercise the little prince grew tired of the game 's monotony .
-# doc_id = lpp_1943_en_ch-11
 1	After	after	ADP	IN	_	3	case	_	_	_	P	after	p.Time	p.Interval	_	_	_	O-P-p.Time|p.Interval
 2	five	five	NUM	CD	NumType=Card	3	nummod	_	_	_	NUM	five	_	_	_	_	_	O-NUM
 3	minutes	minute	NOUN	NNS	Number=Plur	10	obl	_	_	_	N	minute	_	_	_	_	_	O-N
@@ -313,8 +290,6 @@
 
 # sent_id = lpp_1943.622
 # mwe = " And what should one do to make the hat come down ? " he asked .
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = Tokens [12]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [12]}
 1	"	"	PUNCT	``	_	16	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	what	what	PRON	WP	PronType=Int	6	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -326,7 +301,7 @@
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 10	hat	hat	NOUN	NN	Number=Sing	8	obj	_	_	_	N	hat	_	_	_	_	_	O-N
 11	come	come	VERB	VB	VerbForm=Inf	8	xcomp	_	_	_	V	come	_	_	_	_	_	O-V
-12	down	down	ADP	RP	_	11	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+12	down	down	ADP	RP	_	11	compound:prt	_	_	_	P	down	p.Direction	p.Direction	_	_	_	O-P-p.Direction
 13	?	?	PUNCT	.	_	16	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
 14	"	"	PUNCT	''	_	16	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 15	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
@@ -335,7 +310,6 @@
 
 # sent_id = lpp_1943.623
 # mwe = But the conceited man did not hear him .
-# doc_id = lpp_1943_en_ch-11
 1	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	conceited	conceited	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
@@ -348,20 +322,17 @@
 
 # sent_id = lpp_1943.624
 # mwe = Conceited people never hear anything but praise .
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = single-word expression 'but' has lexcat P, which is incompatible with its upos CCONJ
 1	Conceited	conceited	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	people	_	_	_	_	_	O-N
 3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
 4	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	hear	_	_	_	_	_	O-V
 5	anything	anything	PRON	NN	Number=Sing	4	obj	_	_	_	PRON	anything	_	_	_	_	_	O-PRON
-6	but	but	CCONJ	CC	_	7	case	_	_	_	P	but	p.PartPortion	p.PartPortion	_	_	_	O-P-p.PartPortion
+6	but	but	ADP	IN	_	7	case	_	_	_	P	but	p.PartPortion	p.PartPortion	_	_	_	O-P-p.PartPortion
 7	praise	praise	NOUN	NN	Number=Sing	5	conj	_	_	_	N	praise	_	_	_	_	_	O-N
 8	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.625
 # mwe = " Do you really admire me very much ? " he demanded of the little prince .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -382,9 +353,6 @@
 
 # sent_id = lpp_1943.626
 # mwe = " What does that mean - - ' admire ' ? "
-# doc_id = lpp_1943_en_ch-11
-# 0_ERROR = Tokens [8]: Invalid supersense(s) in lexical entry: {'lexlemma': "'", 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [8]}
-# 1_ERROR = single-word expression ''' has lexcat P, which is incompatible with its upos PUNCT
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -392,7 +360,7 @@
 5	mean	mean	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	mean	_	_	_	_	_	O-V
 6	-	-	PUNCT	HYPH	_	9	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
 7	-	-	PUNCT	HYPH	_	9	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
-8	'	'	PUNCT	``	_	9	punct	_	_	_	P	'	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
+8	'	'	PUNCT	``	_	9	punct	_	_	_	PUNCT	'	_	_	_	_	_	O-PUNCT
 9	admire	admire	VERB	VB	VerbForm=Fin	5	ccomp	_	_	_	V	admire	_	_	_	_	_	O-V
 10	'	'	PUNCT	''	_	9	punct	_	_	_	PUNCT	'	_	_	_	_	_	O-PUNCT
 11	?	?	PUNCT	.	_	5	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -400,7 +368,6 @@
 
 # sent_id = lpp_1943.627
 # mwe = " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	To	to	PART	TO	_	3	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 3	admire	admire	VERB	VB	VerbForm=Inf	4	xcomp	_	_	_	V	admire	_	_	_	_	_	O-V
@@ -434,7 +401,6 @@
 
 # sent_id = lpp_1943.628
 # mwe = " But you are the only man on your planet ! "
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -450,7 +416,6 @@
 
 # sent_id = lpp_1943.629
 # mwe = " Do me this kindness .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	do	_	_	_	_	_	O-V
 3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -460,7 +425,6 @@
 
 # sent_id = lpp_1943.630
 # mwe = Admire me just the same . "
-# doc_id = lpp_1943_en_ch-11
 1	Admire	admire	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	admire	_	_	_	_	_	O-V
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	just	just	ADV	RB	_	5	advmod	_	_	_	ADV	just	_	_	_	_	_	O-ADV
@@ -471,7 +435,6 @@
 
 # sent_id = lpp_1943.631
 # mwe = " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	admire	admire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	_	_	V	admire	_	_	_	_	_	O-V
@@ -505,7 +468,6 @@
 
 # sent_id = lpp_1943.632
 # mwe = And the little prince went away .
-# doc_id = lpp_1943_en_ch-11
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -516,7 +478,6 @@
 
 # sent_id = lpp_1943.633
 # mwe = " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
-# doc_id = lpp_1943_en_ch-11
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	_	V	grow	_	_	_	_	_	O-V
