@@ -30,7 +30,7 @@
 9	!	!	PUNCT	.	_	8	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.920
-# mwe = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown - ups .
+# mwe = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown_-_ups .
 1	One	one	PRON	PRP	_	3	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	count	count	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	count	_	_	_	_	_	O-V
@@ -74,9 +74,9 @@
 41	,	,	PUNCT	,	_	46	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 42	about	about	ADV	RB	_	43	advmod	_	_	_	P	about	p.Approximator	p.Approximator	_	_	_	O-P-p.Approximator
 43	2,000,000,000	2000000000	NUM	CD	NumType=Card	46	nummod	_	_	_	NUM	2000000000	_	_	_	_	_	O-NUM
-44	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	46	amod	_	_	_	V	grow	_	_	_	_	_	O-V
-45	-	-	PUNCT	HYPH	_	46	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
-46	ups	up	NOUN	NNS	Number=Plur	40	obj	_	_	_	N	up	_	_	_	_	_	O-N
+44	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	46	amod	_	_	1:1	N	grow - up	_	_	_	_	_	B-N
+45	-	-	PUNCT	HYPH	_	46	punct	_	_	1:2	_	_	_	_	_	_	_	I_
+46	ups	up	NOUN	NNS	Number=Plur	40	obj	_	_	1:3	_	_	_	_	_	_	_	I_
 47	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.921
