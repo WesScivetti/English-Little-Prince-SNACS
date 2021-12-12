@@ -1,12 +1,14 @@
 # newdoc id = lpp_1943_en_ch-22
 # sent_id = lpp_1943.1182
 # mwe = Chapter 22 .
+# text = Chapter 22 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	22	22	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	22	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.1183
 # mwe = " Good morning , " said the little prince .
+# text = " Good morning , " said the little prince .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -20,6 +22,7 @@
 
 # sent_id = lpp_1943.1184
 # mwe = " Good morning , " said the railway switchman .
+# text = " Good morning , " said the railway switchman .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -33,6 +36,7 @@
 
 # sent_id = lpp_1943.1185
 # mwe = " What do you do here ? " the little prince asked .
+# text = " What do you do here ? " the little prince asked .
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -49,6 +53,7 @@
 
 # sent_id = lpp_1943.1186
 # mwe = " I sort_out travelers , in bundles of a thousand , " said the switchman .
+# text = " I sort out travelers , in bundles of a thousand , " said the switchman .
 1	"	"	PUNCT	``	_	14	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	sort	sort	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	ccomp	_	_	1:1	V	sort out	_	_	_	_	_	B-V
@@ -69,6 +74,7 @@
 
 # sent_id = lpp_1943.1187
 # mwe = " I send off the trains that carry them ; now to the right , now to the left . "
+# text = " I send off the trains that carry them ; now to the right , now to the left . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	send	send	VERB	VBP	Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	send	_	_	_	_	_	O-V
@@ -93,6 +99,7 @@
 
 # sent_id = lpp_1943.1188
 # mwe = And a brilliantly lighted express train shook the switchman 's cabin as it rushed by with a roar like thunder .
+# text = And a brilliantly lighted express train shook the switchman 's cabin as it rushed by with a roar like thunder .
 1	And	and	CCONJ	CC	_	7	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	brilliantly	brilliantly	ADV	RB	_	4	advmod	_	_	_	ADV	brilliantly	_	_	_	_	_	O-ADV
@@ -117,6 +124,7 @@
 
 # sent_id = lpp_1943.1189
 # mwe = " They are in a great hurry , " said the little prince .
+# text = " They are in a great hurry , " said the little prince .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -134,6 +142,7 @@
 
 # sent_id = lpp_1943.1190
 # mwe = " What are they looking for ? "
+# text = " What are they looking for ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obl	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -145,6 +154,7 @@
 
 # sent_id = lpp_1943.1191
 # mwe = " Not even the locomotive engineer knows that , " said the switchman .
+# text = " Not even the locomotive engineer knows that , " said the switchman .
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Not	not	PART	RB	_	7	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
 3	even	even	ADV	RB	_	7	advmod	_	_	_	ADV	even	_	_	_	_	_	O-ADV
@@ -162,6 +172,7 @@
 
 # sent_id = lpp_1943.1192
 # mwe = And a second brilliantly lighted express thundered by , in_ the opposite _direction .
+# text = And a second brilliantly lighted express thundered by , in the opposite direction .
 1	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	5	advmod	_	_	_	ADJ	second	_	_	_	_	_	O-ADJ
@@ -179,6 +190,7 @@
 
 # sent_id = lpp_1943.1193
 # mwe = " Are they coming back already ? " demanded the little prince .
+# text = " Are they coming back already ? " demanded the little prince .
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -195,6 +207,7 @@
 
 # sent_id = lpp_1943.1194
 # mwe = " These are not the same ones , " said the switchman .
+# text = " These are not the same ones , " said the switchman .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	These	this	PRON	DT	Number=Plur|PronType=Dem	7	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -211,6 +224,7 @@
 
 # sent_id = lpp_1943.1195
 # mwe = " It is an exchange . "
+# text = " It is an exchange . "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -221,6 +235,7 @@
 
 # sent_id = lpp_1943.1196
 # mwe = " Were they not satisfied where they were ? " asked the little prince .
+# text = " Were they not satisfied where they were ? " asked the little prince .
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -239,6 +254,7 @@
 
 # sent_id = lpp_1943.1197
 # mwe = " No one is ever satisfied where he is , " said the switchman .
+# text = " No one is ever satisfied where he is , " said the switchman .
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	No	no	DET	DT	_	3	det	_	_	_	DET	no	_	_	_	_	_	O-DET
 3	one	one	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	one	_	_	_	_	_	O-N
@@ -257,6 +273,7 @@
 
 # sent_id = lpp_1943.1198
 # mwe = And they heard the roaring thunder of a third brilliantly lighted express .
+# text = And they heard the roaring thunder of a third brilliantly lighted express .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	heard	hear	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	hear	_	_	_	_	_	O-V
@@ -273,6 +290,7 @@
 
 # sent_id = lpp_1943.1199
 # mwe = " Are they pursuing the first travelers ? " demanded the little prince .
+# text = " Are they pursuing the first travelers ? " demanded the little prince .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -290,6 +308,7 @@
 
 # sent_id = lpp_1943.1200
 # mwe = " They are pursuing nothing at all , " said the switchman .
+# text = " They are pursuing nothing at all , " said the switchman .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -306,6 +325,7 @@
 
 # sent_id = lpp_1943.1201
 # mwe = " They are asleep in there , or if they are not asleep they are yawning .
+# text = " They are asleep in there , or if they are not asleep they are yawning .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -326,6 +346,7 @@
 
 # sent_id = lpp_1943.1202
 # mwe = Only the children are flattening their noses against the windowpanes . "
+# text = Only the children are flattening their noses against the windowpanes . "
 1	Only	only	ADV	RB	_	3	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	children	child	NOUN	NNS	Number=Plur	5	nsubj	_	_	_	N	child	_	_	_	_	_	O-N
@@ -341,6 +362,7 @@
 
 # sent_id = lpp_1943.1203
 # mwe = " Only the children know what they are looking for , " said the little prince .
+# text = " Only the children know what they are looking for , " said the little prince .
 1	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Only	only	ADV	RB	_	5	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -361,6 +383,7 @@
 
 # sent_id = lpp_1943.1204
 # mwe = " They waste their time over a rag doll and it becomes very important to them ; and if anybody takes it away_from them , they cry ... "
+# text = " They waste their time over a rag doll and it becomes very important to them ; and if anybody takes it away from them , they cry ... "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	waste	waste	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	waste	_	_	_	_	_	O-V
@@ -394,6 +417,7 @@
 
 # sent_id = lpp_1943.1205
 # mwe = " They are lucky , " the switchman said .
+# text = " They are lucky , " the switchman said .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX

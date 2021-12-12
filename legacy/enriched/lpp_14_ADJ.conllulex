@@ -1,12 +1,14 @@
 # newdoc id = lpp_1943_en_ch-14
 # sent_id = lpp_1943.754
 # mwe = Chapter 14 .
+# text = Chapter 14 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	14	14	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	14	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.755
 # mwe = The fifth planet was very strange .
+# text = The fifth planet was very strange .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	fifth	fifth	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	fifth	_	_	_	_	_	O-ADJ
 3	planet	planet	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -17,6 +19,7 @@
 
 # sent_id = lpp_1943.756
 # mwe = It was the smallest of all .
+# text = It was the smallest of all .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -27,6 +30,7 @@
 
 # sent_id = lpp_1943.757
 # mwe = There was just enough room on it for a street lamp and a lamplighter .
+# text = There was just enough room on it for a street lamp and a lamplighter .
 1	There	there	PRON	EX	_	2	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
 3	just	just	ADV	RB	_	4	advmod	_	_	_	ADV	just	_	_	_	_	_	O-ADV
@@ -45,6 +49,7 @@
 
 # sent_id = lpp_1943.758
 # mwe = The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
+# text = The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -87,6 +92,7 @@
 
 # sent_id = lpp_1943.759
 # mwe = But he said to himself , nevertheless : " It may well be that this man is absurd .
+# text = But he said to himself , nevertheless : " It may well be that this man is absurd .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
@@ -109,6 +115,7 @@
 
 # sent_id = lpp_1943.760
 # mwe = But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
+# text = But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
 1	But	but	CCONJ	CC	_	6	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -133,6 +140,7 @@
 
 # sent_id = lpp_1943.761
 # mwe = For at least his work has some meaning .
+# text = For at least his work has some meaning .
 1	For	for	ADP	IN	_	3	case	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	at	at	ADP	IN	_	6	advmod	_	_	_	P	at	p.Extent	p.Extent	_	_	_	O-P-p.Extent
 3	least	least	ADJ	JJS	Degree=Sup	2	fixed	_	_	_	ADJ	least	_	_	_	_	_	O-ADJ
@@ -145,6 +153,7 @@
 
 # sent_id = lpp_1943.762
 # mwe = When he lights his street lamp , it is as_if he brought one more star to life , or one flower .
+# text = When he lights his street lamp , it is as if he brought one more star to life , or one flower .
 1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	lights	light	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_	_	V	light	_	_	_	_	_	O-V
@@ -171,6 +180,7 @@
 
 # sent_id = lpp_1943.763
 # mwe = When he puts_out his lamp , he sends the flower , or the star , to sleep .
+# text = When he puts out his lamp , he sends the flower , or the star , to sleep .
 1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	puts	put	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_	1:1	V	put out	_	_	_	_	_	B-V
@@ -193,6 +203,7 @@
 
 # sent_id = lpp_1943.764
 # mwe = That is a beautiful occupation .
+# text = That is a beautiful occupation .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -202,6 +213,7 @@
 
 # sent_id = lpp_1943.765
 # mwe = And since it is beautiful , it is truly useful . "
+# text = And since it is beautiful , it is truly useful . "
 1	And	and	CCONJ	CC	_	10	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	since	since	SCONJ	IN	_	5	mark	_	_	_	P	since	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
@@ -217,6 +229,7 @@
 
 # sent_id = lpp_1943.766
 # mwe = When he arrived on the planet he respectfully saluted the lamplighter .
+# text = When he arrived on the planet he respectfully saluted the lamplighter .
 1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	arrived	arrive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	_	_	V	arrive	_	_	_	_	_	O-V
@@ -232,6 +245,7 @@
 
 # sent_id = lpp_1943.767
 # mwe = " Good morning .
+# text = " Good morning .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	0	root	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -239,6 +253,7 @@
 
 # sent_id = lpp_1943.768
 # mwe = Why have you just put_out your lamp ? "
+# text = Why have you just put out your lamp ? "
 1	Why	why	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 2	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -252,6 +267,7 @@
 
 # sent_id = lpp_1943.769
 # mwe = " Those are the orders , " replied the lamplighter .
+# text = " Those are the orders , " replied the lamplighter .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Those	that	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -266,6 +282,7 @@
 
 # sent_id = lpp_1943.770
 # mwe = " Good morning . "
+# text = " Good morning . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	0	root	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -274,6 +291,7 @@
 
 # sent_id = lpp_1943.771
 # mwe = " What are the orders ? "
+# text = " What are the orders ? "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	0	root	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -284,6 +302,7 @@
 
 # sent_id = lpp_1943.772
 # mwe = " The orders are that I put_out my lamp .
+# text = " The orders are that I put out my lamp .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	orders	order	NOUN	NNS	Number=Plur	7	nsubj	_	_	_	N	order	_	_	_	_	_	O-N
@@ -298,6 +317,7 @@
 
 # sent_id = lpp_1943.773
 # mwe = Good evening . "
+# text = Good evening . "
 1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 2	evening	evening	NOUN	NN	Number=Sing	0	root	_	_	_	N	evening	_	_	_	_	_	O-N
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
@@ -305,6 +325,7 @@
 
 # sent_id = lpp_1943.774
 # mwe = And he lighted his lamp again .
+# text = And he lighted his lamp again .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	lighted	light	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	light	_	_	_	_	_	O-V
@@ -315,6 +336,7 @@
 
 # sent_id = lpp_1943.775
 # mwe = " But why have you just lighted it again ? "
+# text = " But why have you just lighted it again ? "
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	why	why	ADV	WRB	PronType=Int	7	advmod	_	_	_	ADV	why	_	_	_	_	_	O-ADV
@@ -329,6 +351,7 @@
 
 # sent_id = lpp_1943.776
 # mwe = " Those are the orders , " replied the lamplighter .
+# text = " Those are the orders , " replied the lamplighter .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Those	that	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -343,6 +366,7 @@
 
 # sent_id = lpp_1943.777
 # mwe = " I do not understand , " said the little prince .
+# text = " I do not understand , " said the little prince .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -358,6 +382,7 @@
 
 # sent_id = lpp_1943.778
 # mwe = " There is nothing to understand , " said the lamplighter .
+# text = " There is nothing to understand , " said the lamplighter .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	There	there	PRON	EX	_	3	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_	_	V	be	_	_	_	_	_	O-V
@@ -373,6 +398,7 @@
 
 # sent_id = lpp_1943.779
 # mwe = " Orders are orders .
+# text = " Orders are orders .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Orders	order	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	order	_	_	_	_	_	O-N
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -381,6 +407,7 @@
 
 # sent_id = lpp_1943.780
 # mwe = Good morning . "
+# text = Good morning . "
 1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 2	morning	morning	NOUN	NN	Number=Sing	0	root	_	_	_	N	morning	_	_	_	_	_	O-N
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
@@ -388,6 +415,7 @@
 
 # sent_id = lpp_1943.781
 # mwe = And he put_out his lamp .
+# text = And he put out his lamp .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	put out	_	_	_	_	_	B-V
@@ -398,6 +426,7 @@
 
 # sent_id = lpp_1943.782
 # mwe = Then he mopped his forehead with a handkerchief decorated with red squares .
+# text = Then he mopped his forehead with a handkerchief decorated with red squares .
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	mopped	mop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	mop	_	_	_	_	_	O-V
@@ -414,6 +443,7 @@
 
 # sent_id = lpp_1943.783
 # mwe = " I follow a terrible profession .
+# text = " I follow a terrible profession .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	follow	_	_	_	_	_	O-V
@@ -424,6 +454,7 @@
 
 # sent_id = lpp_1943.784
 # mwe = In the old days it was reasonable .
+# text = In the old days it was reasonable .
 1	In	in	ADP	IN	_	4	case	_	_	_	P	in	p.Time	p.Time	_	_	_	O-P-p.Time
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	old	old	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	old	_	_	_	_	_	O-ADJ
@@ -435,6 +466,7 @@
 
 # sent_id = lpp_1943.785
 # mwe = I put_ the lamp _out in the morning , and in the evening I lighted it again .
+# text = I put the lamp out in the morning , and in the evening I lighted it again .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	put out	_	_	_	_	_	B-V
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	o-DET
@@ -456,6 +488,7 @@
 
 # sent_id = lpp_1943.786
 # mwe = I had the rest of the day for relaxation and the rest of the night for sleep . "
+# text = I had the rest of the day for relaxation and the rest of the night for sleep . "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -478,6 +511,7 @@
 
 # sent_id = lpp_1943.787
 # mwe = " And the orders have been changed since that time ? "
+# text = " And the orders have been changed since that time ? "
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	7	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -493,6 +527,7 @@
 
 # sent_id = lpp_1943.788
 # mwe = " The orders have not been changed , " said the lamplighter .
+# text = " The orders have not been changed , " said the lamplighter .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	orders	order	NOUN	NNS	Number=Plur	7	nsubj:pass	_	_	_	N	order	_	_	_	_	_	O-N
@@ -509,6 +544,7 @@
 
 # sent_id = lpp_1943.789
 # mwe = " That is the tragedy !
+# text = " That is the tragedy !
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -518,6 +554,7 @@
 
 # sent_id = lpp_1943.790
 # mwe = From year to year the planet has turned more rapidly and the orders have not been changed ! "
+# text = From year to year the planet has turned more rapidly and the orders have not been changed ! "
 1	From	from	ADP	IN	_	2	case	_	_	_	P	from	p.StartTime	p.StartTime	_	_	_	O-P-p.StartTime
 2	year	year	NOUN	NN	Number=Sing	8	obl	_	_	_	N	year	_	_	_	_	_	O-N
 3	to	to	ADP	IN	_	4	case	_	_	_	P	to	p.EndTime	p.EndTime	_	_	_	O-P-p.EndTime
@@ -540,6 +577,7 @@
 
 # sent_id = lpp_1943.791
 # mwe = " Then what ? " asked the little prince .
+# text = " Then what ? " asked the little prince .
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	6	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	what	what	PRON	WP	PronType=Int	6	ccomp	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -553,6 +591,7 @@
 
 # sent_id = lpp_1943.792
 # mwe = " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
+# text = " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	-	-	PUNCT	,	_	8	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -581,6 +620,7 @@
 
 # sent_id = lpp_1943.793
 # mwe = Once every minute I have to light my lamp and put_ it _out ! "
+# text = Once every minute I have to light my lamp and put it out ! "
 1	Once	once	ADV	RB	NumType=Mult	3	advmod	_	_	_	ADV	once	_	_	_	_	_	O-ADV
 2	every	every	DET	DT	_	3	det	_	_	_	DET	every	_	_	_	_	_	O-DET
 3	minute	minute	NOUN	NN	Number=Sing	5	obl:tmod	_	_	_	N	minute	_	_	_	_	_	O-N
@@ -599,6 +639,7 @@
 
 # sent_id = lpp_1943.794
 # mwe = " That is very funny !
+# text = " That is very funny !
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -608,6 +649,7 @@
 
 # sent_id = lpp_1943.795
 # mwe = A day lasts only one minute , here where you live ! "
+# text = A day lasts only one minute , here where you live ! "
 1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 2	day	day	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	day	_	_	_	_	_	O-N
 3	lasts	last	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	last	_	_	_	_	_	O-V
@@ -624,6 +666,7 @@
 
 # sent_id = lpp_1943.796
 # mwe = " It is not funny at all ! " said the lamplighter .
+# text = " It is not funny at all ! " said the lamplighter .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -640,6 +683,7 @@
 
 # sent_id = lpp_1943.797
 # mwe = " While we have been talking together a month has gone by . "
+# text = " While we have been talking together a month has gone by . "
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	While	while	SCONJ	IN	_	6	mark	_	_	_	SCONJ	while	_	_	_	_	_	O-SCONJ
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
@@ -657,6 +701,7 @@
 
 # sent_id = lpp_1943.798
 # mwe = " A month ? "
+# text = " A month ? "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	month	month	NOUN	NN	Number=Sing	0	root	_	_	_	N	month	_	_	_	_	_	O-N
@@ -665,6 +710,7 @@
 
 # sent_id = lpp_1943.799
 # mwe = " Yes , a month .
+# text = " Yes , a month .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Yes	yes	INTJ	UH	_	5	discourse	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -674,18 +720,21 @@
 
 # sent_id = lpp_1943.800
 # mwe = Thirty minutes .
+# text = Thirty minutes .
 1	Thirty	thirty	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	_	_	NUM	thirty	_	_	_	_	_	O-NUM
 2	minutes	minute	NOUN	NNS	Number=Plur	0	root	_	_	_	N	minute	_	_	_	_	_	O-N
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.801
 # mwe = Thirty days .
+# text = Thirty days .
 1	Thirty	thirty	NUM	CD	NumForm=Word|NumType=Card	2	nummod	_	_	_	NUM	thirty	_	_	_	_	_	O-NUM
 2	days	day	NOUN	NNS	Number=Plur	0	root	_	_	_	N	day	_	_	_	_	_	O-N
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.802
 # mwe = Good evening . "
+# text = Good evening . "
 1	Good	good	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 2	evening	evening	NOUN	NN	Number=Sing	0	root	_	_	_	N	evening	_	_	_	_	_	O-N
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
@@ -693,6 +742,7 @@
 
 # sent_id = lpp_1943.803
 # mwe = And he lighted his lamp again .
+# text = And he lighted his lamp again .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	lighted	light	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	light	_	_	_	_	_	O-V
@@ -703,6 +753,7 @@
 
 # sent_id = lpp_1943.804
 # mwe = As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
+# text = As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
 1	As	as	SCONJ	IN	_	5	mark	_	_	_	P	as	p.Circumstance	p.Circumstance	_	_	_	O-P-p.Circumstance
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -728,6 +779,7 @@
 
 # sent_id = lpp_1943.805
 # mwe = He remembered the sunsets which he himself had gone to seek , in other days , merely by pulling_up his chair ; and he wanted to help his friend .
+# text = He remembered the sunsets which he himself had gone to seek , in other days , merely by pulling up his chair ; and he wanted to help his friend .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	remembered	remember	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	remember	_	_	_	_	_	O-V
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -762,6 +814,7 @@
 
 # sent_id = lpp_1943.806
 # mwe = " You know , " he said , " I can tell you a way you can rest whenever you want to ... "
+# text = " You know , " he said , " I can tell you a way you can rest whenever you want to ... "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_	_	V	know	_	_	_	_	_	O-V
@@ -789,6 +842,7 @@
 
 # sent_id = lpp_1943.807
 # mwe = " I always want to rest , " said the lamplighter .
+# text = " I always want to rest , " said the lamplighter .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	always	always	ADV	RB	_	4	advmod	_	_	_	ADV	always	_	_	_	_	_	O-ADV
@@ -804,6 +858,7 @@
 
 # sent_id = lpp_1943.808
 # mwe = For it is possible for a man to be faithful and lazy at the same time .
+# text = For it is possible for a man to be faithful and lazy at the same time .
 1	For	for	ADP	IN	_	4	mark	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -824,6 +879,7 @@
 
 # sent_id = lpp_1943.809
 # mwe = The little prince went_on with his explanation : " Your planet is so small that three strides will take you all the way around it .
+# text = The little prince went on with his explanation : " Your planet is so small that three strides will take you all the way around it .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -854,6 +910,7 @@
 
 # sent_id = lpp_1943.810
 # mwe = To be always in the sunshine , you need only walk along rather slowly .
+# text = To be always in the sunshine , you need only walk along rather slowly .
 1	To	to	PART	TO	_	6	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
 2	be	be	AUX	VB	VerbForm=Inf	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	always	always	ADV	RB	_	6	advmod	_	_	_	ADV	always	_	_	_	_	_	O-ADV
@@ -872,6 +929,7 @@
 
 # sent_id = lpp_1943.811
 # mwe = When you want to rest , you will walk - - and the day will last as long as you like . "
+# text = When you want to rest , you will walk - - and the day will last as long as you like . "
 1	When	when	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	_	_	V	want	_	_	_	_	_	O-V
@@ -898,6 +956,7 @@
 
 # sent_id = lpp_1943.812
 # mwe = " That does n't do me much good , " said the lamplighter .
+# text = " That does n't do me much good , " said the lamplighter .
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -915,6 +974,7 @@
 
 # sent_id = lpp_1943.813
 # mwe = " The one thing I love in life is to sleep . "
+# text = " The one thing I love in life is to sleep . "
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	one	one	NUM	CD	NumType=Card	4	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
@@ -931,6 +991,7 @@
 
 # sent_id = lpp_1943.814
 # mwe = " Then you 're unlucky , " said the little prince .
+# text = " Then you 're unlucky , " said the little prince .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Then	then	ADV	RB	PronType=Dem	5	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -946,6 +1007,7 @@
 
 # sent_id = lpp_1943.815
 # mwe = " I am unlucky , " said the lamplighter .
+# text = " I am unlucky , " said the lamplighter .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -959,6 +1021,7 @@
 
 # sent_id = lpp_1943.816
 # mwe = " Good morning . "
+# text = " Good morning . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	0	root	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -967,6 +1030,7 @@
 
 # sent_id = lpp_1943.817
 # mwe = And he put_out his lamp .
+# text = And he put out his lamp .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	put	put	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	put out	_	_	_	_	_	B-V
@@ -977,6 +1041,7 @@
 
 # sent_id = lpp_1943.818
 # mwe = " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
+# text = " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	that	_	_	_	_	_	O-DET
 3	man	man	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
@@ -1028,6 +1093,7 @@
 
 # sent_id = lpp_1943.819
 # mwe = Nevertheless he is the only one of them all who does not seem to me ridiculous .
+# text = Nevertheless he is the only one of them all who does not seem to me ridiculous .
 1	Nevertheless	nevertheless	ADV	RB	_	6	advmod	_	_	_	ADV	nevertheless	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1048,6 +1114,7 @@
 
 # sent_id = lpp_1943.820
 # mwe = Perhaps that is because he is thinking of something else besides himself . "
+# text = Perhaps that is because he is thinking of something else besides himself . "
 1	Perhaps	perhaps	ADV	RB	_	3	advmod	_	_	_	ADV	perhaps	_	_	_	_	_	O-ADV
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
@@ -1065,6 +1132,7 @@
 
 # sent_id = lpp_1943.821
 # mwe = He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
+# text = He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	breathed	breathe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	breathe	_	_	_	_	_	O-V
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -1100,6 +1168,7 @@
 
 # sent_id = lpp_1943.822
 # mwe = But his planet is indeed too small .
+# text = But his planet is indeed too small .
 1	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	he	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
 3	planet	planet	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -1111,6 +1180,7 @@
 
 # sent_id = lpp_1943.823
 # mwe = There is no room on it for two people ... "
+# text = There is no room on it for two people ... "
 1	There	there	PRON	EX	_	2	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
 3	no	no	DET	DT	_	4	det	_	_	_	DET	no	_	_	_	_	_	O-DET
@@ -1125,6 +1195,7 @@
 
 # sent_id = lpp_1943.824
 # mwe = What the little prince did not dare confess was that he was sorry most of all to leave this planet , because it was blest every day with 1440 sunsets !
+# text = What the little prince did not dare confess was that he was sorry most of all to leave this planet , because it was blest every day with 1440 sunsets !
 1	What	what	PRON	WP	PronType=Int	9	nsubj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ

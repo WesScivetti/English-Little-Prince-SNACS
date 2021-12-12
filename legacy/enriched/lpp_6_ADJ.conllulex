@@ -1,12 +1,14 @@
 # newdoc id = lpp_1943_en_ch-06
 # sent_id = lpp_1943.263
 # mwe = Chapter 6 .
+# text = Chapter 6 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	6	6	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	6	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.264
 # mwe = Oh , little prince !
+# text = Oh , little prince !
 1	Oh	oh	INTJ	UH	_	4	discourse	_	_	_	INTJ	oh	_	_	_	_	_	O-INTJ
 2	,	,	PUNCT	,	_	4	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -15,6 +17,7 @@
 
 # sent_id = lpp_1943.265
 # mwe = Bit by bit I came to understand the secrets of your sad little life ...
+# text = Bit by bit I came to understand the secrets of your sad little life ...
 1	Bit	bit	NOUN	NN	Number=Sing	5	obl:npmod	_	_	_	N	bit	_	_	_	_	_	O-N
 2	by	by	ADP	IN	_	3	case	_	_	_	P	by	p.Frequency	p.Frequency	_	_	_	O-P-p.Frequency
 3	bit	bit	NOUN	NN	Number=Sing	1	nmod	_	_	_	N	bit	_	_	_	_	_	O-N
@@ -33,6 +36,7 @@
 
 # sent_id = lpp_1943.266
 # mwe = For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset .
+# text = For a long time you had found your only entertainment in the quiet pleasure of looking at the sunset .
 1	For	for	ADP	IN	_	4	case	_	_	_	P	for	p.Duration	p.Duration	_	_	_	O-P-p.Duration
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	long	long	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	long	_	_	_	_	_	O-ADJ
@@ -56,6 +60,7 @@
 
 # sent_id = lpp_1943.267
 # mwe = I learned that new detail on the morning of the fourth day , when you said to me : " I am very fond of sunsets .
+# text = I learned that new detail on the morning of the fourth day , when you said to me : " I am very fond of sunsets .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	learned	learn	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	learn	_	_	_	_	_	O-V
 3	that	that	DET	DT	Number=Sing|PronType=Dem	5	det	_	_	_	DET	that	_	_	_	_	_	O-DET
@@ -86,6 +91,7 @@
 
 # sent_id = lpp_1943.268
 # mwe = Come , let us go look at a sunset now . "
+# text = Come , let us go look at a sunset now . "
 1	Come	come	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	come	_	_	_	_	_	O-V
 2	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	parataxis	_	_	_	V	let	_	_	_	_	_	O-V
@@ -101,6 +107,7 @@
 
 # sent_id = lpp_1943.269
 # mwe = " But we must wait , "
+# text = " But we must wait , "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	5	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
@@ -111,18 +118,21 @@
 
 # sent_id = lpp_1943.270
 # mwe = I said .
+# text = I said .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.271
 # mwe = " Wait ?
+# text = " Wait ?
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	wait	_	_	_	_	_	O-V
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.272
 # mwe = For what ? "
+# text = For what ? "
 1	For	for	ADP	IN	_	2	case	_	_	_	P	for	p.Theme	p.Theme	_	_	_	O-P-p.Theme
 2	what	what	PRON	WP	PronType=Int	0	root	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -130,6 +140,7 @@
 
 # sent_id = lpp_1943.273
 # mwe = " For the sunset .
+# text = " For the sunset .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	For	for	ADP	IN	_	4	case	_	_	_	P	for	p.Theme	p.Theme	_	_	_	O-P-p.Theme
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -138,6 +149,7 @@
 
 # sent_id = lpp_1943.274
 # mwe = We must wait until it is time . "
+# text = We must wait until it is time . "
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 2	must	must	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	must	_	_	_	_	_	O-AUX
 3	wait	wait	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	wait	_	_	_	_	_	O-V
@@ -150,6 +162,7 @@
 
 # sent_id = lpp_1943.275
 # mwe = At_first you seemed to be very much surprised .
+# text = At first you seemed to be very much surprised .
 1	At	at	ADP	IN	_	2	case	_	_	1:1	PP	at first	p.Time	p.Time	_	_	_	B-PP-p.Time
 2	first	first	ADV	RB	_	4	obl	_	_	1:2	_	_	_	_	_	_	_	I_
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -163,6 +176,7 @@
 
 # sent_id = lpp_1943.276
 # mwe = And then you laughed to yourself .
+# text = And then you laughed to yourself .
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -173,6 +187,7 @@
 
 # sent_id = lpp_1943.277
 # mwe = You said to me : " I am always thinking that I am at home ! "
+# text = You said to me : " I am always thinking that I am at home ! "
 1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 3	to	to	ADP	IN	_	4	case	_	_	_	P	to	p.Recipient	p.Goal	_	_	_	O-P-p.Recipient|p.Goal
@@ -193,12 +208,14 @@
 
 # sent_id = lpp_1943.278
 # mwe = Just so .
+# text = Just so .
 1	Just	just	ADV	RB	_	2	advmod	_	_	_	ADV	just	_	_	_	_	_	O-ADV
 2	so	so	ADV	RB	_	0	root	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.279
 # mwe = Everybody knows that when it is noon in the United States the sun is setting over France .
+# text = Everybody knows that when it is noon in the United States the sun is setting over France .
 1	Everybody	everybody	PRON	NN	Number=Sing	2	nsubj	_	_	_	PRON	everybody	_	_	_	_	_	O-PRON
 2	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	know	_	_	_	_	_	O-V
 3	that	that	SCONJ	IN	_	15	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -220,6 +237,7 @@
 
 # sent_id = lpp_1943.280
 # mwe = If you could fly to France in one minute , you could go straight into the sunset , right from noon .
+# text = If you could fly to France in one minute , you could go straight into the sunset , right from noon .
 1	If	if	SCONJ	IN	_	4	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	could	could	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	could	_	_	_	_	_	O-AUX
@@ -245,6 +263,7 @@
 
 # sent_id = lpp_1943.281
 # mwe = Unfortunately , France is too far_away for that .
+# text = Unfortunately , France is too far away for that .
 1	Unfortunately	unfortunately	ADV	RB	_	7	advmod	_	_	_	ADV	unfortunately	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	France	France	PROPN	NNP	Number=Sing	7	nsubj	_	_	_	N	France	_	_	_	_	_	O-N
@@ -258,6 +277,7 @@
 
 # sent_id = lpp_1943.282
 # mwe = But on your tiny planet , my little prince , all you need do is move your chair a few steps .
+# text = But on your tiny planet , my little prince , all you need do is move your chair a few steps .
 1	But	but	CCONJ	CC	_	16	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	on	on	ADP	IN	_	5	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_	_	PRON.POSS	you	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
@@ -283,6 +303,7 @@
 
 # sent_id = lpp_1943.283
 # mwe = You can see the day end and the twilight falling whenever you like ...
+# text = You can see the day end and the twilight falling whenever you like ...
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	see	see	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	see	_	_	_	_	_	O-V
@@ -300,6 +321,7 @@
 
 # sent_id = lpp_1943.284
 # mwe = " One day , " you said to me , " I saw the sunset forty - four times ! "
+# text = " One day , " you said to me , " I saw the sunset forty - four times ! "
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	One	one	NUM	CD	NumType=Card	3	nummod	_	_	_	NUM	one	_	_	_	_	_	O-NUM
 3	day	day	NOUN	NN	Number=Sing	7	obl:tmod	_	_	_	N	day	_	_	_	_	_	O-N
@@ -324,6 +346,7 @@
 
 # sent_id = lpp_1943.285
 # mwe = And a little later you added : " You know -- one loves the sunset , when one is so sad ... "
+# text = And a little later you added : " You know -- one loves the sunset , when one is so sad ... "
 1	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	obl:npmod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -350,6 +373,7 @@
 
 # sent_id = lpp_1943.286
 # mwe = " Were you so sad , then ? "
+# text = " Were you so sad , then ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Were	be	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -362,6 +386,7 @@
 
 # sent_id = lpp_1943.287
 # mwe = I asked , " on the day of the forty - four sunsets ? "
+# text = I asked , " on the day of the forty - four sunsets ? "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -380,6 +405,7 @@
 
 # sent_id = lpp_1943.288
 # mwe = But the little prince made no reply .
+# text = But the little prince made no reply .
 1	But	but	CCONJ	CC	_	5	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ

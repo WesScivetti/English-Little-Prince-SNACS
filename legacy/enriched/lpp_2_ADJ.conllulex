@@ -1,12 +1,14 @@
 # newdoc id = lpp_1943_en_ch-02
 # sent_id = lpp_1943.36
 # mwe = Chapter 2 .
+# text = Chapter 2 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	2	2	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	2	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.37
 # mwe = So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
+# text = So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	lived	live	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	live	_	_	_	_	_	O-V
@@ -44,6 +46,7 @@
 
 # sent_id = lpp_1943.38
 # mwe = Something was broken in my engine .
+# text = Something was broken in my engine .
 1	Something	something	PRON	NN	Number=Sing	3	nsubj:pass	_	_	_	PRON	something	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	broken	break	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	break	_	_	_	_	_	O-V
@@ -54,6 +57,7 @@
 
 # sent_id = lpp_1943.39
 # mwe = And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
+# text = And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
 1	And	and	CCONJ	CC	_	15	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	as	as	SCONJ	IN	_	4	mark	_	_	_	P	as	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -81,6 +85,7 @@
 
 # sent_id = lpp_1943.40
 # mwe = It was a question of life or death for me : I had scarcely enough drinking water to last a week .
+# text = It was a question of life or death for me : I had scarcely enough drinking water to last a week .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -106,6 +111,7 @@
 
 # sent_id = lpp_1943.41
 # mwe = The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
+# text = The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	first	_	_	_	_	_	O-ADJ
 3	night	night	NOUN	NN	Number=Sing	8	obl:tmod	_	_	_	N	night	_	_	_	_	_	O-N
@@ -131,6 +137,7 @@
 
 # sent_id = lpp_1943.42
 # mwe = I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
+# text = I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	more	more	ADV	RBR	_	4	advmod	_	_	_	ADV	more	_	_	_	_	_	O-ADV
@@ -152,6 +159,7 @@
 
 # sent_id = lpp_1943.43
 # mwe = Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
+# text = Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
 1	Thus	thus	ADV	RB	_	4	advmod	_	_	_	ADV	thus	_	_	_	_	_	O-ADV
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	can	can	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
@@ -175,6 +183,7 @@
 
 # sent_id = lpp_1943.44
 # mwe = It said : " If you please -- draw me a sheep ! "
+# text = It said : " If you please -- draw me a sheep ! "
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 3	:	:	PUNCT	:	_	2	punct	_	_	_	PUNCT	:	_	_	_	_	_	O-PUNCT
@@ -192,6 +201,7 @@
 
 # sent_id = lpp_1943.45
 # mwe = " What ! "
+# text = " What ! "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	0	root	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
@@ -199,6 +209,7 @@
 
 # sent_id = lpp_1943.46
 # mwe = " Draw me a sheep ! "
+# text = " Draw me a sheep ! "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Draw	draw	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	draw	_	_	_	_	_	O-V
 3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -209,6 +220,7 @@
 
 # sent_id = lpp_1943.47
 # mwe = I jumped to my feet , completely thunderstruck .
+# text = I jumped to my feet , completely thunderstruck .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	jumped	jump	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	jump	_	_	_	_	_	O-V
 3	to	to	ADP	IN	_	5	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
@@ -221,6 +233,7 @@
 
 # sent_id = lpp_1943.48
 # mwe = I blinked my eyes hard .
+# text = I blinked my eyes hard .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	blinked	blink	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	blink	_	_	_	_	_	O-V
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
@@ -230,6 +243,7 @@
 
 # sent_id = lpp_1943.49
 # mwe = I looked carefully all around me .
+# text = I looked carefully all around me .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	look	_	_	_	_	_	O-V
 3	carefully	carefully	ADV	RB	_	2	advmod	_	_	_	ADV	carefully	_	_	_	_	_	O-ADV
@@ -240,6 +254,7 @@
 
 # sent_id = lpp_1943.50
 # mwe = And I saw a most extraordinary small person , who stood there examining me with great seriousness .
+# text = And I saw a most extraordinary small person , who stood there examining me with great seriousness .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	see	_	_	_	_	_	O-V
@@ -261,6 +276,7 @@
 
 # sent_id = lpp_1943.51
 # mwe = Here you may see the best portrait that , later , I was able to make of him .
+# text = Here you may see the best portrait that , later , I was able to make of him .
 1	Here	here	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	here	_	_	_	_	_	O-ADV
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	may	_	_	_	_	_	O-AUX
@@ -283,6 +299,7 @@
 
 # sent_id = lpp_1943.52
 # mwe = But my drawing is certainly very much less charming than its model .
+# text = But my drawing is certainly very much less charming than its model .
 1	But	but	CCONJ	CC	_	9	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	my	p.Originator	p.Gestalt	_	_	_	O-PRON.POSS-p.Originator|p.Gestalt
 3	drawing	draw	NOUN	NN	Number=Sing	9	nsubj	_	_	_	N	draw	_	_	_	_	_	O-N
@@ -299,6 +316,7 @@
 
 # sent_id = lpp_1943.53
 # mwe = That , however , is not my fault .
+# text = That , however , is not my fault .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	8	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	,	,	PUNCT	,	_	8	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	however	however	ADV	RB	_	8	advmod	_	_	_	ADV	however	_	_	_	_	_	O-ADV
@@ -311,6 +329,7 @@
 
 # sent_id = lpp_1943.54
 # mwe = The grown_-_ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
+# text = The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	_	1:1	N	grow - up	_	_	_	_	_	B-N
 3	-	-	PUNCT	HYPH	_	4	punct	_	_	1:2	_	_	_	_	_	_	_	I_
@@ -351,6 +370,7 @@
 
 # sent_id = lpp_1943.55
 # mwe = Now I stared at this sudden apparition with my eyes fairly starting out_of my head in astonishment .
+# text = Now I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment .
 1	Now	now	ADV	RB	_	3	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	stared	stare	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	stare	_	_	_	_	_	O-V
@@ -373,6 +393,7 @@
 
 # sent_id = lpp_1943.56
 # mwe = Remember , I had crashed in the desert a thousand miles from any inhabited region .
+# text = Remember , I had crashed in the desert a thousand miles from any inhabited region .
 1	Remember	remember	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	remember	_	_	_	_	_	O-V
 2	,	,	PUNCT	,	_	1	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -392,6 +413,7 @@
 
 # sent_id = lpp_1943.57
 # mwe = And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
+# text = And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
 1	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	yet	yet	CCONJ	CC	_	6	cc	_	_	_	CCONJ	yet	_	_	_	_	_	O-CCONJ
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_	_	PRON.POSS	my	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
@@ -423,6 +445,7 @@
 
 # sent_id = lpp_1943.58
 # mwe = Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
+# text = Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
 1	Nothing	nothing	PRON	NN	Number=Sing	4	nsubj	_	_	_	PRON	nothing	_	_	_	_	_	O-PRON
 2	about	about	ADP	IN	_	3	case	_	_	_	P	about	p.Topic	p.Topic	_	_	_	O-P-p.Topic
 3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_	_	PRON	he	_	_	_	_	_	O-PRON
@@ -451,6 +474,7 @@
 
 # sent_id = lpp_1943.59
 # mwe = When at_last I was able to speak , I said to him : " But -- what are you doing here ? "
+# text = When at last I was able to speak , I said to him : " But -- what are you doing here ? "
 1	When	when	SCONJ	WRB	PronType=Int	6	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	at	at	ADP	IN	_	3	case	_	_	1:1	PP	at last	p.Time	p.Time	_	_	_	B-PP-p.Time
 3	last	last	ADJ	JJ	Degree=Pos	6	obl	_	_	1:2	_	_	_	_	_	_	_	I_
@@ -478,6 +502,7 @@
 
 # sent_id = lpp_1943.60
 # mwe = And in answer he repeated , very slowly , as_if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
+# text = And in answer he repeated , very slowly , as if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	in	in	ADP	IN	_	3	case	_	_	_	P	in	p.Explanation	p.Manner	_	_	_	O-P-p.Explanation|p.Manner
 3	answer	answer	NOUN	NN	Number=Sing	5	obl	_	_	_	N	answer	_	_	_	_	_	O-N
@@ -513,6 +538,7 @@
 
 # sent_id = lpp_1943.61
 # mwe = When a mystery is too overpowering , one dare not disobey .
+# text = When a mystery is too overpowering , one dare not disobey .
 1	When	when	SCONJ	WRB	PronType=Int	6	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	mystery	mystery	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	mystery	_	_	_	_	_	O-N
@@ -528,6 +554,7 @@
 
 # sent_id = lpp_1943.62
 # mwe = Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out_of my pocket a sheet of paper and my fountain - pen .
+# text = Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out of my pocket a sheet of paper and my fountain - pen .
 1	Absurd	absurd	ADJ	JJ	Degree=Pos	0	root	_	_	_	ADJ	absurd	_	_	_	_	_	O-ADJ
 2	as	as	SCONJ	IN	_	5	mark	_	_	_	P	as	p.ComparisonRef	p.ComparisonRef	_	_	_	O-P-p.ComparisonRef
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
@@ -568,6 +595,7 @@
 
 # sent_id = lpp_1943.63
 # mwe = But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
+# text = But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
 1	But	but	CCONJ	CC	_	23	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -613,6 +641,7 @@
 
 # sent_id = lpp_1943.64
 # mwe = He answered me : " That does n't matter .
+# text = He answered me : " That does n't matter .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	answered	answer	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	answer	_	_	_	_	_	O-V
 3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -626,6 +655,7 @@
 
 # sent_id = lpp_1943.65
 # mwe = Draw me a sheep ... "
+# text = Draw me a sheep ... "
 1	Draw	draw	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	draw	_	_	_	_	_	O-V
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -635,6 +665,7 @@
 
 # sent_id = lpp_1943.66
 # mwe = But I had never drawn a sheep .
+# text = But I had never drawn a sheep .
 1	But	but	CCONJ	CC	_	5	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -646,6 +677,7 @@
 
 # sent_id = lpp_1943.67
 # mwe = So I drew for him one of the two pictures I had drawn so often .
+# text = So I drew for him one of the two pictures I had drawn so often .
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	drew	draw	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	draw	_	_	_	_	_	O-V
@@ -665,6 +697,7 @@
 
 # sent_id = lpp_1943.68
 # mwe = It was that of the boa constrictor from the outside .
+# text = It was that of the boa constrictor from the outside .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	that	that	PRON	DT	Number=Sing|PronType=Dem	0	root	_	_	_	PRON	that	_	_	_	_	_	O-PRON
@@ -679,6 +712,7 @@
 
 # sent_id = lpp_1943.69
 # mwe = And I was astounded to hear the little fellow greet it with , " No , no , no !
+# text = And I was astounded to hear the little fellow greet it with , " No , no , no !
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -702,6 +736,7 @@
 
 # sent_id = lpp_1943.70
 # mwe = I do not want an elephant inside a boa constrictor .
+# text = I do not want an elephant inside a boa constrictor .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -716,6 +751,7 @@
 
 # sent_id = lpp_1943.71
 # mwe = A boa constrictor is a very dangerous creature , and an elephant is very cumbersome .
+# text = A boa constrictor is a very dangerous creature , and an elephant is very cumbersome .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 2	boa	boa	NOUN	NN	Number=Sing	3	compound	_	_	_	N	boa	_	_	_	_	_	O-N
 3	constrictor	constrictor	NOUN	NN	Number=Sing	8	nsubj	_	_	_	N	constrictor	_	_	_	_	_	O-N
@@ -735,6 +771,7 @@
 
 # sent_id = lpp_1943.72
 # mwe = Where I live , everything is very small .
+# text = Where I live , everything is very small .
 1	Where	where	SCONJ	WRB	PronType=Int	3	mark	_	_	_	SCONJ	where	_	_	_	_	_	O-SCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	advcl	_	_	_	V	live	_	_	_	_	_	O-V
@@ -747,6 +784,7 @@
 
 # sent_id = lpp_1943.73
 # mwe = What I need is a sheep .
+# text = What I need is a sheep .
 1	What	what	PRON	WP	PronType=Int	6	nsubj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_	_	V	need	_	_	_	_	_	O-V
@@ -757,6 +795,7 @@
 
 # sent_id = lpp_1943.74
 # mwe = Draw me a sheep . "
+# text = Draw me a sheep . "
 1	Draw	draw	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_	_	V	draw	_	_	_	_	_	O-V
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -766,6 +805,7 @@
 
 # sent_id = lpp_1943.75
 # mwe = So then I made a drawing .
+# text = So then I made a drawing .
 1	So	so	ADV	RB	_	4	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -776,6 +816,7 @@
 
 # sent_id = lpp_1943.76
 # mwe = He looked at it carefully , then he said : " No .
+# text = He looked at it carefully , then he said : " No .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	looked	look	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	look	_	_	_	_	_	O-V
 3	at	at	ADP	IN	_	4	case	_	_	_	P	at	p.Stimulus	p.Direction	_	_	_	O-P-p.Stimulus|p.Direction
@@ -792,6 +833,7 @@
 
 # sent_id = lpp_1943.77
 # mwe = This sheep is already very sickly .
+# text = This sheep is already very sickly .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	_	_	DET	this	_	_	_	_	_	O-DET
 2	sheep	sheep	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	sheep	_	_	_	_	_	O-N
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -802,6 +844,7 @@
 
 # sent_id = lpp_1943.78
 # mwe = Make me another . "
+# text = Make me another . "
 1	Make	make	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	make	_	_	_	_	_	O-V
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	another	another	DET	DT	_	1	obj	_	_	_	DET	another	_	_	_	_	_	O-DET
@@ -810,6 +853,7 @@
 
 # sent_id = lpp_1943.79
 # mwe = So I made another drawing .
+# text = So I made another drawing .
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	made	make	VERB	VBD	Mood=Ind|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	make	_	_	_	_	_	O-V
@@ -819,6 +863,7 @@
 
 # sent_id = lpp_1943.80
 # mwe = My friend smiled gently and indulgently .
+# text = My friend smiled gently and indulgently .
 1	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	_	_	PRON.POSS	my	p.SocialRel	p.Gestalt	_	_	_	O-PRON.POSS-p.SocialRel|p.Gestalt
 2	friend	friend	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	friend	_	_	_	_	_	O-N
 3	smiled	smile	VERB	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	smile	_	_	_	_	_	O-V
@@ -829,6 +874,7 @@
 
 # sent_id = lpp_1943.81
 # mwe = " You see yourself , " he said , " that this is not a sheep .
+# text = " You see yourself , " he said , " that this is not a sheep .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	ccomp	_	_	_	V	see	_	_	_	_	_	O-V
@@ -849,6 +895,7 @@
 
 # sent_id = lpp_1943.82
 # mwe = This is a ram .
+# text = This is a ram .
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -857,6 +904,7 @@
 
 # sent_id = lpp_1943.83
 # mwe = It has horns . "
+# text = It has horns . "
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	horns	horn	NOUN	NNS	Number=Plur	2	obj	_	_	_	N	horn	_	_	_	_	_	O-N
@@ -865,6 +913,7 @@
 
 # sent_id = lpp_1943.84
 # mwe = So then I did_ my drawing _over once more .
+# text = So then I did my drawing over once more .
 1	So	so	ADV	RB	_	4	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	then	then	ADV	RB	PronType=Dem	4	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -878,6 +927,7 @@
 
 # sent_id = lpp_1943.85
 # mwe = But it was rejected too , just like the others .
+# text = But it was rejected too , just like the others .
 1	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -892,6 +942,7 @@
 
 # sent_id = lpp_1943.86
 # mwe = " This one is too old .
+# text = " This one is too old .
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	this	_	_	_	_	_	O-DET
 3	one	one	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	one	_	_	_	_	_	O-N
@@ -902,6 +953,7 @@
 
 # sent_id = lpp_1943.87
 # mwe = I want a sheep that will live a long time . "
+# text = I want a sheep that will live a long time . "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	want	_	_	_	_	_	O-V
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -917,6 +969,7 @@
 
 # sent_id = lpp_1943.88
 # mwe = By this time my patience was exhausted , because I was in a hurry to start taking_ my engine _apart .
+# text = By this time my patience was exhausted , because I was in a hurry to start taking my engine apart .
 1	By	by	ADP	IN	_	3	case	_	_	_	P	by	p.Time	p.Time	_	_	_	O-P-p.Time
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	_	_	DET	this	_	_	_	_	_	O-DET
 3	time	time	NOUN	NN	Number=Sing	7	obl	_	_	_	N	time	_	_	_	_	_	O-N
@@ -941,6 +994,7 @@
 
 # sent_id = lpp_1943.89
 # mwe = So I tossed_off this drawing .
+# text = So I tossed off this drawing .
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	tossed	toss	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	toss off	_	_	_	_	_	B-V
@@ -951,6 +1005,7 @@
 
 # sent_id = lpp_1943.90
 # mwe = And I threw_out an explanation with it .
+# text = And I threw out an explanation with it .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	threw	throw	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	throw out	_	_	_	_	_	B-V
@@ -963,6 +1018,7 @@
 
 # sent_id = lpp_1943.91
 # mwe = " This is only his box .
+# text = " This is only his box .
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	This	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -973,6 +1029,7 @@
 
 # sent_id = lpp_1943.92
 # mwe = The sheep you asked for is inside . "
+# text = The sheep you asked for is inside . "
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	sheep	sheep	NOUN	NNS	Number=Plur	7	nsubj	_	_	_	N	sheep	_	_	_	_	_	O-N
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -985,6 +1042,7 @@
 
 # sent_id = lpp_1943.93
 # mwe = I was very surprised to see a light break over the face of my young judge : " That is exactly the way I wanted it !
+# text = I was very surprised to see a light break over the face of my young judge : " That is exactly the way I wanted it !
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	very	very	ADV	RB	_	4	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
@@ -1015,6 +1073,7 @@
 
 # sent_id = lpp_1943.94
 # mwe = Do you think that this sheep will have to have a great deal of grass ? "
+# text = Do you think that this sheep will have to have a great deal of grass ? "
 1	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	think	think	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	think	_	_	_	_	_	O-V
@@ -1035,6 +1094,7 @@
 
 # sent_id = lpp_1943.95
 # mwe = " Why ? "
+# text = " Why ? "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	0	root	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -1042,6 +1102,7 @@
 
 # sent_id = lpp_1943.96
 # mwe = " Because where I live everything is very small ... "
+# text = " Because where I live everything is very small ... "
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Because	because	SCONJ	IN	_	5	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
 3	where	where	SCONJ	WRB	PronType=Int	5	mark	_	_	_	SCONJ	where	_	_	_	_	_	O-SCONJ
@@ -1056,6 +1117,7 @@
 
 # sent_id = lpp_1943.97
 # mwe = " There will surely be enough grass for him , "
+# text = " There will surely be enough grass for him , "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	There	there	PRON	EX	_	5	expl	_	_	_	PRON	there	_	_	_	_	_	O-PRON
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
@@ -1070,12 +1132,14 @@
 
 # sent_id = lpp_1943.98
 # mwe = I said .
+# text = I said .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	say	_	_	_	_	_	O-V
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.99
 # mwe = " It is a very small sheep that I have given you . "
+# text = " It is a very small sheep that I have given you . "
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1093,6 +1157,7 @@
 
 # sent_id = lpp_1943.100
 # mwe = He bent his head over the drawing : " Not so small that -- Look !
+# text = He bent his head over the drawing : " Not so small that -- Look !
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	bent	bend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	bend	_	_	_	_	_	O-V
 3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	he	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
@@ -1112,6 +1177,7 @@
 
 # sent_id = lpp_1943.101
 # mwe = He has gone to sleep ... "
+# text = He has gone to sleep ... "
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	gone	go	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	go	_	_	_	_	_	O-V
@@ -1122,6 +1188,7 @@
 
 # sent_id = lpp_1943.102
 # mwe = And that is how I made_ the _acquaintance of the little prince .
+# text = And that is how I made the acquaintance of the little prince .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	AUX	be	_	_	_	_	_	O-AUX
