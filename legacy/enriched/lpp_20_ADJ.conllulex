@@ -1,14 +1,12 @@
+# newdoc id = lpp_1943_en_ch-20
 # sent_id = lpp_1943.1024
 # mwe = Chapter 20 .
-# newdoc id = lpp_1943_en_ch-20
-# doc_id = lpp_1943_en_ch-20
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	20	20	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	20	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.1025
 # mwe = But it happened that after walking for a long time through sand , and rocks , and snow , the little prince at_last came upon a road .
-# doc_id = lpp_1943_en_ch-20
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	happened	happen	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	happen	_	_	_	_	_	O-V
@@ -41,7 +39,6 @@
 
 # sent_id = lpp_1943.1026
 # mwe = And all roads lead to the abodes of men .
-# doc_id = lpp_1943_en_ch-20
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	all	all	DET	DT	_	3	det	_	_	_	DET	all	_	_	_	_	_	O-DET
 3	roads	road	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	road	_	_	_	_	_	O-N
@@ -55,7 +52,6 @@
 
 # sent_id = lpp_1943.1027
 # mwe = " Good morning , " he said .
-# doc_id = lpp_1943_en_ch-20
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	7	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -67,7 +63,6 @@
 
 # sent_id = lpp_1943.1028
 # mwe = He was standing before a garden , all a - bloom with roses .
-# doc_id = lpp_1943_en_ch-20
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	standing	stand	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_	_	V	stand	_	_	_	_	_	O-V
@@ -85,7 +80,6 @@
 
 # sent_id = lpp_1943.1029
 # mwe = " Good morning , " said the roses .
-# doc_id = lpp_1943_en_ch-20
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -98,7 +92,6 @@
 
 # sent_id = lpp_1943.1030
 # mwe = The little prince gazed at them .
-# doc_id = lpp_1943_en_ch-20
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -109,7 +102,6 @@
 
 # sent_id = lpp_1943.1031
 # mwe = They all looked like his flower .
-# doc_id = lpp_1943_en_ch-20
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 2	all	all	DET	DT	_	1	det	_	_	_	DET	all	_	_	_	_	_	O-DET
 3	looked	look	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	look	_	_	_	_	_	O-V
@@ -120,7 +112,6 @@
 
 # sent_id = lpp_1943.1032
 # mwe = " Who are you ? " he demanded , thunderstruck .
-# doc_id = lpp_1943_en_ch-20
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Who	who	PRON	WP	PronType=Int	8	ccomp	_	_	_	PRON	who	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -135,7 +126,6 @@
 
 # sent_id = lpp_1943.1033
 # mwe = " We are roses , " the roses said .
-# doc_id = lpp_1943_en_ch-20
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -149,7 +139,6 @@
 
 # sent_id = lpp_1943.1034
 # mwe = And he was overcome with sadness .
-# doc_id = lpp_1943_en_ch-20
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -160,7 +149,6 @@
 
 # sent_id = lpp_1943.1035
 # mwe = His flower had told him that she was the only one of her kind in all the universe .
-# doc_id = lpp_1943_en_ch-20
 1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_	_	PRON.POSS	his	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
 2	flower	flower	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
 3	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -183,7 +171,6 @@
 
 # sent_id = lpp_1943.1036
 # mwe = And here were five thousand of them , all alike , in one single garden !
-# doc_id = lpp_1943_en_ch-20
 1	And	and	CCONJ	CC	_	2	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	here	here	ADV	RB	PronType=Dem	0	root	_	_	_	ADV	here	_	_	_	_	_	O-ADV
 3	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -203,7 +190,6 @@
 
 # sent_id = lpp_1943.1037
 # mwe = " She would be very much annoyed , " he said to himself , " if she should see that ... she would cough most dreadfully , and she would pretend that she was dying , to avoid being laughed at .
-# doc_id = lpp_1943_en_ch-20
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
 3	would	would	AUX	MD	VerbForm=Fin	7	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
@@ -249,8 +235,6 @@
 
 # sent_id = lpp_1943.1038
 # mwe = And I should be obliged to pretend that I was nursing her back to life - - for if I did not do that , to humble myself also , she would really allow herself to die ... "
-# doc_id = lpp_1943_en_ch-20
-# 0_ERROR = Tokens [12]: Invalid supersense(s) in lexical entry: {'lexlemma': 'she', 'lexcat': 'P', 'ss': 'p.NONSNACS', 'ss2': 'p.NONSNACS', 'toknums': [12]}
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	should	should	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	should	_	_	_	_	_	O-AUX
@@ -262,8 +246,8 @@
 9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 11	nursing	nurse	VERB	VBG	Tense=Pres|VerbForm=Part	7	ccomp	_	_	_	V	nurse	_	_	_	_	_	O-V
-12	her	she	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	obj	_	_	_	P	she	p.NONSNACS	p.NONSNACS	_	_	_	O-P-p.NONSNACS
-13	back	back	NOUN	NN	Number=Sing	11	obj	_	_	_	N	back	_	_	_	_	_	O-N
+12	her	she	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	obj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
+13	back	back	ADV	RB	_	15	advmod	_	_	_	ADV	back	_	_	_	_	_	O-ADV
 14	to	to	ADP	IN	_	15	case	_	_	_	P	to	p.Goal	p.Goal	_	_	_	O-P-p.Goal
 15	life	life	NOUN	NN	Number=Sing	11	obl	_	_	_	N	life	_	_	_	_	_	O-N
 16	-	-	PUNCT	,	_	5	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -292,13 +276,11 @@
 39	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.1039
-# mwe = Then he went on with his reflections : " I thought that I was rich , with a flower that was unique in all the world ; and all I had was a common rose .
-# doc_id = lpp_1943_en_ch-20
-# 0_ERROR = Tokens [4]: Missing supersense annotation in lexical entry: {'lexlemma': 'on', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [4]}
+# mwe = Then he went_on with his reflections : " I thought that I was rich , with a flower that was unique in all the world ; and all I had was a common rose .
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
-3	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	go	_	_	_	_	_	O-V
-4	on	on	ADP	RP	_	3	compound:prt	_	_	_	P	on	_	_	_	_	_	O-P
+3	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	go on	_	_	_	_	_	B-V
+4	on	on	ADP	RP	_	3	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 5	with	with	ADP	IN	_	7	case	_	_	_	P	with	p.Theme	p.Theme	_	_	_	O-P-p.Theme
 6	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	_	_	PRON.POSS	he	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
 7	reflections	reflection	NOUN	NNS	Number=Plur	3	obl	_	_	_	N	reflection	_	_	_	_	_	O-N
@@ -334,9 +316,6 @@
 
 # sent_id = lpp_1943.1040
 # mwe = A common rose , and three volcanoes that come up to my knees - - and one of them perhaps extinct forever ... that does n't make me a very great prince ... "
-# doc_id = lpp_1943_en_ch-20
-# 0_ERROR = Tokens [10]: Missing supersense annotation in lexical entry: {'lexlemma': 'up', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [10]}
-# 1_ERROR = Tokens [11]: Missing supersense annotation in lexical entry: {'lexlemma': 'to', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [11]}
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 2	common	common	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	common	_	_	_	_	_	O-ADJ
 3	rose	rose	NOUN	NN	Number=Sing	27	nsubj	_	_	_	N	rose	_	_	_	_	_	O-N
@@ -346,8 +325,8 @@
 7	volcanoes	volcano	NOUN	NNS	Number=Plur	3	conj	_	_	_	N	volcano	_	_	_	_	_	O-N
 8	that	that	PRON	WDT	PronType=Rel	9	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 9	come	come	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_	_	V	come	_	_	_	_	_	O-V
-10	up	up	ADP	RP	_	9	compound:prt	_	_	_	P	up	_	_	_	_	_	O-P
-11	to	to	ADP	IN	_	13	case	_	_	_	P	to	_	_	_	_	_	O-P
+10	up	up	ADP	RP	_	9	compound:prt	_	_	_	P	up	p.Locus	p.Direction	_	_	_	O-P-p.Locus|p.Direction
+11	to	to	ADP	IN	_	13	case	_	_	_	P	to	p.Locus	p.Goal	_	_	_	O-P-p.Locus|p.Goal
 12	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	_	_	PRON.POSS	my	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
 13	knees	knee	NOUN	NNS	Number=Plur	9	obl	_	_	_	N	knee	_	_	_	_	_	O-N
 14	-	-	PUNCT	,	_	3	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -373,13 +352,11 @@
 34	"	"	PUNCT	''	_	27	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.1041
-# mwe = And he lay down in the grass and cried .
-# doc_id = lpp_1943_en_ch-20
-# 0_ERROR = Tokens [4]: Missing supersense annotation in lexical entry: {'lexlemma': 'down', 'lexcat': 'P', 'ss': None, 'ss2': None, 'toknums': [4]}
+# mwe = And he lay_down in the grass and cried .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
-3	lay	lay	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	lay	_	_	_	_	_	O-V
-4	down	down	ADP	RP	_	3	compound:prt	_	_	_	P	down	_	_	_	_	_	O-P
+3	lay	lie	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	lie down	_	_	_	_	_	B-V
+4	down	down	ADP	RP	_	3	compound:prt	_	_	1:2	_	_	_	_	_	_	_	I_
 5	in	in	ADP	IN	_	7	case	_	_	_	P	in	p.Locus	p.Locus	_	_	_	O-P-p.Locus
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 7	grass	grass	NOUN	NN	Number=Sing	3	obl	_	_	_	N	grass	_	_	_	_	_	O-N
