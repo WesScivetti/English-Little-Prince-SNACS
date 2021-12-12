@@ -1,14 +1,14 @@
 # newdoc id = lpp_1943_en_ch-15
 # sent_id = lpp_1943.825
-# mwe = Chapter 15 .
 # text = Chapter 15 .
+# mwe = Chapter 15 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	15	15	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	15	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.826
-# mwe = The sixth planet was ten times larger than the last one .
 # text = The sixth planet was ten times larger than the last one .
+# mwe = The sixth planet was ten times larger than the last one .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	sixth	sixth	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	sixth	_	_	_	_	_	O-ADJ
 3	planet	planet	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -23,8 +23,8 @@
 12	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.827
-# mwe = It was inhabited by an old gentleman who wrote voluminous books .
 # text = It was inhabited by an old gentleman who wrote voluminous books .
+# mwe = It was inhabited by an old gentleman who wrote voluminous books .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	inhabited	inhabit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	inhabit	_	_	_	_	_	O-V
@@ -39,8 +39,8 @@
 12	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.828
-# mwe = " Oh , look !
 # text = " Oh , look !
+# mwe = " Oh , look !
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Oh	oh	INTJ	UH	_	4	discourse	_	_	_	INTJ	oh	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	4	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -48,8 +48,8 @@
 5	!	!	PUNCT	.	_	4	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.829
-# mwe = Here is an explorer ! " he exclaimed to himself when he saw the little prince coming .
 # text = Here is an explorer ! " he exclaimed to himself when he saw the little prince coming .
+# mwe = Here is an explorer ! " he exclaimed to himself when he saw the little prince coming .
 1	Here	here	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	here	_	_	_	_	_	O-ADV
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -70,8 +70,8 @@
 18	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.830
-# mwe = The little prince sat_down on the table and panted a little .
 # text = The little prince sat down on the table and panted a little .
+# mwe = The little prince sat_down on the table and panted a little .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -87,8 +87,8 @@
 13	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.831
-# mwe = He had already traveled so much and so far !
 # text = He had already traveled so much and so far !
+# mwe = He had already traveled so much and so far !
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	already	already	ADV	RB	_	4	advmod	_	_	_	ADV	already	_	_	_	_	_	O-ADV
@@ -101,8 +101,8 @@
 10	!	!	PUNCT	.	_	4	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.832
-# mwe = " Where do you come from ? " the old gentleman said to him .
 # text = " Where do you come from ? " the old gentleman said to him .
+# mwe = " Where do you come from ? " the old gentleman said to him .
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Where	where	ADV	WRB	PronType=Int	5	advmod	_	_	_	ADV	where	_	_	_	_	_	O-ADV
 3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -120,8 +120,8 @@
 15	.	.	PUNCT	.	_	12	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.833
-# mwe = " What is that big book ? " said the little prince .
 # text = " What is that big book ? " said the little prince .
+# mwe = " What is that big book ? " said the little prince .
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	9	ccomp	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -137,8 +137,8 @@
 13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.834
-# mwe = " What are you doing ? "
 # text = " What are you doing ? "
+# mwe = " What are you doing ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -148,8 +148,8 @@
 7	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.835
-# mwe = " I am a geographer , " the old gentleman said to him .
 # text = " I am a geographer , " the old gentleman said to him .
+# mwe = " I am a geographer , " the old gentleman said to him .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -166,8 +166,8 @@
 14	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.836
-# mwe = " What is a geographer ? " asked the little prince .
 # text = " What is a geographer ? " asked the little prince .
+# mwe = " What is a geographer ? " asked the little prince .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	8	ccomp	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -182,8 +182,8 @@
 12	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.837
-# mwe = " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
 # text = " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
+# mwe = " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_	_	DET	a	_	_	_	_	_	O-DET
 3	geographer	geographer	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	geographer	_	_	_	_	_	O-N
@@ -211,8 +211,8 @@
 25	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.838
-# mwe = " That is very interesting , " said the little prince .
 # text = " That is very interesting , " said the little prince .
+# mwe = " That is very interesting , " said the little prince .
 1	"	"	PUNCT	``	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -227,8 +227,8 @@
 12	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.839
-# mwe = " Here at_last is a man who has a real profession ! "
 # text = " Here at last is a man who has a real profession ! "
+# mwe = " Here at_last is a man who has a real profession ! "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Here	here	ADV	RB	PronType=Dem	0	root	_	_	_	ADV	here	_	_	_	_	_	O-ADV
 3	at	at	ADP	IN	_	4	case	_	_	1:1	PP	at last	p.Time	p.Time	_	_	_	B-PP-p.Time
@@ -245,8 +245,8 @@
 14	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.840
-# mwe = And he cast a look around him at the planet of the geographer .
 # text = And he cast a look around him at the planet of the geographer .
+# mwe = And he cast a look around him at the planet of the geographer .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	cast	cast	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	cast	_	_	_	_	_	O-V
@@ -263,8 +263,8 @@
 14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.841
-# mwe = It was the most magnificent and stately planet that he had ever seen .
 # text = It was the most magnificent and stately planet that he had ever seen .
+# mwe = It was the most magnificent and stately planet that he had ever seen .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -281,8 +281,8 @@
 14	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.842
-# mwe = " Your planet is very beautiful , " he said .
 # text = " Your planet is very beautiful , " he said .
+# mwe = " Your planet is very beautiful , " he said .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	you	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
 3	planet	planet	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -296,8 +296,8 @@
 11	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.843
-# mwe = " Has it any oceans ? "
 # text = " Has it any oceans ? "
+# mwe = " Has it any oceans ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
@@ -307,8 +307,8 @@
 7	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.844
-# mwe = " I could n't tell you , " said the geographer .
 # text = " I could n't tell you , " said the geographer .
+# mwe = " I could n't tell you , " said the geographer .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	could	_	_	_	_	_	O-AUX
@@ -323,16 +323,16 @@
 12	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.845
-# mwe = " Ah ! "
 # text = " Ah ! "
+# mwe = " Ah ! "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 4	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.846
-# mwe = The little prince was disappointed .
 # text = The little prince was disappointed .
+# mwe = The little prince was disappointed .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -341,8 +341,8 @@
 6	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.847
-# mwe = " Has it any mountains ? "
 # text = " Has it any mountains ? "
+# mwe = " Has it any mountains ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
@@ -352,8 +352,8 @@
 7	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.848
-# mwe = " I could n't tell you , " said the geographer .
 # text = " I could n't tell you , " said the geographer .
+# mwe = " I could n't tell you , " said the geographer .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	could	_	_	_	_	_	O-AUX
@@ -368,8 +368,8 @@
 12	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.849
-# mwe = " And towns , and rivers , and deserts ? "
 # text = " And towns , and rivers , and deserts ? "
+# mwe = " And towns , and rivers , and deserts ? "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	towns	town	NOUN	NNS	Number=Plur	0	root	_	_	_	N	town	_	_	_	_	_	O-N
@@ -383,8 +383,8 @@
 11	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.850
-# mwe = " I could n't tell you that , either . "
 # text = " I could n't tell you that , either . "
+# mwe = " I could n't tell you that , either . "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	could	could	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	could	_	_	_	_	_	O-AUX
@@ -398,8 +398,8 @@
 11	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.851
-# mwe = " But you are a geographer ! "
 # text = " But you are a geographer ! "
+# mwe = " But you are a geographer ! "
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	6	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -410,8 +410,8 @@
 8	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.852
-# mwe = " Exactly , " the geographer said .
 # text = " Exactly , " the geographer said .
+# mwe = " Exactly , " the geographer said .
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Exactly	exactly	ADV	RB	_	7	advmod	_	_	_	ADV	exactly	_	_	_	_	_	O-ADV
 3	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -422,8 +422,8 @@
 8	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.853
-# mwe = " But I am not an explorer .
 # text = " But I am not an explorer .
+# mwe = " But I am not an explorer .
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -434,8 +434,8 @@
 8	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.854
-# mwe = I have n't a single explorer on my planet .
 # text = I have n't a single explorer on my planet .
+# mwe = I have n't a single explorer on my planet .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	n't	not	PART	RB	_	6	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -448,8 +448,8 @@
 10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.855
-# mwe = It is not the geographer who goes out to count the towns , the rivers , the mountains , the seas , the oceans , and the deserts .
 # text = It is not the geographer who goes out to count the towns , the rivers , the mountains , the seas , the oceans , and the deserts .
+# mwe = It is not the geographer who goes out to count the towns , the rivers , the mountains , the seas , the oceans , and the deserts .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	5	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -481,8 +481,8 @@
 29	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.856
-# mwe = The geographer is much too important to go loafing_about .
 # text = The geographer is much too important to go loafing about .
+# mwe = The geographer is much too important to go loafing_about .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	geographer	geographer	NOUN	NN	Number=Sing	6	nsubj	_	_	_	N	geographer	_	_	_	_	_	O-N
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -496,8 +496,8 @@
 11	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.857
-# mwe = He does not leave his desk .
 # text = He does not leave his desk .
+# mwe = He does not leave his desk .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -507,8 +507,8 @@
 7	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.858
-# mwe = But he receives the explorers in his study .
 # text = But he receives the explorers in his study .
+# mwe = But he receives the explorers in his study .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	receives	receive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	receive	_	_	_	_	_	O-V
@@ -520,8 +520,8 @@
 9	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.859
-# mwe = He asks them questions , and he notes_down what they recall of their travels .
 # text = He asks them questions , and he notes down what they recall of their travels .
+# mwe = He asks them questions , and he notes_down what they recall of their travels .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	asks	ask	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
 3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
@@ -540,8 +540,8 @@
 16	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.860
-# mwe = And if the recollections of any one among them seem interesting to him , the geographer orders an inquiry into that explorer 's moral character . "
 # text = And if the recollections of any one among them seem interesting to him , the geographer orders an inquiry into that explorer 's moral character . "
+# mwe = And if the recollections of any one among them seem interesting to him , the geographer orders an inquiry into that explorer 's moral character . "
 1	And	and	CCONJ	CC	_	17	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	if	if	SCONJ	IN	_	10	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -571,8 +571,8 @@
 27	"	"	PUNCT	''	_	17	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.861
-# mwe = " Why is that ? "
 # text = " Why is that ? "
+# mwe = " Why is that ? "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	0	root	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -581,8 +581,8 @@
 6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.862
-# mwe = " Because an explorer who told lies would bring disaster on the books of the geographer .
 # text = " Because an explorer who told lies would bring disaster on the books of the geographer .
+# mwe = " Because an explorer who told lies would bring disaster on the books of the geographer .
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Because	because	SCONJ	IN	_	9	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -602,8 +602,8 @@
 17	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.863
-# mwe = So would an explorer who drank too much . "
 # text = So would an explorer who drank too much . "
+# mwe = So would an explorer who drank too much . "
 1	So	so	ADV	RB	_	6	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	would	would	AUX	MD	VerbForm=Fin	6	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -616,8 +616,8 @@
 10	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.864
-# mwe = " Why is that ? " asked the little prince .
 # text = " Why is that ? " asked the little prince .
+# mwe = " Why is that ? " asked the little prince .
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	7	ccomp	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -631,8 +631,8 @@
 11	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.865
-# mwe = " Because intoxicated men see double .
 # text = " Because intoxicated men see double .
+# mwe = " Because intoxicated men see double .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Because	because	SCONJ	IN	_	5	mark	_	_	_	SCONJ	because	_	_	_	_	_	O-SCONJ
 3	intoxicated	intoxicated	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	intoxicated	_	_	_	_	_	O-ADJ
@@ -642,8 +642,8 @@
 7	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.866
-# mwe = Then the geographer would note_down two mountains in a place where there was only one . "
 # text = Then the geographer would note down two mountains in a place where there was only one . "
+# mwe = Then the geographer would note_down two mountains in a place where there was only one . "
 1	Then	then	ADV	RB	PronType=Dem	5	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	geographer	geographer	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	geographer	_	_	_	_	_	O-N
@@ -664,8 +664,8 @@
 18	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.867
-# mwe = " I know some one , " said the little prince , " who would make a bad explorer . "
 # text = " I know some one , " said the little prince , " who would make a bad explorer . "
+# mwe = " I know some one , " said the little prince , " who would make a bad explorer . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	_	_	V	know	_	_	_	_	_	O-V
@@ -689,8 +689,8 @@
 21	"	"	PUNCT	''	_	8	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.868
-# mwe = " That is possible .
 # text = " That is possible .
+# mwe = " That is possible .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -698,8 +698,8 @@
 5	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.869
-# mwe = Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
 # text = Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
+# mwe = Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
 1	Then	then	ADV	RB	PronType=Dem	19	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	19	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	when	when	SCONJ	WRB	PronType=Int	11	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
@@ -726,8 +726,8 @@
 24	"	"	PUNCT	''	_	19	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.870
-# mwe = " One goes to see it ? "
 # text = " One goes to see it ? "
+# mwe = " One goes to see it ? "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	One	one	PRON	PRP	_	3	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 3	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	go	_	_	_	_	_	O-V
@@ -738,15 +738,15 @@
 8	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.871
-# mwe = " No .
 # text = " No .
+# mwe = " No .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	No	no	INTJ	UH	Polarity=Neg	0	root	_	_	_	INTJ	no	_	_	_	_	_	O-INTJ
 3	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.872
-# mwe = That would be too complicated .
 # text = That would be too complicated .
+# mwe = That would be too complicated .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	would	would	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -755,8 +755,8 @@
 6	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.873
-# mwe = But one requires the explorer to furnish proofs .
 # text = But one requires the explorer to furnish proofs .
+# mwe = But one requires the explorer to furnish proofs .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	one	one	PRON	PRP	_	3	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 3	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	require	_	_	_	_	_	O-V
@@ -768,8 +768,8 @@
 9	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.874
-# mwe = For_example , if the discovery in question is that of a large mountain , one requires that large stones be brought back from it . "
 # text = For example , if the discovery in question is that of a large mountain , one requires that large stones be brought back from it . "
+# mwe = For_example , if the discovery in question is that of a large mountain , one requires that large stones be brought back from it . "
 1	For	for	ADP	IN	_	2	case	_	_	1:1	DISC	for example	_	_	_	_	_	B-DISC
 2	example	example	NOUN	NN	Number=Sing	17	obl	_	_	1:2	_	_	_	_	_	_	_	I_
 3	,	,	PUNCT	,	_	17	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -799,8 +799,8 @@
 27	"	"	PUNCT	''	_	17	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.875
-# mwe = The geographer was suddenly stirred to excitement .
 # text = The geographer was suddenly stirred to excitement .
+# mwe = The geographer was suddenly stirred to excitement .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	geographer	geographer	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	geographer	_	_	_	_	_	O-N
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -811,8 +811,8 @@
 8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.876
-# mwe = " But you - - you come from far_away !
 # text = " But you - - you come from far away !
+# mwe = " But you - - you come from far_away !
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	dislocated	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -826,8 +826,8 @@
 11	!	!	PUNCT	.	_	7	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.877
-# mwe = You are an explorer !
 # text = You are an explorer !
+# mwe = You are an explorer !
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -835,8 +835,8 @@
 5	!	!	PUNCT	.	_	4	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.878
-# mwe = You shall describe your planet to me ! "
 # text = You shall describe your planet to me ! "
+# mwe = You shall describe your planet to me ! "
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	shall	shall	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	shall	_	_	_	_	_	O-AUX
 3	describe	describe	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	describe	_	_	_	_	_	O-V
@@ -848,8 +848,8 @@
 9	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.879
-# mwe = And , having opened his big register , the geographer sharpened his pencil .
 # text = And , having opened his big register , the geographer sharpened his pencil .
+# mwe = And , having opened his big register , the geographer sharpened his pencil .
 1	And	and	CCONJ	CC	_	11	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	having	have	AUX	VBG	VerbForm=Ger	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -866,8 +866,8 @@
 14	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.880
-# mwe = The recitals of explorers are put_down first in pencil .
 # text = The recitals of explorers are put down first in pencil .
+# mwe = The recitals of explorers are put_down first in pencil .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	recitals	recital	NOUN	NNS	Number=Plur	6	nsubj:pass	_	_	_	N	recital	_	_	_	_	_	O-N
 3	of	of	ADP	IN	_	4	case	_	_	_	P	of	p.Originator	p.Gestalt	_	_	_	O-P-p.Originator|p.Gestalt
@@ -881,8 +881,8 @@
 11	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.881
-# mwe = One waits until the explorer has furnished proofs , before putting_ them _down in ink .
 # text = One waits until the explorer has furnished proofs , before putting them down in ink .
+# mwe = One waits until the explorer has furnished proofs , before putting_ them _down in ink .
 1	One	one	NUM	CD	NumForm=Word|NumType=Card	2	nsubj	_	_	_	NUM	one	_	_	_	_	_	O-NUM
 2	waits	wait	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	wait	_	_	_	_	_	O-V
 3	until	until	SCONJ	IN	_	7	mark	_	_	_	P	until	p.EndTime	p.EndTime	_	_	_	O-P-p.EndTime
@@ -901,8 +901,8 @@
 16	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.882
-# mwe = " Well ? " said the geographer expectantly .
 # text = " Well ? " said the geographer expectantly .
+# mwe = " Well ? " said the geographer expectantly .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Well	well	INTJ	UH	_	5	ccomp	_	_	_	INTJ	well	_	_	_	_	_	O-INTJ
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -914,8 +914,8 @@
 9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.883
-# mwe = " Oh , where I live , " said the little prince , " it is not very interesting .
 # text = " Oh , where I live , " said the little prince , " it is not very interesting .
+# mwe = " Oh , where I live , " said the little prince , " it is not very interesting .
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Oh	oh	INTJ	UH	_	9	ccomp	_	_	_	INTJ	oh	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	9	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -938,8 +938,8 @@
 20	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.884
-# mwe = It is all so small .
 # text = It is all so small .
+# mwe = It is all so small .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	all	all	ADV	RB	_	5	advmod	_	_	_	ADV	all	_	_	_	_	_	O-ADV
@@ -948,8 +948,8 @@
 6	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.885
-# mwe = I have three volcanoes .
 # text = I have three volcanoes .
+# mwe = I have three volcanoes .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	three	three	NUM	CD	NumType=Card	4	nummod	_	_	_	NUM	three	_	_	_	_	_	O-NUM
@@ -957,8 +957,8 @@
 5	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.886
-# mwe = Two volcanoes are active and the other is extinct .
 # text = Two volcanoes are active and the other is extinct .
+# mwe = Two volcanoes are active and the other is extinct .
 1	Two	two	NUM	CD	NumType=Card	2	nummod	_	_	_	NUM	two	_	_	_	_	_	O-NUM
 2	volcanoes	volcano	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	volcano	_	_	_	_	_	O-N
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -971,8 +971,8 @@
 10	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.887
-# mwe = But one never knows . "
 # text = But one never knows . "
+# mwe = But one never knows . "
 1	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	one	one	PRON	PRP	_	4	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
@@ -981,8 +981,8 @@
 6	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.888
-# mwe = " One never knows , " said the geographer .
 # text = " One never knows , " said the geographer .
+# mwe = " One never knows , " said the geographer .
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	One	one	PRON	PRP	_	4	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
@@ -995,8 +995,8 @@
 10	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.889
-# mwe = " I have also a flower . "
 # text = " I have also a flower . "
+# mwe = " I have also a flower . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
@@ -1007,8 +1007,8 @@
 8	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.890
-# mwe = " We do not record flowers , " said the geographer .
 # text = " We do not record flowers , " said the geographer .
+# mwe = " We do not record flowers , " said the geographer .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -1023,8 +1023,8 @@
 12	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.891
-# mwe = " Why is that ?
 # text = " Why is that ?
+# mwe = " Why is that ?
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Why	why	ADV	WRB	PronType=Int	0	root	_	_	_	ADV	why	_	_	_	_	_	O-ADV
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1032,8 +1032,8 @@
 5	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.892
-# mwe = The flower is the most beautiful thing on my planet ! "
 # text = The flower is the most beautiful thing on my planet ! "
+# mwe = The flower is the most beautiful thing on my planet ! "
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	flower	flower	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -1048,8 +1048,8 @@
 12	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.893
-# mwe = " We do not record them , " said the geographer , " because they are ephemeral . "
 # text = " We do not record them , " said the geographer , " because they are ephemeral . "
+# mwe = " We do not record them , " said the geographer , " because they are ephemeral . "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -1071,8 +1071,8 @@
 19	"	"	PUNCT	''	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.894
-# mwe = " What does that mean - - ' ephemeral ' ? "
 # text = " What does that mean - - ' ephemeral ' ? "
+# mwe = " What does that mean - - ' ephemeral ' ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -1087,8 +1087,8 @@
 12	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.895
-# mwe = " Geographies , " said the geographer , " are the books which , of all books , are most concerned with matters of consequence .
 # text = " Geographies , " said the geographer , " are the books which , of all books , are most concerned with matters of consequence .
+# mwe = " Geographies , " said the geographer , " are the books which , of all books , are most concerned with matters of consequence .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Geographies	geography	NOUN	NNS	Number=Plur	5	ccomp	_	_	_	N	geography	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -1117,8 +1117,8 @@
 26	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.896
-# mwe = They never become old - fashioned .
 # text = They never become old - fashioned .
+# mwe = They never become old - fashioned .
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 2	never	never	ADV	RB	_	3	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
 3	become	become	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	become	_	_	_	_	_	O-V
@@ -1128,8 +1128,8 @@
 7	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.897
-# mwe = It is very rarely that a mountain changes its position .
 # text = It is very rarely that a mountain changes its position .
+# mwe = It is very rarely that a mountain changes its position .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	very	very	ADV	RB	_	4	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
@@ -1143,8 +1143,8 @@
 11	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.898
-# mwe = It is very rarely that an ocean empties itself of its waters .
 # text = It is very rarely that an ocean empties itself of its waters .
+# mwe = It is very rarely that an ocean empties itself of its waters .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	very	very	ADV	RB	_	4	advmod	_	_	_	ADV	very	_	_	_	_	_	O-ADV
@@ -1160,8 +1160,8 @@
 13	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.899
-# mwe = We write of eternal things . "
 # text = We write of eternal things . "
+# mwe = We write of eternal things . "
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	we	_	_	_	_	_	O-PRON
 2	write	write	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	write	_	_	_	_	_	O-V
 3	of	of	ADP	IN	_	5	case	_	_	_	P	of	p.Topic	p.Topic	_	_	_	O-P-p.Topic
@@ -1171,8 +1171,8 @@
 7	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.900
-# mwe = " But extinct volcanoes may come to life again , " the little prince interrupted .
 # text = " But extinct volcanoes may come to life again , " the little prince interrupted .
+# mwe = " But extinct volcanoes may come to life again , " the little prince interrupted .
 1	"	"	PUNCT	``	_	15	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	6	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	extinct	extinct	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	extinct	_	_	_	_	_	O-ADJ
@@ -1191,8 +1191,8 @@
 16	.	.	PUNCT	.	_	15	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.901
-# mwe = " What does that mean - - ' ephemeral ' ? "
 # text = " What does that mean - - ' ephemeral ' ? "
+# mwe = " What does that mean - - ' ephemeral ' ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -1207,8 +1207,8 @@
 12	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.902
-# mwe = " Whether volcanoes are extinct or alive , it comes to the same thing for us , " said the geographer .
 # text = " Whether volcanoes are extinct or alive , it comes to the same thing for us , " said the geographer .
+# mwe = " Whether volcanoes are extinct or alive , it comes to the same thing for us , " said the geographer .
 1	"	"	PUNCT	``	_	19	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Whether	whether	SCONJ	IN	_	5	mark	_	_	_	SCONJ	whether	_	_	_	_	_	O-SCONJ
 3	volcanoes	volcano	NOUN	NNS	Number=Plur	5	nsubj	_	_	_	N	volcano	_	_	_	_	_	O-N
@@ -1233,8 +1233,8 @@
 22	.	.	PUNCT	.	_	19	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.903
-# mwe = " The thing that matters to us is the mountain .
 # text = " The thing that matters to us is the mountain .
+# mwe = " The thing that matters to us is the mountain .
 1	"	"	PUNCT	``	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	thing	thing	NOUN	NN	Number=Sing	10	nsubj	_	_	_	N	thing	_	_	_	_	_	O-N
@@ -1248,8 +1248,8 @@
 11	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.904
-# mwe = It does not change . "
 # text = It does not change . "
+# mwe = It does not change . "
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -1258,8 +1258,8 @@
 6	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.905
-# mwe = " But what does that mean - - ' ephemeral ' ? " repeated the little prince , who never in his life had let go of a question , once he had asked it .
 # text = " But what does that mean - - ' ephemeral ' ? " repeated the little prince , who never in his life had let go of a question , once he had asked it .
+# mwe = " But what does that mean - - ' ephemeral ' ? " repeated the little prince , who never in his life had let go of a question , once he had asked it .
 1	"	"	PUNCT	``	_	14	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	14	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	what	what	PRON	WP	PronType=Int	6	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -1298,8 +1298,8 @@
 36	.	.	PUNCT	.	_	14	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.906
-# mwe = " It means , ' which is in danger of speedy disappearance . ' "
 # text = " It means , ' which is in danger of speedy disappearance . ' "
+# mwe = " It means , ' which is in danger of speedy disappearance . ' "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	mean	_	_	_	_	_	O-V
@@ -1317,8 +1317,8 @@
 15	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.907
-# mwe = " Is my flower in danger of speedy disappearance ? "
 # text = " Is my flower in danger of speedy disappearance ? "
+# mwe = " Is my flower in danger of speedy disappearance ? "
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
@@ -1332,8 +1332,8 @@
 11	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.908
-# mwe = " Certainly it is . "
 # text = " Certainly it is . "
+# mwe = " Certainly it is . "
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Certainly	certainly	ADV	RB	_	4	advmod	_	_	_	ADV	certainly	_	_	_	_	_	O-ADV
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
@@ -1342,8 +1342,8 @@
 6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.909
-# mwe = " My flower is ephemeral , " the little prince said to himself , " and she has only four thorns to defend herself against the world .
 # text = " My flower is ephemeral , " the little prince said to himself , " and she has only four thorns to defend herself against the world .
+# mwe = " My flower is ephemeral , " the little prince said to himself , " and she has only four thorns to defend herself against the world .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	my	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
 3	flower	flower	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
@@ -1374,8 +1374,8 @@
 28	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.910
-# mwe = And I have left her on my planet , all alone ! "
 # text = And I have left her on my planet , all alone ! "
+# mwe = And I have left her on my planet , all alone ! "
 1	And	and	CCONJ	CC	_	4	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -1391,8 +1391,8 @@
 13	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.911
-# mwe = That was his first moment of regret .
 # text = That was his first moment of regret .
+# mwe = That was his first moment of regret .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod:poss	_	_	_	PRON.POSS	he	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
@@ -1403,8 +1403,8 @@
 8	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.912
-# mwe = But he took courage once more .
 # text = But he took courage once more .
+# mwe = But he took courage once more .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	take	_	_	_	_	_	O-V
@@ -1414,8 +1414,8 @@
 7	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.913
-# mwe = " What place would you advise me to visit now ? " he asked .
 # text = " What place would you advise me to visit now ? " he asked .
+# mwe = " What place would you advise me to visit now ? " he asked .
 1	"	"	PUNCT	``	_	14	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	DET	WDT	PronType=Int	3	det	_	_	_	DET	what	_	_	_	_	_	O-DET
 3	place	place	NOUN	NN	Number=Sing	6	obj	_	_	_	N	place	_	_	_	_	_	O-N
@@ -1433,8 +1433,8 @@
 15	.	.	PUNCT	.	_	14	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.914
-# mwe = " The planet Earth , " replied the geographer .
 # text = " The planet Earth , " replied the geographer .
+# mwe = " The planet Earth , " replied the geographer .
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	planet	planet	NOUN	NN	Number=Sing	4	compound	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -1447,8 +1447,8 @@
 10	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.915
-# mwe = " It has a good reputation . "
 # text = " It has a good reputation . "
+# mwe = " It has a good reputation . "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
@@ -1459,8 +1459,8 @@
 8	"	"	PUNCT	''	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.916
-# mwe = And the little prince went away , thinking of his flower .
 # text = And the little prince went away , thinking of his flower .
+# mwe = And the little prince went away , thinking of his flower .
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ

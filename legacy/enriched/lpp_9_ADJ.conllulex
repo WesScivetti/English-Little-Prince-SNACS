@@ -1,14 +1,14 @@
 # newdoc id = lpp_1943_en_ch-09
 # sent_id = lpp_1943.432
-# mwe = Chapter 9 .
 # text = Chapter 9 .
+# mwe = Chapter 9 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	9	9	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	9	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.433
-# mwe = I believe that for his escape he took advantage of the migration of a flock of wild birds .
 # text = I believe that for his escape he took advantage of the migration of a flock of wild birds .
+# mwe = I believe that for his escape he took advantage of the migration of a flock of wild birds .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	believe	_	_	_	_	_	O-V
 3	that	that	SCONJ	IN	_	8	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -30,8 +30,8 @@
 19	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.434
-# mwe = On the morning of his departure he put his planet in perfect order .
 # text = On the morning of his departure he put his planet in perfect order .
+# mwe = On the morning of his departure he put his planet in perfect order .
 1	On	on	ADP	IN	_	3	case	_	_	_	P	on	p.Time	p.Time	_	_	_	O-P-p.Time
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	morning	morning	NOUN	NN	Number=Sing	8	obl	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -48,8 +48,8 @@
 14	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.435
-# mwe = He carefully cleaned_out his active volcanoes .
 # text = He carefully cleaned out his active volcanoes .
+# mwe = He carefully cleaned_out his active volcanoes .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	carefully	carefully	ADV	RB	Degree=Pos	3	advmod	_	_	_	ADV	carefully	_	_	_	_	_	O-ADV
 3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	clean out	_	_	_	_	_	B-V
@@ -60,8 +60,8 @@
 8	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.436
-# mwe = He possessed two active volcanoes ; and they were very convenient for heating his breakfast in the morning .
 # text = He possessed two active volcanoes ; and they were very convenient for heating his breakfast in the morning .
+# mwe = He possessed two active volcanoes ; and they were very convenient for heating his breakfast in the morning .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	possessed	possess	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	possess	_	_	_	_	_	O-V
 3	two	two	NUM	CD	NumType=Card	5	nummod	_	_	_	NUM	two	_	_	_	_	_	O-NUM
@@ -83,8 +83,8 @@
 19	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.437
-# mwe = He also had one volcano that was extinct .
 # text = He also had one volcano that was extinct .
+# mwe = He also had one volcano that was extinct .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	also	also	ADV	RB	_	3	advmod	_	_	_	ADV	also	_	_	_	_	_	O-ADV
 3	had	have	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
@@ -96,8 +96,8 @@
 9	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.438
-# mwe = But , as he said , " One never knows ! "
 # text = But , as he said , " One never knows ! "
+# mwe = But , as he said , " One never knows ! "
 1	But	but	CCONJ	CC	_	10	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	as	as	SCONJ	IN	_	5	mark	_	_	_	DISC	as	_	_	_	_	_	O-DISC
@@ -112,8 +112,8 @@
 12	"	"	PUNCT	''	_	10	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.439
-# mwe = So he cleaned_out the extinct volcano , too .
 # text = So he cleaned out the extinct volcano , too .
+# mwe = So he cleaned_out the extinct volcano , too .
 1	So	so	ADV	RB	_	3	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	1:1	V	clean out	_	_	_	_	_	B-V
@@ -126,8 +126,8 @@
 10	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.440
-# mwe = If they are well cleaned_out , volcanoes burn slowly and steadily , without any eruptions .
 # text = If they are well cleaned out , volcanoes burn slowly and steadily , without any eruptions .
+# mwe = If they are well cleaned_out , volcanoes burn slowly and steadily , without any eruptions .
 1	If	if	SCONJ	IN	_	5	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj:pass	_	_	_	PRON	they	_	_	_	_	_	O-PRON
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -147,8 +147,8 @@
 17	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.441
-# mwe = Volcanic eruptions are like fires in a chimney .
 # text = Volcanic eruptions are like fires in a chimney .
+# mwe = Volcanic eruptions are like fires in a chimney .
 1	Volcanic	Volcanic	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	Volcanic	_	_	_	_	_	O-ADJ
 2	eruptions	eruption	NOUN	NNS	Number=Plur	5	nsubj	_	_	_	N	eruption	_	_	_	_	_	O-N
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -160,8 +160,8 @@
 9	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.442
-# mwe = On our earth we are obviously much too small to clean_out our volcanoes .
 # text = On our earth we are obviously much too small to clean out our volcanoes .
+# mwe = On our earth we are obviously much too small to clean_out our volcanoes .
 1	On	on	ADP	IN	_	3	case	_	_	_	P	on	p.Locus	p.Locus	_	_	_	O-P-p.Locus
 2	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	we	p.Gestalt	p.Gestalt	_	_	_	O-PRON.POSS-p.Gestalt
 3	earth	earth	NOUN	NN	Number=Sing	9	obl	_	_	_	N	earth	_	_	_	_	_	O-N
@@ -179,8 +179,8 @@
 15	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.443
-# mwe = That is why they bring no_end_of trouble upon us .
 # text = That is why they bring no end of trouble upon us .
+# mwe = That is why they bring no_end_of trouble upon us .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	why	why	SCONJ	WRB	PronType=Int	0	root	_	_	_	SCONJ	why	_	_	_	_	_	O-SCONJ
@@ -195,8 +195,8 @@
 12	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.444
-# mwe = The little prince also pulled up , with a certain sense of dejection , the last little shoots of the baobabs .
 # text = The little prince also pulled up , with a certain sense of dejection , the last little shoots of the baobabs .
+# mwe = The little prince also pulled up , with a certain sense of dejection , the last little shoots of the baobabs .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -221,8 +221,8 @@
 22	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.445
-# mwe = He believed that he would never want to return .
 # text = He believed that he would never want to return .
+# mwe = He believed that he would never want to return .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	believed	believe	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	believe	_	_	_	_	_	O-V
 3	that	that	SCONJ	IN	_	7	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -235,8 +235,8 @@
 10	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.446
-# mwe = But on this last morning all these familiar tasks seemed very precious to him .
 # text = But on this last morning all these familiar tasks seemed very precious to him .
+# mwe = But on this last morning all these familiar tasks seemed very precious to him .
 1	But	but	CCONJ	CC	_	10	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	on	on	ADP	IN	_	5	case	_	_	_	P	on	p.Time	p.Time	_	_	_	O-P-p.Time
 3	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	_	_	DET	this	_	_	_	_	_	O-DET
@@ -254,8 +254,8 @@
 15	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.447
-# mwe = And when he watered the flower for the last time , and prepared to place her under the shelter of her glass globe , he realised that he was very close to tears .
 # text = And when he watered the flower for the last time , and prepared to place her under the shelter of her glass globe , he realised that he was very close to tears .
+# mwe = And when he watered the flower for the last time , and prepared to place her under the shelter of her glass globe , he realised that he was very close to tears .
 1	And	and	CCONJ	CC	_	26	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	when	when	SCONJ	WRB	PronType=Int	4	mark	_	_	_	SCONJ	when	_	_	_	_	_	O-SCONJ
 3	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
@@ -292,8 +292,8 @@
 34	.	.	PUNCT	.	_	26	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.448
-# mwe = " Goodbye , " he said to the flower .
 # text = " Goodbye , " he said to the flower .
+# mwe = " Goodbye , " he said to the flower .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	6	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -306,8 +306,8 @@
 10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.449
-# mwe = But she made no answer .
 # text = But she made no answer .
+# mwe = But she made no answer .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
 3	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	make	_	_	_	_	_	O-V
@@ -316,8 +316,8 @@
 6	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.450
-# mwe = " Goodbye , " he said again .
 # text = " Goodbye , " he said again .
+# mwe = " Goodbye , " he said again .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Goodbye	Goodbye	PROPN	NNP	Number=Sing	6	ccomp	_	_	_	N	Goodbye	_	_	_	_	_	O-N
 3	,	,	PUNCT	,	_	2	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -328,16 +328,16 @@
 8	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.451
-# mwe = The flower coughed .
 # text = The flower coughed .
+# mwe = The flower coughed .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	flower	flower	NOUN	NN	Number=Sing	3	nsubj	_	_	_	N	flower	_	_	_	_	_	O-N
 3	coughed	cough	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	cough	_	_	_	_	_	O-V
 4	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.452
-# mwe = But it was not because she had a cold .
 # text = But it was not because she had a cold .
+# mwe = But it was not because she had a cold .
 1	But	but	CCONJ	CC	_	3	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -350,8 +350,8 @@
 10	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.453
-# mwe = " I have been silly , " she said to him , at_last .
 # text = " I have been silly , " she said to him , at last .
+# mwe = " I have been silly , " she said to him , at_last .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	have	have	AUX	VBP	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
@@ -369,8 +369,8 @@
 15	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.454
-# mwe = " I ask your forgiveness .
 # text = " I ask your forgiveness .
+# mwe = " I ask your forgiveness .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	ask	_	_	_	_	_	O-V
@@ -379,8 +379,8 @@
 6	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.455
-# mwe = Try to be happy ... "
 # text = Try to be happy ... "
+# mwe = Try to be happy ... "
 1	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	try	_	_	_	_	_	O-V
 2	to	to	PART	TO	_	4	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -389,8 +389,8 @@
 6	"	"	PUNCT	''	_	1	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.456
-# mwe = He was surprised by this absence of reproaches .
 # text = He was surprised by this absence of reproaches .
+# mwe = He was surprised by this absence of reproaches .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	surprised	surprise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_	_	V	surprise	_	_	_	_	_	O-V
@@ -402,8 +402,8 @@
 9	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.457
-# mwe = He stood there all bewildered , the glass globe held arrested in mid - air .
 # text = He stood there all bewildered , the glass globe held arrested in mid - air .
+# mwe = He stood there all bewildered , the glass globe held arrested in mid - air .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	stood	stand	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	stand	_	_	_	_	_	O-V
 3	there	there	ADV	RB	PronType=Dem	2	advmod	_	_	_	ADV	there	_	_	_	_	_	O-ADV
@@ -422,8 +422,8 @@
 16	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.458
-# mwe = He did not understand this quiet sweetness .
 # text = He did not understand this quiet sweetness .
+# mwe = He did not understand this quiet sweetness .
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 2	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	not	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -434,8 +434,8 @@
 8	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.459
-# mwe = " Of_course I love you , " the flower said to him .
 # text = " Of course I love you , " the flower said to him .
+# mwe = " Of_course I love you , " the flower said to him .
 1	"	"	PUNCT	``	_	11	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Of	of	ADP	IN	_	5	advmod	_	_	1:1	DISC	of course	_	_	_	_	_	B-DISC
 3	course	course	NOUN	NN	Number=Sing	2	fixed	_	_	1:2	_	_	_	_	_	_	_	I_
@@ -452,8 +452,8 @@
 14	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.460
-# mwe = " It is my fault that you have not known it all the while .
 # text = " It is my fault that you have not known it all the while .
+# mwe = " It is my fault that you have not known it all the while .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -471,8 +471,8 @@
 15	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.461
-# mwe = That is of no importance .
 # text = That is of no importance .
+# mwe = That is of no importance .
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	of	of	ADP	IN	_	5	case	_	_	_	P	of	p.Characteristic	p.Identity	_	_	_	O-P-p.Characteristic|p.Identity
@@ -481,8 +481,8 @@
 6	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.462
-# mwe = But you - - you have been just as foolish as I .
 # text = But you - - you have been just as foolish as I .
+# mwe = But you - - you have been just as foolish as I .
 1	But	but	CCONJ	CC	_	10	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 3	-	-	PUNCT	,	_	2	punct	_	_	_	PUNCT	-	_	_	_	_	_	O-PUNCT
@@ -498,8 +498,8 @@
 13	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.463
-# mwe = Try to be happy ... let the glass globe be .
 # text = Try to be happy ... let the glass globe be .
+# mwe = Try to be happy ... let the glass globe be .
 1	Try	try	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	try	_	_	_	_	_	O-V
 2	to	to	PART	TO	_	4	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -513,8 +513,8 @@
 11	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.464
-# mwe = I do n't want it any more . "
 # text = I do n't want it any more . "
+# mwe = I do n't want it any more . "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	n't	not	PART	RB	_	4	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -526,8 +526,8 @@
 9	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.465
-# mwe = " But the wind - - "
 # text = " But the wind - - "
+# mwe = " But the wind - - "
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -537,8 +537,8 @@
 7	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.466
-# mwe = " My cold is not so bad as all that ... the cool night air will do me good .
 # text = " My cold is not so bad as all that ... the cool night air will do me good .
+# mwe = " My cold is not so bad as all that ... the cool night air will do me good .
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_	_	PRON.POSS	my	p.Experiencer	p.Gestalt	_	_	_	O-PRON.POSS-p.Experiencer|p.Gestalt
 3	cold	cold	NOUN	NN	Number=Sing	7	nsubj	_	_	_	N	cold	_	_	_	_	_	O-N
@@ -561,8 +561,8 @@
 20	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.467
-# mwe = I am a flower . "
 # text = I am a flower . "
+# mwe = I am a flower . "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -571,8 +571,8 @@
 6	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.468
-# mwe = " But the animals - - "
 # text = " But the animals - - "
+# mwe = " But the animals - - "
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	4	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -582,8 +582,8 @@
 7	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.469
-# mwe = " Well , I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies .
 # text = " Well , I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies .
+# mwe = " Well , I must endure the presence of two or three caterpillars if I wish to become acquainted with the butterflies .
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Well	well	INTJ	UH	_	6	discourse	_	_	_	INTJ	well	_	_	_	_	_	O-INTJ
 3	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
@@ -609,8 +609,8 @@
 23	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.470
-# mwe = It seems that they are very beautiful .
 # text = It seems that they are very beautiful .
+# mwe = It seems that they are very beautiful .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	seem	_	_	_	_	_	O-V
 3	that	that	SCONJ	IN	_	7	mark	_	_	_	SCONJ	that	_	_	_	_	_	O-SCONJ
@@ -621,8 +621,8 @@
 8	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.471
-# mwe = And if not the butterflies - - and the caterpillars - - who will call_upon me ?
 # text = And if not the butterflies - - and the caterpillars - - who will call upon me ?
+# mwe = And if not the butterflies - - and the caterpillars - - who will call_upon me ?
 1	And	and	CCONJ	CC	_	15	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	if	if	SCONJ	IN	_	5	mark	_	_	_	SCONJ	if	_	_	_	_	_	O-SCONJ
 3	not	not	PART	RB	_	5	advmod	_	_	_	ADV	not	_	_	_	_	_	O-ADV
@@ -643,8 +643,8 @@
 18	?	?	PUNCT	.	_	15	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.472
-# mwe = You will be far_away ... as_for the large animals - - I am not at all afraid of any of them .
 # text = You will be far away ... as for the large animals - - I am not at all afraid of any of them .
+# mwe = You will be far_away ... as_for the large animals - - I am not at all afraid of any of them .
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	will	will	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	will	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -671,8 +671,8 @@
 24	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.473
-# mwe = I have my claws . "
 # text = I have my claws . "
+# mwe = I have my claws . "
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	have	_	_	_	_	_	O-V
 3	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	my	p.Whole	p.Whole	_	_	_	O-PRON.POSS-p.Whole
@@ -681,8 +681,8 @@
 6	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.474
-# mwe = And , naïvely , she showed her four thorns .
 # text = And , naïvely , she showed her four thorns .
+# mwe = And , naïvely , she showed her four thorns .
 1	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	,	,	PUNCT	,	_	6	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	naïvely	naïvely	ADV	RB	_	6	advmod	_	_	_	ADV	naïvely	_	_	_	_	_	O-ADV
@@ -695,8 +695,8 @@
 10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.475
-# mwe = Then she added : " Do n't linger like this .
 # text = Then she added : " Do n't linger like this .
+# mwe = Then she added : " Do n't linger like this .
 1	Then	then	ADV	RB	PronType=Dem	3	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
 3	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	add	_	_	_	_	_	O-V
@@ -710,8 +710,8 @@
 11	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.476
-# mwe = You have decided to go away .
 # text = You have decided to go away .
+# mwe = You have decided to go away .
 1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
 2	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 3	decided	decide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_	_	V	decide	_	_	_	_	_	O-V
@@ -721,16 +721,16 @@
 7	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.477
-# mwe = Now go ! "
 # text = Now go ! "
+# mwe = Now go ! "
 1	Now	now	ADV	RB	_	2	advmod	_	_	_	ADV	now	_	_	_	_	_	O-ADV
 2	go	go	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	go	_	_	_	_	_	O-V
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 4	"	"	PUNCT	''	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.478
-# mwe = For she did not want him to see her crying .
 # text = For she did not want him to see her crying .
+# mwe = For she did not want him to see her crying .
 1	For	for	SCONJ	IN	_	5	mark	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
 3	did	do	AUX	VBD	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -744,8 +744,8 @@
 11	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.479
-# mwe = She was such a proud flower ...
 # text = She was such a proud flower ...
+# mwe = She was such a proud flower ...
 1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_	_	PRON	she	_	_	_	_	_	O-PRON
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	such	such	DET	PDT	_	6	det:predet	_	_	_	DET	such	_	_	_	_	_	O-DET

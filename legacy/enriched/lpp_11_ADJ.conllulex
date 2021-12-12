@@ -1,14 +1,14 @@
 # newdoc id = lpp_1943_en_ch-11
 # sent_id = lpp_1943.603
-# mwe = Chapter 11 .
 # text = Chapter 11 .
+# mwe = Chapter 11 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	11	11	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	11	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.604
-# mwe = The second planet was inhabited by a conceited man .
 # text = The second planet was inhabited by a conceited man .
+# mwe = The second planet was inhabited by a conceited man .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	_	_	ADJ	second	_	_	_	_	_	O-ADJ
 3	planet	planet	NOUN	NN	Number=Sing	5	nsubj:pass	_	_	_	N	planet	_	_	_	_	_	O-N
@@ -21,21 +21,21 @@
 10	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.605
-# mwe = " Ah !
 # text = " Ah !
+# mwe = " Ah !
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 3	!	!	PUNCT	.	_	2	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.606
-# mwe = Ah !
 # text = Ah !
+# mwe = Ah !
 1	Ah	ah	INTJ	UH	_	0	root	_	_	_	INTJ	ah	_	_	_	_	_	O-INTJ
 2	!	!	PUNCT	.	_	1	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.607
-# mwe = I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
 # text = I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
+# mwe = I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
 3	about	about	ADV	RB	_	14	advmod	_	_	_	ADV	about	_	_	_	_	_	O-ADV
@@ -64,8 +64,8 @@
 26	.	.	PUNCT	.	_	14	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.608
-# mwe = For , to conceited men , all other men are admirers .
 # text = For , to conceited men , all other men are admirers .
+# mwe = For , to conceited men , all other men are admirers .
 1	For	for	ADP	IN	_	11	advmod	_	_	_	P	for	p.Explanation	p.Explanation	_	_	_	O-P-p.Explanation
 2	,	,	PUNCT	,	_	11	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	to	to	ADP	IN	_	5	case	_	_	_	P	to	p.Experiencer	p.Goal	_	_	_	O-P-p.Experiencer|p.Goal
@@ -80,8 +80,8 @@
 12	.	.	PUNCT	.	_	11	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.609
-# mwe = " Good morning , " said the little prince .
 # text = " Good morning , " said the little prince .
+# mwe = " Good morning , " said the little prince .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Good	good	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	good	_	_	_	_	_	O-ADJ
 3	morning	morning	NOUN	NN	Number=Sing	6	ccomp	_	_	_	N	morning	_	_	_	_	_	O-N
@@ -94,8 +94,8 @@
 10	.	.	PUNCT	.	_	6	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.610
-# mwe = " That is a queer hat you are wearing . "
 # text = " That is a queer hat you are wearing . "
+# mwe = " That is a queer hat you are wearing . "
 1	"	"	PUNCT	``	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	That	that	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -109,8 +109,8 @@
 11	"	"	PUNCT	''	_	6	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.611
-# mwe = " It is a hat for salutes , " the conceited man replied .
 # text = " It is a hat for salutes , " the conceited man replied .
+# mwe = " It is a hat for salutes , " the conceited man replied .
 1	"	"	PUNCT	``	_	13	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -127,8 +127,8 @@
 14	.	.	PUNCT	.	_	13	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.612
-# mwe = " It is to raise in salute when people acclaim me .
 # text = " It is to raise in salute when people acclaim me .
+# mwe = " It is to raise in salute when people acclaim me .
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_	_	V	be	_	_	_	_	_	O-V
@@ -143,8 +143,8 @@
 12	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.613
-# mwe = Unfortunately , nobody at all ever passes this way . "
 # text = Unfortunately , nobody at all ever passes this way . "
+# mwe = Unfortunately , nobody at all ever passes this way . "
 1	Unfortunately	unfortunately	ADV	RB	_	7	advmod	_	_	_	ADV	unfortunately	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	7	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	nobody	nobody	PRON	NN	Number=Sing	7	nsubj	_	_	_	PRON	nobody	_	_	_	_	_	O-PRON
@@ -158,8 +158,8 @@
 11	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.614
-# mwe = " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
 # text = " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
+# mwe = " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Yes	yes	INTJ	UH	_	5	ccomp	_	_	_	INTJ	yes	_	_	_	_	_	O-INTJ
 3	?	?	PUNCT	.	_	2	punct	_	_	_	PUNCT	?	_	_	_	_	_	O-PUNCT
@@ -183,8 +183,8 @@
 21	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.615
-# mwe = " Clap your hands , one against the other , " the conceited man now directed him .
 # text = " Clap your hands , one against the other , " the conceited man now directed him .
+# mwe = " Clap your hands , one against the other , " the conceited man now directed him .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Clap	clap	VERB	VB	Mood=Imp|VerbForm=Fin	16	ccomp	_	_	_	V	clap	_	_	_	_	_	O-V
 3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	you	p.Whole	p.Gestalt	_	_	_	O-PRON.POSS-p.Whole|p.Gestalt
@@ -205,8 +205,8 @@
 18	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.616
-# mwe = The little prince clapped his hands .
 # text = The little prince clapped his hands .
+# mwe = The little prince clapped his hands .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	little	little	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
 3	prince	prince	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	prince	_	_	_	_	_	O-N
@@ -216,8 +216,8 @@
 7	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.617
-# mwe = The conceited man raised his hat in a modest salute .
 # text = The conceited man raised his hat in a modest salute .
+# mwe = The conceited man raised his hat in a modest salute .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	conceited	conceited	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 3	man	man	NOUN	NN	Number=Sing	4	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
@@ -231,8 +231,8 @@
 11	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.618
-# mwe = " This is more entertaining than the visit to the king , " the little prince said to himself .
 # text = " This is more entertaining than the visit to the king , " the little prince said to himself .
+# mwe = " This is more entertaining than the visit to the king , " the little prince said to himself .
 1	"	"	PUNCT	``	_	17	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_	_	PRON	this	_	_	_	_	_	O-PRON
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -255,8 +255,8 @@
 20	.	.	PUNCT	.	_	17	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.619
-# mwe = And he began again to clap his hands , one against the other .
 # text = And he began again to clap his hands , one against the other .
+# mwe = And he began again to clap his hands , one against the other .
 1	And	and	CCONJ	CC	_	3	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_	_	PRON	he	_	_	_	_	_	O-PRON
 3	began	begin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_	_	V	begin	_	_	_	_	_	O-V
@@ -273,8 +273,8 @@
 14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.620
-# mwe = The conceited man against raised his hat in salute .
 # text = The conceited man against raised his hat in salute .
+# mwe = The conceited man against raised his hat in salute .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	conceited	conceited	ADJ	JJ	Degree=Pos	3	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 3	man	man	NOUN	NN	Number=Sing	5	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
@@ -287,8 +287,8 @@
 10	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.621
-# mwe = After five minutes of this exercise the little prince grew tired of the game 's monotony .
 # text = After five minutes of this exercise the little prince grew tired of the game 's monotony .
+# mwe = After five minutes of this exercise the little prince grew tired of the game 's monotony .
 1	After	after	ADP	IN	_	3	case	_	_	_	P	after	p.Time	p.Interval	_	_	_	O-P-p.Time|p.Interval
 2	five	five	NUM	CD	NumType=Card	3	nummod	_	_	_	NUM	five	_	_	_	_	_	O-NUM
 3	minutes	minute	NOUN	NNS	Number=Plur	10	obl	_	_	_	N	minute	_	_	_	_	_	O-N
@@ -308,8 +308,8 @@
 17	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.622
-# mwe = " And what should one do to make the hat come down ? " he asked .
 # text = " And what should one do to make the hat come down ? " he asked .
+# mwe = " And what should one do to make the hat come down ? " he asked .
 1	"	"	PUNCT	``	_	16	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	And	and	CCONJ	CC	_	6	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 3	what	what	PRON	WP	PronType=Int	6	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
@@ -329,8 +329,8 @@
 17	.	.	PUNCT	.	_	16	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.623
-# mwe = But the conceited man did not hear him .
 # text = But the conceited man did not hear him .
+# mwe = But the conceited man did not hear him .
 1	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	conceited	conceited	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
@@ -342,8 +342,8 @@
 9	.	.	PUNCT	.	_	7	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.624
-# mwe = Conceited people never hear anything but praise .
 # text = Conceited people never hear anything but praise .
+# mwe = Conceited people never hear anything but praise .
 1	Conceited	conceited	ADJ	JJ	Degree=Pos	2	amod	_	_	_	ADJ	conceited	_	_	_	_	_	O-ADJ
 2	people	people	NOUN	NNS	Number=Plur	4	nsubj	_	_	_	N	people	_	_	_	_	_	O-N
 3	never	never	ADV	RB	_	4	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
@@ -354,8 +354,8 @@
 8	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.625
-# mwe = " Do you really admire me very much ? " he demanded of the little prince .
 # text = " Do you really admire me very much ? " he demanded of the little prince .
+# mwe = " Do you really admire me very much ? " he demanded of the little prince .
 1	"	"	PUNCT	``	_	12	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -375,8 +375,8 @@
 17	.	.	PUNCT	.	_	12	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.626
-# mwe = " What does that mean - - ' admire ' ? "
 # text = " What does that mean - - ' admire ' ? "
+# mwe = " What does that mean - - ' admire ' ? "
 1	"	"	PUNCT	``	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	What	what	PRON	WP	PronType=Int	5	obj	_	_	_	PRON	what	_	_	_	_	_	O-PRON
 3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_	_	AUX	do	_	_	_	_	_	O-AUX
@@ -391,8 +391,8 @@
 12	"	"	PUNCT	''	_	5	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.627
-# mwe = " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
 # text = " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
+# mwe = " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
 1	"	"	PUNCT	``	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	To	to	PART	TO	_	3	mark	_	_	_	INF	to	_	_	_	_	_	O-INF
 3	admire	admire	VERB	VB	VerbForm=Inf	4	xcomp	_	_	_	V	admire	_	_	_	_	_	O-V
@@ -425,8 +425,8 @@
 30	"	"	PUNCT	''	_	4	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.628
-# mwe = " But you are the only man on your planet ! "
 # text = " But you are the only man on your planet ! "
+# mwe = " But you are the only man on your planet ! "
 1	"	"	PUNCT	``	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	But	but	CCONJ	CC	_	7	cc	_	_	_	CCONJ	but	_	_	_	_	_	O-CCONJ
 3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -441,8 +441,8 @@
 12	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.629
-# mwe = " Do me this kindness .
 # text = " Do me this kindness .
+# mwe = " Do me this kindness .
 1	"	"	PUNCT	``	_	2	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	Do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	do	_	_	_	_	_	O-V
 3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
@@ -451,8 +451,8 @@
 6	.	.	PUNCT	.	_	2	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.630
-# mwe = Admire me just the same . "
 # text = Admire me just the same . "
+# mwe = Admire me just the same . "
 1	Admire	admire	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_	_	V	admire	_	_	_	_	_	O-V
 2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	just	just	ADV	RB	_	5	advmod	_	_	_	ADV	just	_	_	_	_	_	O-ADV
@@ -462,8 +462,8 @@
 7	"	"	PUNCT	''	_	1	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.631
-# mwe = " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
 # text = " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
+# mwe = " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
 1	"	"	PUNCT	``	_	3	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_	_	PRON	I	_	_	_	_	_	O-PRON
 3	admire	admire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	_	_	V	admire	_	_	_	_	_	O-V
@@ -496,8 +496,8 @@
 30	"	"	PUNCT	''	_	7	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.632
-# mwe = And the little prince went away .
 # text = And the little prince went away .
+# mwe = And the little prince went away .
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	little	little	ADJ	JJ	Degree=Pos	4	amod	_	_	_	ADJ	little	_	_	_	_	_	O-ADJ
@@ -507,8 +507,8 @@
 7	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.633
-# mwe = " The grown_-_ups are certainly very odd , " he said to himself , as he continued on his journey .
 # text = " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
+# mwe = " The grown_-_ups are certainly very odd , " he said to himself , as he continued on his journey .
 1	"	"	PUNCT	``	_	9	punct	_	_	_	PUNCT	"	_	_	_	_	_	O-PUNCT
 2	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	_	1:1	N	grow - up	_	_	_	_	_	B-N

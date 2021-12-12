@@ -1,14 +1,14 @@
 # newdoc id = lpp_1943_en_ch-16
 # sent_id = lpp_1943.917
-# mwe = Chapter 16 .
 # text = Chapter 16 .
+# mwe = Chapter 16 .
 1	Chapter	Chapter	PROPN	NNP	Number=Sing	0	root	_	_	_	N	Chapter	_	_	_	_	_	O-N
 2	16	16	NUM	CD	NumForm=Digit|NumType=Card	1	dep	_	_	_	NUM	16	_	_	_	_	_	O-NUM
 3	.	.	PUNCT	.	_	1	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.918
-# mwe = So then the seventh planet was the Earth .
 # text = So then the seventh planet was the Earth .
+# mwe = So then the seventh planet was the Earth .
 1	So	so	ADV	RB	_	8	advmod	_	_	_	ADV	so	_	_	_	_	_	O-ADV
 2	then	then	ADV	RB	PronType=Dem	8	advmod	_	_	_	ADV	then	_	_	_	_	_	O-ADV
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -20,8 +20,8 @@
 9	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.919
-# mwe = The Earth is not just an ordinary planet !
 # text = The Earth is not just an ordinary planet !
+# mwe = The Earth is not just an ordinary planet !
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	Earth	Earth	PROPN	NNP	Number=Sing	8	nsubj	_	_	_	N	Earth	_	_	_	_	_	O-N
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -33,8 +33,8 @@
 9	!	!	PUNCT	.	_	8	punct	_	_	_	PUNCT	!	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.920
-# mwe = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown_-_ups .
 # text = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown - ups .
+# mwe = One can count , there 111 kings ( not forgetting , to be sure , the Negro kings among them ) , 7000 geographers , 900,000 businessmen , 7,500,000 tipplers , 311,000,000 conceited men - - that is to say , about 2,000,000,000 grown_-_ups .
 1	One	one	PRON	PRP	_	3	nsubj	_	_	_	PRON	one	_	_	_	_	_	O-PRON
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	can	_	_	_	_	_	O-AUX
 3	count	count	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	count	_	_	_	_	_	O-V
@@ -84,8 +84,8 @@
 47	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.921
-# mwe = To give you an idea of the size of the Earth , I will tell you that before the invention of electricity it was necessary to maintain , over the whole of the six continents , a veritable army of 462,511 lamplighters for the street lamps .
 # text = To give you an idea of the size of the Earth , I will tell you that before the invention of electricity it was necessary to maintain , over the whole of the six continents , a veritable army of 462,511 lamplighters for the street lamps .
+# mwe = To give you an idea of the size of the Earth , I will tell you that before the invention of electricity it was necessary to maintain , over the whole of the six continents , a veritable army of 462,511 lamplighters for the street lamps .
 1	To	to	PART	TO	_	2	mark	_	_	_	INF.P	to	p.Purpose	p.Purpose	_	_	_	O-INF.P-p.Purpose
 2	give	give	VERB	VB	VerbForm=Inf	15	advcl	_	_	_	V	give	_	_	_	_	_	O-V
 3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	iobj	_	_	_	PRON	you	_	_	_	_	_	O-PRON
@@ -135,8 +135,8 @@
 47	.	.	PUNCT	.	_	15	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.922
-# mwe = Seen from a slight distance , that would make a splendid spectacle .
 # text = Seen from a slight distance , that would make a splendid spectacle .
+# mwe = Seen from a slight distance , that would make a splendid spectacle .
 1	Seen	see	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	_	_	_	V	see	_	_	_	_	_	O-V
 2	from	from	ADP	IN	_	5	case	_	_	_	P	from	p.Locus	p.Source	_	_	_	O-P-p.Locus|p.Source
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_	_	DET	a	_	_	_	_	_	O-DET
@@ -152,8 +152,8 @@
 13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.923
-# mwe = The movements of this army would be regulated like those of the ballet in the opera .
 # text = The movements of this army would be regulated like those of the ballet in the opera .
+# mwe = The movements of this army would be regulated like those of the ballet in the opera .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 2	movements	movement	NOUN	NNS	Number=Plur	8	nsubj:pass	_	_	_	N	movement	_	_	_	_	_	O-N
 3	of	of	ADP	IN	_	5	case	_	_	_	P	of	p.Agent	p.Gestalt	_	_	_	O-P-p.Agent|p.Gestalt
@@ -173,8 +173,8 @@
 17	.	.	PUNCT	.	_	8	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.924
-# mwe = First would come the turn of the lamplighters of New Zealand and Australia .
 # text = First would come the turn of the lamplighters of New Zealand and Australia .
+# mwe = First would come the turn of the lamplighters of New Zealand and Australia .
 1	First	first	ADV	RB	Degree=Pos	3	advmod	_	_	_	ADV	first	_	_	_	_	_	O-ADV
 2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 3	come	come	VERB	VB	VerbForm=Inf	0	root	_	_	_	V	come	_	_	_	_	_	O-V
@@ -191,8 +191,8 @@
 14	.	.	PUNCT	.	_	3	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.925
-# mwe = Having set their lamps alight , these would go off to sleep .
 # text = Having set their lamps alight , these would go off to sleep .
+# mwe = Having set their lamps alight , these would go off to sleep .
 1	Having	have	AUX	VBG	VerbForm=Ger	2	aux	_	_	_	AUX	have	_	_	_	_	_	O-AUX
 2	set	set	VERB	VBN	Tense=Past|VerbForm=Part	9	advcl	_	_	_	V	set	_	_	_	_	_	O-V
 3	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	nmod:poss	_	_	_	PRON.POSS	they	p.Possessor	p.Possessor	_	_	_	O-PRON.POSS-p.Possessor
@@ -208,8 +208,8 @@
 13	.	.	PUNCT	.	_	9	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.926
-# mwe = Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
 # text = Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
+# mwe = Next , the lamplighters of China and Siberia would enter for their steps in the dance , and then they too would be waved back into the wings .
 1	Next	next	ADV	RB	_	10	advmod	_	_	_	ADV	next	_	_	_	_	_	O-ADV
 2	,	,	PUNCT	,	_	10	punct	_	_	_	PUNCT	,	_	_	_	_	_	O-PUNCT
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_	_	DET	the	_	_	_	_	_	O-DET
@@ -241,8 +241,8 @@
 29	.	.	PUNCT	.	_	10	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.927
-# mwe = After that would come the turn of the lamplighters of Russia and the Indies ; then those of Africa and Europe , then those of South America ; then those of South America ; then those of North America .
 # text = After that would come the turn of the lamplighters of Russia and the Indies ; then those of Africa and Europe , then those of South America ; then those of South America ; then those of North America .
+# mwe = After that would come the turn of the lamplighters of Russia and the Indies ; then those of Africa and Europe , then those of South America ; then those of South America ; then those of North America .
 1	After	after	SCONJ	IN	_	4	mark	_	_	_	P	after	p.Time	p.Time	_	_	_	O-P-p.Time
 2	that	that	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_	_	PRON	that	_	_	_	_	_	O-PRON
 3	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
@@ -285,8 +285,8 @@
 40	.	.	PUNCT	.	_	30	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.928
-# mwe = And never would they make a mistake in the order of their entry upon the stage .
 # text = And never would they make a mistake in the order of their entry upon the stage .
+# mwe = And never would they make a mistake in the order of their entry upon the stage .
 1	And	and	CCONJ	CC	_	5	cc	_	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
 2	never	never	ADV	RB	_	5	advmod	_	_	_	ADV	never	_	_	_	_	_	O-ADV
 3	would	would	AUX	MD	VerbForm=Fin	5	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
@@ -306,8 +306,8 @@
 17	.	.	PUNCT	.	_	5	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.929
-# mwe = It would be magnificent .
 # text = It would be magnificent .
+# mwe = It would be magnificent .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_	_	PRON	it	_	_	_	_	_	O-PRON
 2	would	would	AUX	MD	VerbForm=Fin	4	aux	_	_	_	AUX	would	_	_	_	_	_	O-AUX
 3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	_	_	AUX	be	_	_	_	_	_	O-AUX
@@ -315,8 +315,8 @@
 5	.	.	PUNCT	.	_	4	punct	_	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
 # sent_id = lpp_1943.930
-# mwe = Only the man who was in charge of the single lamp at the North Pole , and his colleague who was responsible for the single lamp at the South Pole - - only these two would live free from toil and care : they would be busy twice a year .
 # text = Only the man who was in charge of the single lamp at the North Pole , and his colleague who was responsible for the single lamp at the South Pole - - only these two would live free from toil and care : they would be busy twice a year .
+# mwe = Only the man who was in charge of the single lamp at the North Pole , and his colleague who was responsible for the single lamp at the South Pole - - only these two would live free from toil and care : they would be busy twice a year .
 1	Only	only	ADV	RB	_	3	advmod	_	_	_	ADV	only	_	_	_	_	_	O-ADV
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_	_	DET	the	_	_	_	_	_	O-DET
 3	man	man	NOUN	NN	Number=Sing	37	nsubj	_	_	_	N	man	_	_	_	_	_	O-N
