@@ -10,4 +10,4 @@ Notes about the data:
 - Sentence IDs are borrowed from the [AMR release](https://amr.isi.edu/download.html)
 - The `# text = ...` field is derived from tokens and does not reflect original whitespace
 - Chapters 1, 4, and 5 are currently missing (they were annotated as a pilot under an earlier version of the SNACS annotation scheme)
-- Syntactic parses are from Stanza version __
+- Syntactic parses, POS tags, morphological features, and lemmas are from Stanza version 1.3.0
