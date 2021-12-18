@@ -9,5 +9,5 @@ JSON-converted data files are included for easy programmatic access.
 Notes about the data:
 - Sentence IDs are borrowed from the [AMR release](https://amr.isi.edu/download.html)
 - The `# text = ...` field is derived from tokens and does not reflect original whitespace
-- Chapters 1, 4, and 5 are currently missing (they were annotated as a pilot under an earlier version of the SNACS anntoation scheme)
+- Chapters 1, 4, and 5 are currently missing (they were annotated as a pilot under an earlier version of the SNACS annotation scheme)
 - Syntactic parses are from Stanza version __
