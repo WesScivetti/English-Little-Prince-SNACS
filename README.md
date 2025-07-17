@@ -18,12 +18,12 @@ Notes about the data:
 
 # Changelog
 
-- ** Version 1.0**: 
+- **Version 1.0**: 
     - Updated parses with latest version of Stanza (1.10.1)
     - Added Chapters 1,4 and 5 with gold SNACS annotations
     - Updated all chapters to SNACS guidelines v2.6
     - Corrected some gold MWE spans from all chapters
 
-- ** Version 0.9**:
+- **Version 0.9**:
     - Release all LPP chapters except 1,4 and 5
     - SNACS guidelines v2.5s
