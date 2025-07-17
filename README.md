@@ -28,5 +28,6 @@ Notes about the data:
     - Moved older files into legacy folder
 
 - **Version 0.9**:
-    - Release all LPP chapters except 1,4 and 5
-    - SNACS guidelines v2.5s
+    - Release all LPP chapters except 1,4 and 5 in latest version (SNACS v2.5)
+    - Included latest file with chapters 1,4 and 5 (prince_en_1_4_5.conllulex) in earlier SNACS version.
+    - Moved older files to legacy folder
