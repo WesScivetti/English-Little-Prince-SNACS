@@ -23,6 +23,9 @@ Notes about the data:
     - Added Chapters 1,4 and 5 with gold SNACS annotations
     - Updated all chapters to SNACS guidelines v2.6
     - Corrected some gold MWE spans from all chapters
+    - Added latest conllulex file (en_lpp_full.conllulex)
+    - Added latest json file with govobj annotations (en_lpp_full_govobj.json)
+    - Moved older files into legacy folder
 
 - **Version 0.9**:
     - Release all LPP chapters except 1,4 and 5
