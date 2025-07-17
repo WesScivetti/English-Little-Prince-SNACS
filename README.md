@@ -11,3 +11,16 @@ Notes about the data:
 - older versions of the data can be found in the legacy folder
 - The `# text = ...` field is derived from tokens and does not reflect original whitespace
 - Syntactic parses, POS tags, morphological features, and lemmas are from Stanza version 1.10.1
+
+
+# Changelog
+
+- ** Version 1.0**: 
+    - Updated parses with latest version of Stanza (1.10.1)
+    - Added Chapters 1,4 and 5 with gold SNACS annotations
+    - Updated all chapters to SNACS guidelines v2.6
+    - Corrected some gold MWE spans from all chapters
+
+- ** Version 0.9**:
+    - Release all LPP chapters except 1,4 and 5
+    - SNACS guidelines v2.5s
