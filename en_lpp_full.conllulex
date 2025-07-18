@@ -732,6 +732,27 @@
 16	neckties	necktie	NOUN	NNS	Number=Plur	7	conj	3:obl:about|7:conj:and	_	_	N	necktie	_	_	_	_	_	O-N
 17	.	.	PUNCT	.	_	3	punct	3:punct	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
 
+# sent_id = lpp_1943.35
+# mwe = And the grown_-_up would be greatly pleased to have met such a sensible man .
+# text = And the grown - up would be greatly pleased to have met such a sensible man .
+1	And	and	CCONJ	CC	_	9	cc	9:cc	_	_	CCONJ	and	_	_	_	_	_	O-CCONJ
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_	_	DET	the	_	_	_	_	_	O-DET
+3	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	amod	5:amod	_	1:1	N	grow - up	_	_	_	_	_	B-N
+4	-	-	PUNCT	HYPH	_	3	punct	3:punct	_	1:2	_	_	_	_	_	_	_	I_
+5	up	up	NOUN	NN	Number=Sing	9	nsubj	9:nsubj|12:nsubj:xsubj	_	1:3	_	_	_	_	_	_	_	I_
+6	would	would	AUX	MD	VerbForm=Fin	9	aux	9:aux	_	_	AUX	would	_	_	_	_	_	O-AUX
+7	be	be	AUX	VB	VerbForm=Inf	9	cop	9:cop	_	_	AUX	be	_	_	_	_	_	O-AUX
+8	greatly	greatly	ADV	RB	_	9	advmod	9:advmod	_	_	ADV	greatly	_	_	_	_	_	O-ADV
+9	pleased	pleased	ADJ	JJ	Degree=Pos	0	root	0:root	_	_	ADJ	pleased	_	_	_	_	_	O-ADJ
+10	to	to	PART	TO	_	12	mark	12:mark	_	_	INF	to	_	_	_	_	_	O-INF
+11	have	have	AUX	VB	VerbForm=Inf	12	aux	12:aux	_	_	AUX	have	_	_	_	_	_	O-AUX
+12	met	meet	VERB	VBN	Tense=Past|VerbForm=Part	9	xcomp	9:xcomp	_	_	V	meet	_	_	_	_	_	O-V
+13	such	such	DET	PDT	PronType=Ind	16	det:predet	16:det:predet	_	_	DET	such	_	_	_	_	_	O-DET
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	_	_	DET	a	_	_	_	_	_	O-DET
+15	sensible	sensible	ADJ	JJ	Degree=Pos	16	amod	16:amod	_	_	ADJ	sensible	_	_	_	_	_	O-ADJ
+16	man	man	NOUN	NN	Number=Sing	12	obj	12:obj	_	_	N	man	_	_	_	_	_	O-N
+17	.	.	PUNCT	.	_	9	punct	9:punct	_	_	PUNCT	.	_	_	_	_	_	O-PUNCT
+
 # sent_id = lpp_1943.36
 # mwe = Chapter 2 .
 # text = Chapter 2 .
