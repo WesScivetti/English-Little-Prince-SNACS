@@ -16,8 +16,6 @@ Notes about the data:
 - older versions of the data can be found in the legacy folder
 - The `# text = ...` field is derived from tokens and does not reflect original whitespace
 - Syntactic parses, POS tags, morphological features, and lemmas are from Stanza version 1.10.1
-- One sentence (Sentence 35) was removed from earlier versions of the raw data. The new token count (21381) reflects its inclusion. LPP token count on Xposition may be slightly off based on this sentence's exclusion. No SNACS targets were present in the sentence, and so usages andn frequencies of all adpositions are unchanged.
-
 
 # Changelog
 
@@ -29,6 +27,8 @@ Notes about the data:
     - Added latest conllulex file (en_lpp_full.conllulex)
     - Added latest json file with govobj annotations (en_lpp_full_govobj.json)
     - Moved older files into legacy folder
+    - In earlier versions of the raw data, the last sentence of Chapter 1 (Sentence 35) was inadvertently omitted. It is now included and reflected in the new token count (21381).
+       * No SNACS targets were present in the sentence, so it should have no effect on supersense statistics. However, the overall token count for the LPP corpus on Xposition may need to be updated to account for this sentence.
 
 - **Version 0.9** (2021-12-12):
     - Release all LPP chapters except 1, 4, and 5 in latest version (SNACS v2.5)
