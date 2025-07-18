@@ -4,7 +4,7 @@ _The Little Prince_ in English hand-annotated with prepositional supersenses ([S
 
 _Le Petit Prince_ by Antoine de Saint-Exupéry was originally translated into English in 1943 by Katherine Woods. Our dataset uses this translation and follows the sentence segmentation of the [AMR project](https://github.com/flipz357/AMR-World/tree/main/data/reference_amrs).
 
-The text consists of 21,364 words, 1,562 sentences, and 27 chapters.
+The text consists of 21,381 words, 1,562 sentences, and 27 chapters.
 
 Each sentence is annotated with: syntactic parses (Universal Dependencies); multiword expressions involving prepositions/possessives; and supersense labels for prepositional/possessive expressions. The syntactic parses are automatic, produced by the Stanza parser (a few were hand-corrected).
 
@@ -17,7 +17,6 @@ Notes about the data:
 - The `# text = ...` field is derived from tokens and does not reflect original whitespace
 - Syntactic parses, POS tags, morphological features, and lemmas are from Stanza version 1.10.1
 
-
 # Changelog
 
 - **Version 1.0** (2025-07-17): 
@@ -28,6 +27,8 @@ Notes about the data:
     - Added latest conllulex file (en_lpp_full.conllulex)
     - Added latest json file with govobj annotations (en_lpp_full_govobj.json)
     - Moved older files into legacy folder
+    - In earlier versions of the raw data, the last sentence of Chapter 1 (Sentence 35) was inadvertently omitted. It is now included and reflected in the new token count (21381).
+       * The sentence has no SNACS targets, so its addition has no effect on supersense statistics. However, the overall token count for the LPP corpus on Xposition may need to be updated to account for this sentence.
 
 - **Version 0.9** (2021-12-12):
     - Release all LPP chapters except 1, 4, and 5 in latest version (SNACS v2.5)
