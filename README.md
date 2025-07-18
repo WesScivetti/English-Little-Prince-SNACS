@@ -28,7 +28,7 @@ Notes about the data:
     - Added latest json file with govobj annotations (en_lpp_full_govobj.json)
     - Moved older files into legacy folder
     - In earlier versions of the raw data, the last sentence of Chapter 1 (Sentence 35) was inadvertently omitted. It is now included and reflected in the new token count (21381).
-       * No SNACS targets were present in the sentence, so it should have no effect on supersense statistics. However, the overall token count for the LPP corpus on Xposition may need to be updated to account for this sentence.
+       * The sentence has no SNACS targets, so its addition has no effect on supersense statistics. However, the overall token count for the LPP corpus on Xposition may need to be updated to account for this sentence.
 
 - **Version 0.9** (2021-12-12):
     - Release all LPP chapters except 1, 4, and 5 in latest version (SNACS v2.5)
